@@ -6,11 +6,16 @@ feed = feedparser.parse(tistory_blog_uri+"/rss")
 MAX_POST_NUM = 10
 
 markdown_text = """## Hello World! 🖐
+
 📬 Contact Email : star7sss@naver.com
+
 👨‍💻 Tech Blog : https://star7sss.tistory.com
+
 🤪 Daily Blog : https://blog.naver.com/star7sss
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=jangThang&show_icons=true&hide_border=False)](https://star7sss.tistory.com)
-## Recent blog posts
+
+## :pencil2: [Recent blog posts] :pencil2:
 """ # list of blog posts will be appended here
 
 
