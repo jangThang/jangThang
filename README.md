@@ -8,7 +8,7 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jangThang&show_icons=true&hide_border=False)](https://star7sss.tistory.com)
 
-## :pencil2: [Recent blog posts] :pencil2:
+## 📋 [Recent blog posts]
 [[구현/수학] 백준 13458 시험 감독](https://star7sss.tistory.com/20) - Jan 19, 2022<br>
 [[Algorithm] 단골 1번 문제, 구현 / 수학](https://star7sss.tistory.com/19) - Jan 19, 2022<br>
 [[Brute Force] 백준 1182. 부분수열의 합 - Python](https://star7sss.tistory.com/18) - Jan 18, 2022<br>
