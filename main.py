@@ -15,7 +15,7 @@ markdown_text = """## Hello World! 🖐
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jangThang&show_icons=true&hide_border=False)](https://star7sss.tistory.com)
 
-## :pencil2: [Recent blog posts] :pencil2:
+## 📋 [Recent blog posts]
 """ # list of blog posts will be appended here
 
 
