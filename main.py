@@ -15,7 +15,7 @@ markdown_text = """## Hello World! 🖐
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jangThang&show_icons=true&hide_border=False)](https://star7sss.tistory.com)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss">
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
 """ # list of blog posts will be appended here
