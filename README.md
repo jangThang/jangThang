@@ -8,6 +8,8 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jangThang&show_icons=true&hide_border=False)](https://star7sss.tistory.com)
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss">
+
 ## 📋 [Recent blog posts]
 [[구현/수학] 백준 2744 대소문자 바꾸기 - Python](https://star7sss.tistory.com/99) - Feb 06, 2022<br>
 [[구현/수학] 백준 7567 그릇 - Python](https://star7sss.tistory.com/98) - Feb 06, 2022<br>
