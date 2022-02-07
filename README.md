@@ -11,13 +11,13 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
-[[구현/수학] 백준 2744 대소문자 바꾸기 - Python](https://star7sss.tistory.com/99) - Feb 06, 2022<br>
-[[구현/수학] 백준 7567 그릇 - Python](https://star7sss.tistory.com/98) - Feb 06, 2022<br>
-[[구현/수학] 백준 10988 팰린드롬인지 확인하기 - Python](https://star7sss.tistory.com/97) - Feb 06, 2022<br>
-[[구현/수학] 백준 2476 주사위 게임 - Python](https://star7sss.tistory.com/96) - Feb 05, 2022<br>
-[[구현/수학] 백준 10807 개수 세기 - Python](https://star7sss.tistory.com/95) - Feb 05, 2022<br>
-[[구현/수학] 백준 5717 상근이의 친구들 - Python](https://star7sss.tistory.com/94) - Feb 05, 2022<br>
-[[구현/수학] 백준 5988 홀수일까 짝수일까 - Python](https://star7sss.tistory.com/93) - Feb 05, 2022<br>
-[[구현/수학] 백준 10103 주사위 게임 - Python](https://star7sss.tistory.com/92) - Feb 05, 2022<br>
-[[구현/수학] 백준 9325 얼마? - Python](https://star7sss.tistory.com/91) - Feb 05, 2022<br>
-[[구현/수학] 백준 9625 BABBA - Python](https://star7sss.tistory.com/90) - Feb 05, 2022<br>
+[[구현/정렬] 백준 10814 나이순 정렬 - Python](https://star7sss.tistory.com/116) - Feb 07, 2022<br>
+[[구현] 백준 1259 팰린드롬수 - Python](https://star7sss.tistory.com/115) - Feb 07, 2022<br>
+[[구현/수학] 백준 2738 행렬 덧셈 - Python](https://star7sss.tistory.com/114) - Feb 07, 2022<br>
+[[구현/수학] 백준 1453 피시방 알바 - Python](https://star7sss.tistory.com/113) - Feb 07, 2022<br>
+[[구현/수학] 백준 5635 생일 - Python](https://star7sss.tistory.com/112) - Feb 07, 2022<br>
+[[구현/수학] 백준 10822 더하기 - Python](https://star7sss.tistory.com/111) - Feb 07, 2022<br>
+[[구현/수학] 백준 9295 주사위 - Python](https://star7sss.tistory.com/110) - Feb 06, 2022<br>
+[[구현/수학] 백준 11948 과목선택 - Python](https://star7sss.tistory.com/109) - Feb 06, 2022<br>
+[[구현/수학] 백준 1568 새 - Python](https://star7sss.tistory.com/108) - Feb 06, 2022<br>
+[[구현/수학] 백준 10801 카드게임 - Python](https://star7sss.tistory.com/107) - Feb 06, 2022<br>
