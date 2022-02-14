@@ -10,9 +10,6 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
-![jangThang](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{jangThang})
-![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{jangThang}/{part})
-
 ## 📋 [Recent blog posts]
 [[자료구조/해시] 백준 1764 듣보잡 - Python](https://star7sss.tistory.com/169) - Feb 15, 2022<br>
 [[Algorithm] 알고리즘 유형 길라잡이](https://star7sss.tistory.com/168) - Feb 14, 2022<br>
