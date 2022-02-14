@@ -17,6 +17,9 @@ markdown_text = """## Hello World! 🖐
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
+![jangThang](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{jangThang})
+![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{jangThang}/{part})
+
 ## 📋 [Recent blog posts]
 """ # list of blog posts will be appended here
 
