@@ -11,14 +11,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현] 백준 13752 히스토그램 - Python](https://star7sss.tistory.com/217) - Feb 25, 2022<br>
+[[구현/수학] 백준 1009 분산처리 - Python](https://star7sss.tistory.com/216) - Feb 25, 2022<br>
+[[구현/수학] 백준 2566 최댓값 - Python](https://star7sss.tistory.com/215) - Feb 25, 2022<br>
+[[구현] 백준 24262 알고리즘 수업 - 알고리즘의 수행 시간 1 - Python](https://star7sss.tistory.com/214) - Feb 25, 2022<br>
+[[구현/수학] 백준 11282 한글 - Python](https://star7sss.tistory.com/213) - Feb 25, 2022<br>
+[[구현/수학] 백준 11283 한글 2 - Python](https://star7sss.tistory.com/212) - Feb 25, 2022<br>
+[[분할정복/DQ] 백준 1074 Z - Python](https://star7sss.tistory.com/211) - Feb 25, 2022<br>
+[[탐색/BFS] 백준 7576 토마토 - Python](https://star7sss.tistory.com/210) - Feb 24, 2022<br>
 [[탐색/BFS] 백준 1697 숨바꼭질 - Python](https://star7sss.tistory.com/209) - Feb 24, 2022<br>
 [[탐색/BFS] 백준 1012 유기농 배추 - Python](https://star7sss.tistory.com/208) - Feb 23, 2022<br>
 [[탐색/DFS] 백준 11724 연결 요소의 개수 - Python](https://star7sss.tistory.com/207) - Feb 23, 2022<br>
-[[Algorithm] 깊이 우선 탐색(DFS), 끝까지 찾고 넘어가자](https://star7sss.tistory.com/206) - Feb 23, 2022<br>
-[[탐색/BFS] 백준 2606 바이러스 - Python](https://star7sss.tistory.com/205) - Feb 23, 2022<br>
-[[Algorithm] 너비 우선 탐색(BFS), 가까운 주변부터 찾자](https://star7sss.tistory.com/204) - Feb 23, 2022<br>
-[[정렬/탐색] 백준 18870 좌표 압축 - Python](https://star7sss.tistory.com/203) - Feb 22, 2022<br>
-[[구현/문자열] 백준 5525 IOIOI - Python](https://star7sss.tistory.com/202) - Feb 22, 2022<br>
-[[동적계획법/DP] 백준 2579 계단 오르기 - Python](https://star7sss.tistory.com/201) - Feb 22, 2022<br>
-[[동적계획법/DP] 백준 17626 Four Squares - Python](https://star7sss.tistory.com/200) - Feb 22, 2022<br>
-[[구현/수학] 백준 1475 방 번호 - Python](https://star7sss.tistory.com/196) - Feb 21, 2022<br>
