@@ -11,14 +11,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
-[[탐색/BFS] 백준 16928 뱀과 사다리 게임 - Python](https://star7sss.tistory.com/229) - Feb 26, 2022<br>
-[[탐색/BFS] 백준 2667 단지번호붙이기 - Python](https://star7sss.tistory.com/228) - Feb 26, 2022<br>
-[[동적계획법/DP] 백준 9461 파도반 수열 - Python](https://star7sss.tistory.com/227) - Feb 26, 2022<br>
-[[탐색/BFS] 백준 2178 미로 탐색 - Python](https://star7sss.tistory.com/226) - Feb 26, 2022<br>
-[[구현/수학] 백준 18312 시각 - Python](https://star7sss.tistory.com/225) - Feb 26, 2022<br>
-[[구현/수학] 백준 6764 Sounds fishy! - Python](https://star7sss.tistory.com/224) - Feb 25, 2022<br>
-[[구현/수학] 백준 2985 세 수 - Python](https://star7sss.tistory.com/223) - Feb 25, 2022<br>
-[[구현/수학] 백준 14623 감정이입 - Python](https://star7sss.tistory.com/222) - Feb 25, 2022<br>
-[[구현] 백준 11549 Identifying tea - Python](https://star7sss.tistory.com/221) - Feb 25, 2022<br>
-[[구현/수학] 백준 5893 17배 - Python](https://star7sss.tistory.com/220) - Feb 25, 2022<br>
-[[구현] 백준 1371 가장 많은 글자 - Python](https://star7sss.tistory.com/219) - Feb 25, 2022<br>
+[[구현/수학] 백준 15726 이칙연산 - Python](https://star7sss.tistory.com/236) - Feb 27, 2022<br>
+[[Reinforcement Learning] 길라잡이](https://star7sss.tistory.com/pages/reinforcementLearning) - Feb 27, 2022<br>
+[[Deep Learning] 길라잡이](https://star7sss.tistory.com/pages/deepLearning) - Feb 27, 2022<br>
+[[Machine Learning] 길라잡이](https://star7sss.tistory.com/pages/machineLearning) - Feb 27, 2022<br>
+[[Data Visualization] 길라잡이](https://star7sss.tistory.com/pages/dataVisualization) - Feb 27, 2022<br>
+[[Data Engineering] 길라잡이](https://star7sss.tistory.com/pages/dataEngineering) - Feb 27, 2022<br>
+[[Tag] 길라잡이](https://star7sss.tistory.com/pages/tag) - Feb 27, 2022<br>
+[[Algorithm] 길라잡이](https://star7sss.tistory.com/pages/algorithm) - Feb 27, 2022<br>
+[[구현/수학] 백준 16431 베시와 데이지 - Python](https://star7sss.tistory.com/231) - Feb 27, 2022<br>
+[[구현/수학] 백준 16428 A/B - 3 - Python](https://star7sss.tistory.com/233) - Feb 27, 2022<br>
+[[구현/수학] 백준 14935 FA - Python](https://star7sss.tistory.com/232) - Feb 27, 2022<br>
