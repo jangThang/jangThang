@@ -11,14 +11,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/문자열] 백준 1225 이상한 곱셈 - 파이썬(Python)](https://star7sss.tistory.com/257) - Mar 01, 2022<br>
+[[구현/문자열] 백준 10102 개표 - 파이썬(Python)](https://star7sss.tistory.com/256) - Mar 01, 2022<br>
+[[구현/문자열] 백준 10821 정수의 개수 - 파이썬(Python)](https://star7sss.tistory.com/255) - Mar 01, 2022<br>
+[[구현/문자열] 백준 11365 !밀비 급일 - 파이썬(python)](https://star7sss.tistory.com/254) - Mar 01, 2022<br>
+[[구현/수학] 백준 2935 소음 - 파이썬(Python)](https://star7sss.tistory.com/253) - Mar 01, 2022<br>
+[[구현/문자열] 백준 1159 농구 경기 - 파이썬(Python)](https://star7sss.tistory.com/252) - Mar 01, 2022<br>
+[[구현/수학] 백준 1357 뒤집힌 덧셈 - Python](https://star7sss.tistory.com/251) - Feb 28, 2022<br>
+[[구현/문자열] 백준 1032 명령 프롬프트 - Python](https://star7sss.tistory.com/250) - Feb 28, 2022<br>
+[[구현/수학] 백준 9093 단어 뒤집기 - Python](https://star7sss.tistory.com/249) - Feb 28, 2022<br>
+[[DP/동적계획법] 백준 12852 1로 만들기 2 - Python](https://star7sss.tistory.com/248) - Feb 28, 2022<br>
 [[정렬/탐색] 백준 11004 K번째 수 - Python](https://star7sss.tistory.com/247) - Feb 28, 2022<br>
-[[탐색/플로이드] 백준 1389 케빈 베이컨의 6단계 법칙 - Python](https://star7sss.tistory.com/246) - Feb 28, 2022<br>
-[[탐색/플로이드] 백준 11403 경로 찾기 - Python](https://star7sss.tistory.com/245) - Feb 28, 2022<br>
-[[Algorithm] 플로이드-와샬, 모든 쌍의 최적경로 구하기](https://star7sss.tistory.com/244) - Feb 28, 2022<br>
-[[그리디/수학] 백준 10610번 30 - Python](https://star7sss.tistory.com/243) - Feb 28, 2022<br>
-[[구현/수학] 백준 15080 Every Second Counts - Python](https://star7sss.tistory.com/242) - Feb 28, 2022<br>
-[[구현/수학] 백준 15726 이칙연산 - Python](https://star7sss.tistory.com/236) - Feb 27, 2022<br>
-[[Reinforcement Learning] 길라잡이](https://star7sss.tistory.com/pages/reinforcementLearning) - Feb 27, 2022<br>
-[[Deep Learning] 길라잡이](https://star7sss.tistory.com/pages/deepLearning) - Feb 27, 2022<br>
-[[Machine Learning] 길라잡이](https://star7sss.tistory.com/pages/machineLearning) - Feb 27, 2022<br>
-[[Data Visualization] 길라잡이](https://star7sss.tistory.com/pages/dataVisualization) - Feb 27, 2022<br>
