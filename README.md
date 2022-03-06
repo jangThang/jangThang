@@ -11,14 +11,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[SQL] 특정 칼럼으로 묶기 Group by - 오라클(Oracle)](https://star7sss.tistory.com/276) - Mar 06, 2022<br>
+[[문자열/Brute Force] 백준 1969 DNA - 파이썬(Python)](https://star7sss.tistory.com/275) - Mar 06, 2022<br>
+[[구현/수학] 백준 14490 백대열 - 파이썬(Python)](https://star7sss.tistory.com/274) - Mar 05, 2022<br>
+[[SQL] 상위 n개 레코드 출력하기 - 오라클(Oracle), MySQL](https://star7sss.tistory.com/273) - Mar 05, 2022<br>
+[[구현/수학] 백준 1267 핸드폰 요금 - 파이썬(Python)](https://star7sss.tistory.com/271) - Mar 05, 2022<br>
 [[구현/수학] 백준 3053 택시 기하학 - 파이썬(Python)](https://star7sss.tistory.com/270) - Mar 05, 2022<br>
 [[구현/수학] 백준 11098 첼시를 도와줘! - 파이썬(Python)](https://star7sss.tistory.com/269) - Mar 04, 2022<br>
-[[탐색/BFS] 백준 토마토 7569 - 파이썬(Python)](https://star7sss.tistory.com/268) - Mar 04, 2022<br>
+[[탐색/BFS] 백준 7569 토마토 - 파이썬(Python)](https://star7sss.tistory.com/268) - Mar 04, 2022<br>
 [[구현/수학] 백준 6064 카잉 달력 - 파이썬(Python)](https://star7sss.tistory.com/267) - Mar 04, 2022<br>
 [[자료구조/해시] 백준 4358 생태학 - 파이썬(Python)](https://star7sss.tistory.com/266) - Mar 04, 2022<br>
 [[구현/수학] 백준 2355 시그마 - 파이썬(Python)](https://star7sss.tistory.com/265) - Mar 03, 2022<br>
-[[구현/문자열] 백준 18406 럭키 스트레이트 - 파이썬(Python)](https://star7sss.tistory.com/264) - Mar 03, 2022<br>
-[[구현/문자열] 백준 17609 회문 - 파이썬(Python)](https://star7sss.tistory.com/263) - Mar 02, 2022<br>
-[[구현/문자열] 백준 1254 팰린드롭 만들기 - 파이썬(Python)](https://star7sss.tistory.com/262) - Mar 02, 2022<br>
-[[구현/문자열] 백준 1919 애너그램 만들기 - 파이썬(Python)](https://star7sss.tistory.com/261) - Mar 01, 2022<br>
-[[구현/문자열] 백준 1264 모음의 개수 - Python](https://star7sss.tistory.com/260) - Mar 01, 2022<br>
