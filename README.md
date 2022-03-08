@@ -11,6 +11,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/문자열] 백준 5598 카이사르 암호 - 파이썬(Python)](https://star7sss.tistory.com/281) - Mar 08, 2022<br>
+[[SQL] DISTINCT 중복 제거하기 - 오라클(Oracle)](https://star7sss.tistory.com/280) - Mar 08, 2022<br>
 [[분할정복/DQ] 백준 1992 쿼드트리 - 파이썬(Python)](https://star7sss.tistory.com/279) - Mar 07, 2022<br>
 [[SQL] Having 그룹핑 조건 설정하기 - 오라클(Oracle)](https://star7sss.tistory.com/278) - Mar 07, 2022<br>
 [[구현/문자열] 백준 2857 FBI - 파이썬(Python)](https://star7sss.tistory.com/277) - Mar 06, 2022<br>
@@ -20,5 +22,3 @@
 [[SQL] 상위 n개 레코드 출력하기 - 오라클(Oracle), MySQL](https://star7sss.tistory.com/273) - Mar 05, 2022<br>
 [[구현/수학] 백준 1267 핸드폰 요금 - 파이썬(Python)](https://star7sss.tistory.com/271) - Mar 05, 2022<br>
 [[구현/수학] 백준 3053 택시 기하학 - 파이썬(Python)](https://star7sss.tistory.com/270) - Mar 05, 2022<br>
-[[구현/수학] 백준 11098 첼시를 도와줘! - 파이썬(Python)](https://star7sss.tistory.com/269) - Mar 04, 2022<br>
-[[탐색/BFS] 백준 7569 토마토 - 파이썬(Python)](https://star7sss.tistory.com/268) - Mar 04, 2022<br>
