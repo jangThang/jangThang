@@ -11,6 +11,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[탐색/BFS] 백준 10026 적록색약 - 파이썬(Python)](https://star7sss.tistory.com/284) - Mar 10, 2022<br>
 [[SQL] 문자열 변환함수 To_Char()와 형식(Format) - 오라클(Oracle)](https://star7sss.tistory.com/283) - Mar 09, 2022<br>
 [[구현/문자열] 백준 1652 누울 자리를 찾아라 - Python](https://star7sss.tistory.com/282) - Mar 09, 2022<br>
 [[구현/문자열] 백준 5598 카이사르 암호 - 파이썬(Python)](https://star7sss.tistory.com/281) - Mar 08, 2022<br>
@@ -21,4 +22,3 @@
 [[SQL] 특정 칼럼으로 묶기 Group by - 오라클(Oracle)](https://star7sss.tistory.com/276) - Mar 06, 2022<br>
 [[문자열/Brute Force] 백준 1969 DNA - 파이썬(Python)](https://star7sss.tistory.com/275) - Mar 06, 2022<br>
 [[구현/수학] 백준 14490 백대열 - 파이썬(Python)](https://star7sss.tistory.com/274) - Mar 05, 2022<br>
-[[SQL] 상위 n개 레코드 출력하기 - 오라클(Oracle), MySQL](https://star7sss.tistory.com/273) - Mar 05, 2022<br>
