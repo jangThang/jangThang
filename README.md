@@ -11,6 +11,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Algorithm] 백트래킹(Backtracking): 안될 싹은 미리미리 가지치기](https://star7sss.tistory.com/352) - Mar 20, 2022<br>
+[[탐색/Brute Force] 백준 1107 리모컨 - 파이썬(Python)](https://star7sss.tistory.com/294) - Mar 20, 2022<br>
 [[탐색/BFS] 백준 9019 DSLR - 파이썬(Python)](https://star7sss.tistory.com/293) - Mar 19, 2022<br>
 [[구현/문자열] 백준 2495 연속구간 - 파이썬(Python)](https://star7sss.tistory.com/292) - Mar 18, 2022<br>
 [[AI/인공지능] 인공지능이란? AI산업의 전망과 현실](https://star7sss.tistory.com/345) - Mar 17, 2022<br>
@@ -20,5 +22,3 @@
 [[구현/그리디] 백준 2810 컵홀더 - 파이썬(Python)](https://star7sss.tistory.com/290) - Mar 16, 2022<br>
 [[Project] SNUT RoadSign: SeoulTech 길찾기 프로그램](https://star7sss.tistory.com/331) - Mar 16, 2022<br>
 [[Project] Seoultech Explore: 모교 홍보를 위한 웹 게임(퀴즈)](https://star7sss.tistory.com/330) - Mar 15, 2022<br>
-[[구현/문자열] 백준 15904 UCPC는 무엇의 약자일까? - 파이썬(Python)](https://star7sss.tistory.com/289) - Mar 15, 2022<br>
-[[탐색/구현] 백준 14500 테트로미노 - 파이썬(Python)](https://star7sss.tistory.com/288) - Mar 14, 2022<br>
