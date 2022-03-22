@@ -11,6 +11,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Algorithm] 다익스트라(Dijkstra), 지름길의 지름길로 찾는 최적경로](https://star7sss.tistory.com/356) - Mar 22, 2022<br>
+[[탐색/백트래킹] 백준 9663 N-Queen - 파이썬(Python)](https://star7sss.tistory.com/353) - Mar 21, 2022<br>
+[[수학/그리디] 백준 1049 기타줄 - 파이썬(Python)](https://star7sss.tistory.com/295) - Mar 21, 2022<br>
 [[Algorithm] 백트래킹(Backtracking): 안될 싹은 미리미리 가지치기](https://star7sss.tistory.com/352) - Mar 20, 2022<br>
 [[탐색/Brute Force] 백준 1107 리모컨 - 파이썬(Python)](https://star7sss.tistory.com/294) - Mar 20, 2022<br>
 [[탐색/BFS] 백준 9019 DSLR - 파이썬(Python)](https://star7sss.tistory.com/293) - Mar 19, 2022<br>
@@ -19,6 +22,3 @@
 [[Project] Patent Big Data Analysis: 자연어 처리를 이용한 특허문서 분석](https://star7sss.tistory.com/344) - Mar 17, 2022<br>
 [[자료구조/큐] 백준 5430 AC - 파이썬(Python)](https://star7sss.tistory.com/291) - Mar 17, 2022<br>
 [[탐색/플로이드] 백준 11404 플로이드 - 파이썬(Python)](https://star7sss.tistory.com/340) - Mar 16, 2022<br>
-[[구현/그리디] 백준 2810 컵홀더 - 파이썬(Python)](https://star7sss.tistory.com/290) - Mar 16, 2022<br>
-[[Project] SNUT RoadSign: SeoulTech 길찾기 프로그램](https://star7sss.tistory.com/331) - Mar 16, 2022<br>
-[[Project] Seoultech Explore: 모교 홍보를 위한 웹 게임(퀴즈)](https://star7sss.tistory.com/330) - Mar 15, 2022<br>
