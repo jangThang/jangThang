@@ -11,6 +11,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Project] Patent Server: 특허 빅데이터 분석 플랫폼](https://star7sss.tistory.com/369) - Mar 24, 2022<br>
+[[탐색/BFS] 백준 16236 아기 상어 - 파이썬(Python)](https://star7sss.tistory.com/298) - Mar 24, 2022<br>
 [[Project] ST Fair Route: 모두가 공평한 네비게이션 앱](https://star7sss.tistory.com/367) - Mar 23, 2022<br>
 [[구현/수학] 백준 2167 2차원 배열의 합 - 파이썬(Python)](https://star7sss.tistory.com/297) - Mar 23, 2022<br>
 [[Project] Cartpole: DQN, DDQN, Dueling DQN 강화학습](https://star7sss.tistory.com/357) - Mar 22, 2022<br>
@@ -20,5 +22,3 @@
 [[수학/그리디] 백준 1049 기타줄 - 파이썬(Python)](https://star7sss.tistory.com/295) - Mar 21, 2022<br>
 [[Algorithm] 백트래킹(Backtracking): 안될 싹은 미리미리 가지치기](https://star7sss.tistory.com/352) - Mar 20, 2022<br>
 [[탐색/Brute Force] 백준 1107 리모컨 - 파이썬(Python)](https://star7sss.tistory.com/294) - Mar 20, 2022<br>
-[[탐색/BFS] 백준 9019 DSLR - 파이썬(Python)](https://star7sss.tistory.com/293) - Mar 19, 2022<br>
-[[구현/문자열] 백준 2495 연속구간 - 파이썬(Python)](https://star7sss.tistory.com/292) - Mar 18, 2022<br>
