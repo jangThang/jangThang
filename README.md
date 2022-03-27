@@ -11,6 +11,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Project] LoL_project: 리그 오브 레전드 승률 예측기](https://star7sss.tistory.com/372) - Mar 26, 2022<br>
+[[구현/해시] 백준 1076 저항 - 파이썬(Python)](https://star7sss.tistory.com/300) - Mar 26, 2022<br>
 [[구현/수학] 백준 2003 수들의 합 2 - 파이썬(Python)](https://star7sss.tistory.com/299) - Mar 25, 2022<br>
 [[Project] Patent Server: 특허 빅데이터 분석 플랫폼](https://star7sss.tistory.com/369) - Mar 24, 2022<br>
 [[탐색/BFS] 백준 16236 아기 상어 - 파이썬(Python)](https://star7sss.tistory.com/298) - Mar 24, 2022<br>
@@ -20,5 +22,3 @@
 [[자료구조/큐] 백준 18258 큐 2 - 파이썬(Python)](https://star7sss.tistory.com/296) - Mar 22, 2022<br>
 [[Algorithm] 다익스트라(Dijkstra), 지름길의 지름길로 찾는 최적경로](https://star7sss.tistory.com/356) - Mar 22, 2022<br>
 [[탐색/백트래킹] 백준 9663 N-Queen - 파이썬(Python)](https://star7sss.tistory.com/353) - Mar 21, 2022<br>
-[[수학/그리디] 백준 1049 기타줄 - 파이썬(Python)](https://star7sss.tistory.com/295) - Mar 21, 2022<br>
-[[Algorithm] 백트래킹(Backtracking): 안될 싹은 미리미리 가지치기](https://star7sss.tistory.com/352) - Mar 20, 2022<br>
