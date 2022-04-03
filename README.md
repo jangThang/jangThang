@@ -11,6 +11,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Brute Force] 백준 15654 N과 M (5) - 파이썬(Python)](https://star7sss.tistory.com/307) - Apr 02, 2022<br>
 [[Brute Force] 백준 15652 N과 M (4) - 파이썬(Python)](https://star7sss.tistory.com/306) - Apr 01, 2022<br>
 [[Brute Force] 백준 15650 N과 M (2) - 파이썬(Python)](https://star7sss.tistory.com/305) - Mar 31, 2022<br>
 [[구현/수학] 백준 5086 배수와 약수 - 파이썬(Python)](https://star7sss.tistory.com/304) - Mar 30, 2022<br>
@@ -21,4 +22,3 @@
 [[구현/해시] 백준 1076 저항 - 파이썬(Python)](https://star7sss.tistory.com/300) - Mar 26, 2022<br>
 [[구현/수학] 백준 2003 수들의 합 2 - 파이썬(Python)](https://star7sss.tistory.com/299) - Mar 25, 2022<br>
 [[Project] Patent Server: 특허 빅데이터 분석 플랫폼](https://star7sss.tistory.com/369) - Mar 24, 2022<br>
-[[탐색/BFS] 백준 16236 아기 상어 - 파이썬(Python)](https://star7sss.tistory.com/298) - Mar 24, 2022<br>
