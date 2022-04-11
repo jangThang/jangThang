@@ -11,6 +11,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Python] 리스트 생성 및 초기화 방법 (feat. 2차원 리스트 초기화)](https://star7sss.tistory.com/420) - Apr 11, 2022<br>
+[[Brute Force] 백준 15664 N과 M (10) - 파이썬(Python)](https://star7sss.tistory.com/315) - Apr 10, 2022<br>
 [[Python] 리스트(List)란? 리스트 인덱싱(indexing)과 슬라이싱(slicing)](https://star7sss.tistory.com/419) - Apr 10, 2022<br>
 [[Tableau/태블로] 태블로란? 태블로 다운로드 및 온라인 사용법](https://star7sss.tistory.com/418) - Apr 10, 2022<br>
 [[AI/DL] 딥러닝(Deep Learning)이란? 뉴런과 신경망](https://star7sss.tistory.com/417) - Apr 09, 2022<br>
@@ -20,5 +22,3 @@
 [[Brute Force] 백준 15656 N과 M (7) - 파이썬(Python)](https://star7sss.tistory.com/313) - Apr 08, 2022<br>
 [[Numpy] 넘파이란? Numpy 설치방법과 주의할 점](https://star7sss.tistory.com/407) - Apr 08, 2022<br>
 [[Tistory] 다크모드로 글 작성 시 주의해야할 점 (feat. Dark Reader)](https://star7sss.tistory.com/405) - Apr 07, 2022<br>
-[[Brute Force] 백준 15655 N과 M (6) - 파이썬(Python)](https://star7sss.tistory.com/312) - Apr 07, 2022<br>
-[[Activity] SW 마에스트로(소마, SOMA) 13기 지원후기](https://star7sss.tistory.com/400) - Apr 06, 2022<br>
