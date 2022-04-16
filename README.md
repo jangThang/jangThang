@@ -11,6 +11,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[DP/동적계획법] 백준 14002 가장 긴 증가하는 부분 수열 4 - 파이썬(Python)](https://star7sss.tistory.com/320) - Apr 15, 2022<br>
 [[DP/동적계획법] 백준 11722 가장 긴 감소하는 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/319) - Apr 14, 2022<br>
 [[DP/동적계획법] 백준 11055 가장 큰 증가 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/318) - Apr 13, 2022<br>
 [[Python] 파이썬 딕셔너리 value로 key 찾는 방법](https://star7sss.tistory.com/437) - Apr 13, 2022<br>
@@ -21,4 +22,3 @@
 [[Python] 리스트 연산 및 메서드 함수](https://star7sss.tistory.com/425) - Apr 11, 2022<br>
 [[Brute Force] 백준 15665 N과 M (11) - 파이썬(Python)](https://star7sss.tistory.com/316) - Apr 11, 2022<br>
 [[Python] 리스트 생성 및 초기화 방법 (feat. 2차원 리스트 초기화)](https://star7sss.tistory.com/420) - Apr 11, 2022<br>
-[[Brute Force] 백준 15664 N과 M (10) - 파이썬(Python)](https://star7sss.tistory.com/315) - Apr 10, 2022<br>
