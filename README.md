@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[정렬/탐색] 백준 3273 두 수의 합 - 파이썬(Python)](https://star7sss.tistory.com/323) - Apr 18, 2022<br>
+[[Python] 파이썬 for문의 iterable 속성을 통한 순회 (list, tuple, dictionary 등)](https://star7sss.tistory.com/452) - Apr 18, 2022<br>
+[[Activity] LG 인적성 및 코딩테스트 시험 후기](https://star7sss.tistory.com/451) - Apr 17, 2022<br>
 [[정렬/탐색] 프로그래머스 K번째 수 - 파이썬(Python)](https://star7sss.tistory.com/322) - Apr 17, 2022<br>
 [[DP/동적계획법] 백준 11054 가장 긴 바이토닉 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/321) - Apr 16, 2022<br>
 [[DP/동적계획법] 백준 14002 가장 긴 증가하는 부분 수열 4 - 파이썬(Python)](https://star7sss.tistory.com/320) - Apr 15, 2022<br>
@@ -21,6 +24,3 @@
 [[Python] 파이썬 딕셔너리 value로 key 찾는 방법](https://star7sss.tistory.com/437) - Apr 13, 2022<br>
 [[DP/동적계획법] 백준 11053 가장 긴 증가하는 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/317) - Apr 12, 2022<br>
 [[Python] 파이썬 딕셔너리(Dictionary) 연산 및 메서드](https://star7sss.tistory.com/436) - Apr 12, 2022<br>
-[[Python] 파이썬 집합(set) 연산 및 메서드](https://star7sss.tistory.com/427) - Apr 12, 2022<br>
-[[Python] 튜플(Tuple)이란? 튜플 연산과 메서드](https://star7sss.tistory.com/426) - Apr 12, 2022<br>
-[[Python] 리스트 연산 및 메서드 함수](https://star7sss.tistory.com/425) - Apr 11, 2022<br>
