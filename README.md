@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 10829 이진수 변환 - 파이썬(Python)](https://star7sss.tistory.com/325) - Apr 20, 2022<br>
+[[동적계획법/DP] 백준 1699 제곱수의 합 - 파이썬(Python)](https://star7sss.tistory.com/324) - Apr 19, 2022<br>
 [[정렬/탐색] 백준 3273 두 수의 합 - 파이썬(Python)](https://star7sss.tistory.com/323) - Apr 18, 2022<br>
 [[Python] 파이썬 for문의 iterable 속성을 통한 순회 (list, tuple, dictionary 등)](https://star7sss.tistory.com/452) - Apr 18, 2022<br>
 [[Activity] LG 인적성 및 코딩테스트 시험 후기](https://star7sss.tistory.com/451) - Apr 17, 2022<br>
@@ -22,5 +24,3 @@
 [[DP/동적계획법] 백준 11722 가장 긴 감소하는 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/319) - Apr 14, 2022<br>
 [[DP/동적계획법] 백준 11055 가장 큰 증가 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/318) - Apr 13, 2022<br>
 [[Python] 파이썬 딕셔너리 value로 key 찾는 방법](https://star7sss.tistory.com/437) - Apr 13, 2022<br>
-[[DP/동적계획법] 백준 11053 가장 긴 증가하는 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/317) - Apr 12, 2022<br>
-[[Python] 파이썬 딕셔너리(Dictionary) 연산 및 메서드](https://star7sss.tistory.com/436) - Apr 12, 2022<br>
