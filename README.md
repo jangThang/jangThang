@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 1252 이진수 덧셈 - 파이썬(Python)](https://star7sss.tistory.com/326) - Apr 21, 2022<br>
 [[구현/수학] 백준 10829 이진수 변환 - 파이썬(Python)](https://star7sss.tistory.com/325) - Apr 20, 2022<br>
 [[동적계획법/DP] 백준 1699 제곱수의 합 - 파이썬(Python)](https://star7sss.tistory.com/324) - Apr 19, 2022<br>
 [[정렬/탐색] 백준 3273 두 수의 합 - 파이썬(Python)](https://star7sss.tistory.com/323) - Apr 18, 2022<br>
@@ -23,4 +24,3 @@
 [[DP/동적계획법] 백준 14002 가장 긴 증가하는 부분 수열 4 - 파이썬(Python)](https://star7sss.tistory.com/320) - Apr 15, 2022<br>
 [[DP/동적계획법] 백준 11722 가장 긴 감소하는 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/319) - Apr 14, 2022<br>
 [[DP/동적계획법] 백준 11055 가장 큰 증가 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/318) - Apr 13, 2022<br>
-[[Python] 파이썬 딕셔너리 value로 key 찾는 방법](https://star7sss.tistory.com/437) - Apr 13, 2022<br>
