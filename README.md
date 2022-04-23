@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[HTML] 하이퍼 텍스트 마크업 언어란?](https://star7sss.tistory.com/473) - Apr 23, 2022<br>
 [[구현/수학] 백준 11816 8진수, 10진수, 16진수 - 파이썬(Python)](https://star7sss.tistory.com/327) - Apr 22, 2022<br>
 [[Python] 파이썬 for - else, while - else 구문 사용법과 예시](https://star7sss.tistory.com/464) - Apr 21, 2022<br>
 [[구현/수학] 백준 1252 이진수 덧셈 - 파이썬(Python)](https://star7sss.tistory.com/326) - Apr 21, 2022<br>
@@ -23,4 +24,3 @@
 [[Activity] LG 인적성 및 코딩테스트 시험 후기](https://star7sss.tistory.com/451) - Apr 17, 2022<br>
 [[정렬/탐색] 프로그래머스 K번째 수 - 파이썬(Python)](https://star7sss.tistory.com/322) - Apr 17, 2022<br>
 [[DP/동적계획법] 백준 11054 가장 긴 바이토닉 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/321) - Apr 16, 2022<br>
-[[DP/동적계획법] 백준 14002 가장 긴 증가하는 부분 수열 4 - 파이썬(Python)](https://star7sss.tistory.com/320) - Apr 15, 2022<br>
