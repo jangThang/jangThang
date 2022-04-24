@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[HTML] HTML의 기본 태그: 제목(h), 문단(p), 리스트(ol, ul, dl, li)](https://star7sss.tistory.com/484) - Apr 24, 2022<br>
+[[구현/수학] 백준 1402 아무래도이문제는A번난이도인것같다 - 파이썬(Python)](https://star7sss.tistory.com/328) - Apr 23, 2022<br>
+[[HTML] HTML의 태그 구성 요소와 문서 기본 구조](https://star7sss.tistory.com/475) - Apr 23, 2022<br>
 [[HTML] 하이퍼 텍스트 마크업 언어란?](https://star7sss.tistory.com/473) - Apr 23, 2022<br>
 [[구현/수학] 백준 11816 8진수, 10진수, 16진수 - 파이썬(Python)](https://star7sss.tistory.com/327) - Apr 22, 2022<br>
 [[Python] 파이썬 for - else, while - else 구문 사용법과 예시](https://star7sss.tistory.com/464) - Apr 21, 2022<br>
@@ -21,6 +24,3 @@
 [[동적계획법/DP] 백준 1699 제곱수의 합 - 파이썬(Python)](https://star7sss.tistory.com/324) - Apr 19, 2022<br>
 [[정렬/탐색] 백준 3273 두 수의 합 - 파이썬(Python)](https://star7sss.tistory.com/323) - Apr 18, 2022<br>
 [[Python] 파이썬 for문의 iterable 속성을 통한 순회 (list, tuple, dictionary 등)](https://star7sss.tistory.com/452) - Apr 18, 2022<br>
-[[Activity] LG 인적성 및 코딩테스트 시험 후기](https://star7sss.tistory.com/451) - Apr 17, 2022<br>
-[[정렬/탐색] 프로그래머스 K번째 수 - 파이썬(Python)](https://star7sss.tistory.com/322) - Apr 17, 2022<br>
-[[DP/동적계획법] 백준 11054 가장 긴 바이토닉 부분 수열 - 파이썬(Python)](https://star7sss.tistory.com/321) - Apr 16, 2022<br>
