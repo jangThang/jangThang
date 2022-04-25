@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[HTML] 띄어쓰기, 줄바꿈 하는 방법 (feat, pre태그 / 유니코드 특수문자 삽입)](https://star7sss.tistory.com/485) - Apr 25, 2022<br>
+[[동적계획법/DP] 백준 1149 RGB거리 - 파이썬(Python)](https://star7sss.tistory.com/329) - Apr 24, 2022<br>
+[[Atom] 아톰 에디터 설치 및 웹 개발 설정 (feat 패키지, 플러그인)](https://star7sss.tistory.com/474) - Apr 24, 2022<br>
 [[HTML] HTML의 기본 태그: 제목(h), 문단(p), 리스트(ol, ul, dl, li)](https://star7sss.tistory.com/484) - Apr 24, 2022<br>
 [[구현/수학] 백준 1402 아무래도이문제는A번난이도인것같다 - 파이썬(Python)](https://star7sss.tistory.com/328) - Apr 23, 2022<br>
 [[HTML] HTML의 태그 구성 요소와 문서 기본 구조](https://star7sss.tistory.com/475) - Apr 23, 2022<br>
@@ -21,6 +24,3 @@
 [[Python] 파이썬 for - else, while - else 구문 사용법과 예시](https://star7sss.tistory.com/464) - Apr 21, 2022<br>
 [[구현/수학] 백준 1252 이진수 덧셈 - 파이썬(Python)](https://star7sss.tistory.com/326) - Apr 21, 2022<br>
 [[구현/수학] 백준 10829 이진수 변환 - 파이썬(Python)](https://star7sss.tistory.com/325) - Apr 20, 2022<br>
-[[동적계획법/DP] 백준 1699 제곱수의 합 - 파이썬(Python)](https://star7sss.tistory.com/324) - Apr 19, 2022<br>
-[[정렬/탐색] 백준 3273 두 수의 합 - 파이썬(Python)](https://star7sss.tistory.com/323) - Apr 18, 2022<br>
-[[Python] 파이썬 for문의 iterable 속성을 통한 순회 (list, tuple, dictionary 등)](https://star7sss.tistory.com/452) - Apr 18, 2022<br>
