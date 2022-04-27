@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[HTML] 시맨틱 태그, 웹페이지의 구조를 알려주는 주석](https://star7sss.tistory.com/495) - Apr 27, 2022<br>
+[[동적계획법/DP] 백준 1932 정수 삼각형 - 파이썬(Python)](https://star7sss.tistory.com/333) - Apr 26, 2022<br>
 [[HTML] 하이퍼링크 태그 <a> (새 탭으로 열기, 페이지 내 이동)](https://star7sss.tistory.com/494) - Apr 26, 2022<br>
 [[동적계획법/DP] 백준 1912 연속합 - 파이썬(Python)](https://star7sss.tistory.com/332) - Apr 25, 2022<br>
 [[HTML] 띄어쓰기, 줄바꿈 하는 방법 (feat, pre태그 / 유니코드 특수문자 삽입)](https://star7sss.tistory.com/485) - Apr 25, 2022<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 1402 아무래도이문제는A번난이도인것같다 - 파이썬(Python)](https://star7sss.tistory.com/328) - Apr 23, 2022<br>
 [[HTML] HTML의 태그 구성 요소와 문서 기본 구조](https://star7sss.tistory.com/475) - Apr 23, 2022<br>
 [[HTML] 하이퍼 텍스트 마크업 언어란?](https://star7sss.tistory.com/473) - Apr 23, 2022<br>
-[[구현/수학] 백준 11816 8진수, 10진수, 16진수 - 파이썬(Python)](https://star7sss.tistory.com/327) - Apr 22, 2022<br>
-[[Python] 파이썬 for - else, while - else 구문 사용법과 예시](https://star7sss.tistory.com/464) - Apr 21, 2022<br>
