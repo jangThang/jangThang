@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 2163 초콜릿 자르기 - 파이썬(Python)](https://star7sss.tistory.com/335) - Apr 28, 2022<br>
+[[HTML] 블록 태그와 인라인 태그의 종류와 차이점 (feat. div와 span)](https://star7sss.tistory.com/512) - Apr 28, 2022<br>
 [[구현/수학] 백준 1010 다리 놓기 - 파이썬(Python)](https://star7sss.tistory.com/334) - Apr 27, 2022<br>
 [[HTML] 시맨틱 태그, 웹페이지의 구조를 알려주는 주석](https://star7sss.tistory.com/495) - Apr 27, 2022<br>
 [[동적계획법/DP] 백준 1932 정수 삼각형 - 파이썬(Python)](https://star7sss.tistory.com/333) - Apr 26, 2022<br>
@@ -22,5 +24,3 @@
 [[동적계획법/DP] 백준 1149 RGB거리 - 파이썬(Python)](https://star7sss.tistory.com/329) - Apr 24, 2022<br>
 [[Atom] 아톰 에디터 설치 및 웹 개발 설정 (feat 패키지, 플러그인)](https://star7sss.tistory.com/474) - Apr 24, 2022<br>
 [[HTML] HTML의 기본 태그: 제목(h), 문단(p), 리스트(ol, ul, dl, li)](https://star7sss.tistory.com/484) - Apr 24, 2022<br>
-[[구현/수학] 백준 1402 아무래도이문제는A번난이도인것같다 - 파이썬(Python)](https://star7sss.tistory.com/328) - Apr 23, 2022<br>
-[[HTML] HTML의 태그 구성 요소와 문서 기본 구조](https://star7sss.tistory.com/475) - Apr 23, 2022<br>
