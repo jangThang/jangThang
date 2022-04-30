@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[CSS] CSS를 적용하는 4가지 방법](https://star7sss.tistory.com/514) - Apr 30, 2022<br>
+[[구현/수학] 백준 10996 별 찍기 - 21 - 파이썬(Python)](https://star7sss.tistory.com/336) - Apr 29, 2022<br>
+[[CSS] 캐스케이딩(계단형) 스타일 시트란? CSS의 구성요소와 장점](https://star7sss.tistory.com/513) - Apr 29, 2022<br>
 [[구현/수학] 백준 2163 초콜릿 자르기 - 파이썬(Python)](https://star7sss.tistory.com/335) - Apr 28, 2022<br>
 [[HTML] 블록 태그와 인라인 태그의 종류와 차이점 (feat. div와 span)](https://star7sss.tistory.com/512) - Apr 28, 2022<br>
 [[구현/수학] 백준 1010 다리 놓기 - 파이썬(Python)](https://star7sss.tistory.com/334) - Apr 27, 2022<br>
@@ -21,6 +24,3 @@
 [[HTML] 하이퍼링크 태그 <a> (새 탭으로 열기, 페이지 내 이동)](https://star7sss.tistory.com/494) - Apr 26, 2022<br>
 [[동적계획법/DP] 백준 1912 연속합 - 파이썬(Python)](https://star7sss.tistory.com/332) - Apr 25, 2022<br>
 [[HTML] 띄어쓰기, 줄바꿈 하는 방법 (feat, pre태그 / 유니코드 특수문자 삽입)](https://star7sss.tistory.com/485) - Apr 25, 2022<br>
-[[동적계획법/DP] 백준 1149 RGB거리 - 파이썬(Python)](https://star7sss.tistory.com/329) - Apr 24, 2022<br>
-[[Atom] 아톰 에디터 설치 및 웹 개발 설정 (feat 패키지, 플러그인)](https://star7sss.tistory.com/474) - Apr 24, 2022<br>
-[[HTML] HTML의 기본 태그: 제목(h), 문단(p), 리스트(ol, ul, dl, li)](https://star7sss.tistory.com/484) - Apr 24, 2022<br>
