@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 12813 이진수 연산 - 파이썬(Python)](https://star7sss.tistory.com/339) - May 02, 2022<br>
 [[CSS] 스타일이 적용되는 우선순위 (cascading, overriding)](https://star7sss.tistory.com/516) - May 02, 2022<br>
 [[구현/수학] 백준 8741 이진수 합 - 파이썬(Python)](https://star7sss.tistory.com/338) - May 01, 2022<br>
 [[CSS] 스타일을 지정하는 5가지 방법 (타입/자손/클래스/아이디/가상클래스 선택자)](https://star7sss.tistory.com/515) - May 01, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 2163 초콜릿 자르기 - 파이썬(Python)](https://star7sss.tistory.com/335) - Apr 28, 2022<br>
 [[HTML] 블록 태그와 인라인 태그의 종류와 차이점 (feat. div와 span)](https://star7sss.tistory.com/512) - Apr 28, 2022<br>
 [[구현/수학] 백준 1010 다리 놓기 - 파이썬(Python)](https://star7sss.tistory.com/334) - Apr 27, 2022<br>
-[[HTML] 시맨틱 태그, 웹페이지의 구조를 알려주는 주석](https://star7sss.tistory.com/495) - Apr 27, 2022<br>
