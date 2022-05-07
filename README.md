@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[수학/그리디] 백준 14659 한조서열정리하고옴ㅋㅋ - 파이썬(Python)](https://star7sss.tistory.com/347) - May 07, 2022<br>
+[[수학/그리디] 백준 14720 우유 축제 - 파이썬(Python)](https://star7sss.tistory.com/346) - May 06, 2022<br>
 [[구현/수학] 백준 11660 구간 합 구하기 5 - 파이썬(Python)](https://star7sss.tistory.com/343) - May 05, 2022<br>
 [[탐색/BFS] 백준 16953 A → B - 파이썬(Python)](https://star7sss.tistory.com/342) - May 04, 2022<br>
 [[탐색/DFS] 백준 11725 트리의 부모 찾기 - 파이썬(Python)](https://star7sss.tistory.com/341) - May 03, 2022<br>
@@ -22,5 +24,3 @@
 [[CSS] 스타일을 지정하는 5가지 방법 (타입/자손/클래스/아이디/가상클래스 선택자)](https://star7sss.tistory.com/515) - May 01, 2022<br>
 [[구현/수학] 백준 14656 조교는 새디스트야!! - 파이썬(Python)](https://star7sss.tistory.com/337) - Apr 30, 2022<br>
 [[CSS] CSS를 적용하는 4가지 방법](https://star7sss.tistory.com/514) - Apr 30, 2022<br>
-[[구현/수학] 백준 10996 별 찍기 - 21 - 파이썬(Python)](https://star7sss.tistory.com/336) - Apr 29, 2022<br>
-[[CSS] 캐스케이딩(계단형) 스타일 시트란? CSS의 구성요소와 장점](https://star7sss.tistory.com/513) - Apr 29, 2022<br>
