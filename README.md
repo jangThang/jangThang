@@ -13,7 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
-[[분할정복/재귀] 백준 1629 곱셉 - 파이썬(Python)](https://star7sss.tistory.com/348) - May 08, 2022<br>
+[[분할정복/재귀] 백준 1629 곱셈 - 파이썬(Python)](https://star7sss.tistory.com/348) - May 08, 2022<br>
 [[수학/그리디] 백준 14659 한조서열정리하고옴ㅋㅋ - 파이썬(Python)](https://star7sss.tistory.com/347) - May 07, 2022<br>
 [[수학/그리디] 백준 14720 우유 축제 - 파이썬(Python)](https://star7sss.tistory.com/346) - May 06, 2022<br>
 [[구현/수학] 백준 11660 구간 합 구하기 5 - 파이썬(Python)](https://star7sss.tistory.com/343) - May 05, 2022<br>
