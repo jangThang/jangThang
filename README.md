@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[분할정복/DQ] 백준 10830 행렬 제곱 - 파이썬(Python)](https://star7sss.tistory.com/350) - May 10, 2022<br>
 [[동적계획법/DP] 백준 12865 평범한 배낭 - 파이썬(Python)](https://star7sss.tistory.com/349) - May 09, 2022<br>
 [[분할정복/재귀] 백준 1629 곱셈 - 파이썬(Python)](https://star7sss.tistory.com/348) - May 08, 2022<br>
 [[수학/그리디] 백준 14659 한조서열정리하고옴ㅋㅋ - 파이썬(Python)](https://star7sss.tistory.com/347) - May 07, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 12813 이진수 연산 - 파이썬(Python)](https://star7sss.tistory.com/339) - May 02, 2022<br>
 [[CSS] 스타일이 적용되는 우선순위 (cascading, overriding)](https://star7sss.tistory.com/516) - May 02, 2022<br>
 [[구현/수학] 백준 8741 이진수 합 - 파이썬(Python)](https://star7sss.tistory.com/338) - May 01, 2022<br>
-[[CSS] 스타일을 지정하는 5가지 방법 (타입/자손/클래스/아이디/가상클래스 선택자)](https://star7sss.tistory.com/515) - May 01, 2022<br>
