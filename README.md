@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[HTML] 블록, 인라인 시맨틱 태그: figure, details, summary, mark, time, meter, progress](https://star7sss.tistory.com/563) - May 11, 2022<br>
+[[구현/수학] 백준 2740 행렬 곱셈 - 파이썬(Python)](https://star7sss.tistory.com/351) - May 11, 2022<br>
 [[분할정복/DQ] 백준 10830 행렬 제곱 - 파이썬(Python)](https://star7sss.tistory.com/350) - May 10, 2022<br>
 [[동적계획법/DP] 백준 12865 평범한 배낭 - 파이썬(Python)](https://star7sss.tistory.com/349) - May 09, 2022<br>
 [[분할정복/재귀] 백준 1629 곱셈 - 파이썬(Python)](https://star7sss.tistory.com/348) - May 08, 2022<br>
@@ -22,5 +24,3 @@
 [[탐색/BFS] 백준 16953 A → B - 파이썬(Python)](https://star7sss.tistory.com/342) - May 04, 2022<br>
 [[탐색/DFS] 백준 11725 트리의 부모 찾기 - 파이썬(Python)](https://star7sss.tistory.com/341) - May 03, 2022<br>
 [[구현/수학] 백준 12813 이진수 연산 - 파이썬(Python)](https://star7sss.tistory.com/339) - May 02, 2022<br>
-[[CSS] 스타일이 적용되는 우선순위 (cascading, overriding)](https://star7sss.tistory.com/516) - May 02, 2022<br>
-[[구현/수학] 백준 8741 이진수 합 - 파이썬(Python)](https://star7sss.tistory.com/338) - May 01, 2022<br>
