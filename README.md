@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[브루트포스] 백준 3040 백설 공주와 일곱 난쟁이 - 파이썬(Python)](https://star7sss.tistory.com/363) - May 19, 2022<br>
 [[탐색/다익스트라] 백준 11779 최소비용 구하기 2 - 파이썬(Python)](https://star7sss.tistory.com/362) - May 18, 2022<br>
 [[탐색/다익스트라] 백준 1916 최소비용 구하기 - 파이썬(Python)](https://star7sss.tistory.com/361) - May 17, 2022<br>
 [[탐색/다익스트라] 백준 1504 특정한 최단 경로 - 파이썬(Python)](https://star7sss.tistory.com/360) - May 16, 2022<br>
@@ -23,4 +24,3 @@
 [[HTML] 블록, 인라인 시맨틱 태그: figure, details, summary, mark, time, meter, progress](https://star7sss.tistory.com/563) - May 11, 2022<br>
 [[구현/수학] 백준 2740 행렬 곱셈 - 파이썬(Python)](https://star7sss.tistory.com/351) - May 11, 2022<br>
 [[분할정복/DQ] 백준 10830 행렬 제곱 - 파이썬(Python)](https://star7sss.tistory.com/350) - May 10, 2022<br>
-[[동적계획법/DP] 백준 12865 평범한 배낭 - 파이썬(Python)](https://star7sss.tistory.com/349) - May 09, 2022<br>
