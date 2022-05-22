@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 4504 배수 찾기 - 파이썬(Python)](https://star7sss.tistory.com/365) - May 21, 2022<br>
 [[자료구조/리스트] 백준 2605 줄 세우기 - 파이썬(Python)](https://star7sss.tistory.com/364) - May 20, 2022<br>
 [[브루트포스] 백준 3040 백설 공주와 일곱 난쟁이 - 파이썬(Python)](https://star7sss.tistory.com/363) - May 19, 2022<br>
 [[탐색/다익스트라] 백준 11779 최소비용 구하기 2 - 파이썬(Python)](https://star7sss.tistory.com/362) - May 18, 2022<br>
@@ -23,4 +24,3 @@
 [[수학/소수] 백준 1418 K-세준수 - 파이썬(Python)](https://star7sss.tistory.com/355) - May 13, 2022<br>
 [[구현/수학] 백준 1434 책 정리 - 파이썬(Python)](https://star7sss.tistory.com/354) - May 12, 2022<br>
 [[HTML] 블록, 인라인 시맨틱 태그: figure, details, summary, mark, time, meter, progress](https://star7sss.tistory.com/563) - May 11, 2022<br>
-[[구현/수학] 백준 2740 행렬 곱셈 - 파이썬(Python)](https://star7sss.tistory.com/351) - May 11, 2022<br>
