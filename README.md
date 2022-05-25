@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[HTML] Table 표에 시맨틱 태그 사용해서 구조화하기 (caption, thead, tbody)](https://star7sss.tistory.com/582) - May 25, 2022<br>
+[[탐색/BFS] 백준 14940 쉬운 최단거리 - 파이썬(Python)](https://star7sss.tistory.com/370) - May 24, 2022<br>
 [[HTML] 테이블 표, 행, 열 만들고 (<table>, <tr>, <th>, <td>) 행열 병합하기](https://star7sss.tistory.com/581) - May 24, 2022<br>
 [[구현/수학] 백준 2846 오르막길 - 파이썬(Python)](https://star7sss.tistory.com/368) - May 23, 2022<br>
 [[구현/수학] 백준 14489 치킨 두 마리 (...) - 파이썬(Python)](https://star7sss.tistory.com/366) - May 22, 2022<br>
@@ -22,5 +24,3 @@
 [[탐색/다익스트라] 백준 11779 최소비용 구하기 2 - 파이썬(Python)](https://star7sss.tistory.com/362) - May 18, 2022<br>
 [[탐색/다익스트라] 백준 1916 최소비용 구하기 - 파이썬(Python)](https://star7sss.tistory.com/361) - May 17, 2022<br>
 [[탐색/다익스트라] 백준 1504 특정한 최단 경로 - 파이썬(Python)](https://star7sss.tistory.com/360) - May 16, 2022<br>
-[[탐색/다익스트라] 백준 1753 최단경로 - 파이썬(Python)](https://star7sss.tistory.com/359) - May 15, 2022<br>
-[[분할정복/DQ] 백준 11444 피보나치 수 6 - 파이썬(Python)](https://star7sss.tistory.com/358) - May 14, 2022<br>
