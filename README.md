@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 3047 ABC - 파이썬(Python)](https://star7sss.tistory.com/375) - May 28, 2022<br>
 [[탐색/BFS] 백준 7562 나이트의 이동 - 파이썬(Python)](https://star7sss.tistory.com/374) - May 27, 2022<br>
 [[HTML] 웹페이지에 이미지, 사운드, 비디오 삽입하기 (img, audio, video)](https://star7sss.tistory.com/586) - May 27, 2022<br>
 [[구현/수학] 백준 1834 나머지와 몫이 같은 수 - 파이썬(Python)](https://star7sss.tistory.com/373) - May 26, 2022<br>
@@ -23,4 +24,3 @@
 [[HTML] 테이블 표, 행, 열 만들고 (<table>, <tr>, <th>, <td>) 행열 병합하기](https://star7sss.tistory.com/581) - May 24, 2022<br>
 [[구현/수학] 백준 2846 오르막길 - 파이썬(Python)](https://star7sss.tistory.com/368) - May 23, 2022<br>
 [[구현/수학] 백준 14489 치킨 두 마리 (...) - 파이썬(Python)](https://star7sss.tistory.com/366) - May 22, 2022<br>
-[[구현/수학] 백준 4504 배수 찾기 - 파이썬(Python)](https://star7sss.tistory.com/365) - May 21, 2022<br>
