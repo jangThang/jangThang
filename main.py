@@ -7,6 +7,8 @@ MAX_POST_NUM = 10
 
 markdown_text = """## Hello World! 🖐
 
+[Google](https://google.com" target="_blank) test
+
 📬 Contact Email : star7sss@naver.com
 
 👨‍💻 Tech Blog : https://star7sss.tistory.com
@@ -22,7 +24,6 @@ markdown_text = """## Hello World! 🖐
 ## 📋 [Recent blog posts]
 """ # list of blog posts will be appended here
 
-[Google](https://google.com" target="_blank) test
 
 
 for i, feed in enumerate(feed['entries']):
