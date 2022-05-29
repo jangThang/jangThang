@@ -1,7 +1,5 @@
 ## Hello World! 🖐
 
-[Google](https://google.com" target="_blank) test
-
 📬 Contact Email : star7sss@naver.com
 
 👨‍💻 Tech Blog : https://star7sss.tistory.com
