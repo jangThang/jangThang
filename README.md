@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 2959 거북이 - 파이썬(Python)](https://star7sss.tistory.com/379) - Jun 01, 2022<br>
 [[구현/수학] 백준 10178 할로윈의 사탕 - 파이썬(Python)](https://star7sss.tistory.com/378) - May 31, 2022<br>
 [[DP/동적계획법] 백준 14501 퇴사 - 파이썬(Python)](https://star7sss.tistory.com/377) - May 30, 2022<br>
 [[구현/수학] 백준 1964 오각형, 오각형, 오각형… - 파이썬(Python)](https://star7sss.tistory.com/376) - May 29, 2022<br>
@@ -23,4 +24,3 @@
 [[HTML] 테이블 td, th 셀 수평 수직 정렬하기 (왼쪽, 오른쪽, 위, 아래, 가운데 정렬)](https://star7sss.tistory.com/583) - May 26, 2022<br>
 [[구현/수학] 백준 11023 더하기 3 - 파이썬(Python)](https://star7sss.tistory.com/371) - May 25, 2022<br>
 [[HTML] Table 표에 시맨틱 태그 사용해서 구조화하기 (caption, thead, tbody)](https://star7sss.tistory.com/582) - May 25, 2022<br>
-[[탐색/BFS] 백준 14940 쉬운 최단거리 - 파이썬(Python)](https://star7sss.tistory.com/370) - May 24, 2022<br>
