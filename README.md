@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[탐색/BFS] 백준 2644 촌수계산 - 파이썬(Python)](https://star7sss.tistory.com/383) - Jun 05, 2022<br>
+[[구현/수학] 백준 2921 도미노 - 파이썬(Python)](https://star7sss.tistory.com/382) - Jun 04, 2022<br>
 [[구현/수학] 백준 11966 2의 제곱인가? - 파이썬(Python)](https://star7sss.tistory.com/381) - Jun 03, 2022<br>
 [[DP/동적계획법] 백준 1904 01타일 - 파이썬(Python)](https://star7sss.tistory.com/380) - Jun 02, 2022<br>
 [[구현/수학] 백준 2959 거북이 - 파이썬(Python)](https://star7sss.tistory.com/379) - Jun 01, 2022<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 3047 ABC - 파이썬(Python)](https://star7sss.tistory.com/375) - May 28, 2022<br>
 [[탐색/BFS] 백준 7562 나이트의 이동 - 파이썬(Python)](https://star7sss.tistory.com/374) - May 27, 2022<br>
 [[HTML] 웹페이지에 이미지, 사운드, 비디오 삽입하기 (img, audio, video)](https://star7sss.tistory.com/586) - May 27, 2022<br>
-[[구현/수학] 백준 1834 나머지와 몫이 같은 수 - 파이썬(Python)](https://star7sss.tistory.com/373) - May 26, 2022<br>
-[[HTML] 테이블 td, th 셀 수평 수직 정렬하기 (왼쪽, 오른쪽, 위, 아래, 가운데 정렬)](https://star7sss.tistory.com/583) - May 26, 2022<br>
