@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 2903 중앙 이동 알고리즘 - 파이썬(Python)](https://star7sss.tistory.com/384) - Jun 06, 2022<br>
+[[Project] STRC 러닝 데이터베이스: 러닝크루 기록 관리](https://star7sss.tistory.com/594) - Jun 05, 2022<br>
 [[탐색/BFS] 백준 2644 촌수계산 - 파이썬(Python)](https://star7sss.tistory.com/383) - Jun 05, 2022<br>
 [[구현/수학] 백준 2921 도미노 - 파이썬(Python)](https://star7sss.tistory.com/382) - Jun 04, 2022<br>
 [[구현/수학] 백준 11966 2의 제곱인가? - 파이썬(Python)](https://star7sss.tistory.com/381) - Jun 03, 2022<br>
@@ -22,5 +24,3 @@
 [[DP/동적계획법] 백준 14501 퇴사 - 파이썬(Python)](https://star7sss.tistory.com/377) - May 30, 2022<br>
 [[구현/수학] 백준 1964 오각형, 오각형, 오각형… - 파이썬(Python)](https://star7sss.tistory.com/376) - May 29, 2022<br>
 [[구현/수학] 백준 3047 ABC - 파이썬(Python)](https://star7sss.tistory.com/375) - May 28, 2022<br>
-[[탐색/BFS] 백준 7562 나이트의 이동 - 파이썬(Python)](https://star7sss.tistory.com/374) - May 27, 2022<br>
-[[HTML] 웹페이지에 이미지, 사운드, 비디오 삽입하기 (img, audio, video)](https://star7sss.tistory.com/586) - May 27, 2022<br>
