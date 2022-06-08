@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 13241 최소공배수 - 파이썬(Python)](https://star7sss.tistory.com/386) - Jun 08, 2022<br>
 [[자료구조/스택] 백준 1406 에디터 - 파이썬(Python)](https://star7sss.tistory.com/385) - Jun 07, 2022<br>
 [[구현/수학] 백준 2903 중앙 이동 알고리즘 - 파이썬(Python)](https://star7sss.tistory.com/384) - Jun 06, 2022<br>
 [[Project] STRC 러닝 데이터베이스: 러닝크루 기록 관리](https://star7sss.tistory.com/594) - Jun 05, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 2959 거북이 - 파이썬(Python)](https://star7sss.tistory.com/379) - Jun 01, 2022<br>
 [[구현/수학] 백준 10178 할로윈의 사탕 - 파이썬(Python)](https://star7sss.tistory.com/378) - May 31, 2022<br>
 [[DP/동적계획법] 백준 14501 퇴사 - 파이썬(Python)](https://star7sss.tistory.com/377) - May 30, 2022<br>
-[[구현/수학] 백준 1964 오각형, 오각형, 오각형… - 파이썬(Python)](https://star7sss.tistory.com/376) - May 29, 2022<br>
