@@ -13,6 +13,10 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 9076 점수 집계 - 파이썬(Python)](https://star7sss.tistory.com/390) - Jun 12, 2022<br>
+[[Java] 출력형식, 형식 문자열으로 출력하기: System.out.printf()](https://star7sss.tistory.com/601) - Jun 11, 2022<br>
+[[구현/수학] 백준 5361 전투 드로이드 가격 - 파이썬(Python)](https://star7sss.tistory.com/389) - Jun 11, 2022<br>
+[[Java] 자바 출력 메서드, 콘솔창에 문자열 출력하기](https://star7sss.tistory.com/600) - Jun 11, 2022<br>
 [[Greedy/그리디] 백준 13305 주유소 - 파이썬(Python)](https://star7sss.tistory.com/388) - Jun 10, 2022<br>
 [[정렬/탐색] 백준 11728 배열 합치기 - 파이썬(Python)](https://star7sss.tistory.com/387) - Jun 09, 2022<br>
 [[구현/수학] 백준 13241 최소공배수 - 파이썬(Python)](https://star7sss.tistory.com/386) - Jun 08, 2022<br>
@@ -20,7 +24,3 @@
 [[구현/수학] 백준 2903 중앙 이동 알고리즘 - 파이썬(Python)](https://star7sss.tistory.com/384) - Jun 06, 2022<br>
 [[Project] STRC 러닝 데이터베이스: 러닝크루 기록 관리](https://star7sss.tistory.com/594) - Jun 05, 2022<br>
 [[탐색/BFS] 백준 2644 촌수계산 - 파이썬(Python)](https://star7sss.tistory.com/383) - Jun 05, 2022<br>
-[[구현/수학] 백준 2921 도미노 - 파이썬(Python)](https://star7sss.tistory.com/382) - Jun 04, 2022<br>
-[[구현/수학] 백준 11966 2의 제곱인가? - 파이썬(Python)](https://star7sss.tistory.com/381) - Jun 03, 2022<br>
-[[DP/동적계획법] 백준 1904 01타일 - 파이썬(Python)](https://star7sss.tistory.com/380) - Jun 02, 2022<br>
-[[구현/수학] 백준 2959 거북이 - 파이썬(Python)](https://star7sss.tistory.com/379) - Jun 01, 2022<br>
