@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[자료구조/해시맵] 백준 1302 베스트셀러 - 파이썬(Python)](https://star7sss.tistory.com/393) - Jun 15, 2022<br>
 [[정렬/탐색] 백준 2693 N번째 큰 수 - 파이썬(Python)](https://star7sss.tistory.com/392) - Jun 14, 2022<br>
 [[자료구조/스택] 백준 17413 단어 뒤집기 2 - 파이썬(Python)](https://star7sss.tistory.com/391) - Jun 13, 2022<br>
 [[구현/수학] 백준 9076 점수 집계 - 파이썬(Python)](https://star7sss.tistory.com/390) - Jun 12, 2022<br>
@@ -23,4 +24,3 @@
 [[정렬/탐색] 백준 11728 배열 합치기 - 파이썬(Python)](https://star7sss.tistory.com/387) - Jun 09, 2022<br>
 [[구현/수학] 백준 13241 최소공배수 - 파이썬(Python)](https://star7sss.tistory.com/386) - Jun 08, 2022<br>
 [[자료구조/스택] 백준 1406 에디터 - 파이썬(Python)](https://star7sss.tistory.com/385) - Jun 07, 2022<br>
-[[구현/수학] 백준 2903 중앙 이동 알고리즘 - 파이썬(Python)](https://star7sss.tistory.com/384) - Jun 06, 2022<br>
