@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 2702 초6 수학 - 파이썬(Python)](https://star7sss.tistory.com/395) - Jun 17, 2022<br>
 [[자료구조/해시] 백준 11652 카드 - 파이썬(Python)](https://star7sss.tistory.com/394) - Jun 16, 2022<br>
 [[자료구조/해시맵] 백준 1302 베스트셀러 - 파이썬(Python)](https://star7sss.tistory.com/393) - Jun 15, 2022<br>
 [[정렬/탐색] 백준 2693 N번째 큰 수 - 파이썬(Python)](https://star7sss.tistory.com/392) - Jun 14, 2022<br>
@@ -23,4 +24,3 @@
 [[Java] 자바 출력 메서드, 콘솔창에 문자열 출력하기](https://star7sss.tistory.com/600) - Jun 11, 2022<br>
 [[Greedy/그리디] 백준 13305 주유소 - 파이썬(Python)](https://star7sss.tistory.com/388) - Jun 10, 2022<br>
 [[정렬/탐색] 백준 11728 배열 합치기 - 파이썬(Python)](https://star7sss.tistory.com/387) - Jun 09, 2022<br>
-[[구현/수학] 백준 13241 최소공배수 - 파이썬(Python)](https://star7sss.tistory.com/386) - Jun 08, 2022<br>
