@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[자료구조/해시] 백준 7785 회사에 있는 사람 - 파이썬(Python)](https://star7sss.tistory.com/398) - Jun 20, 2022<br>
 [[Greedy/그리디] 백준 2217 로프 - 파이썬(Python)](https://star7sss.tistory.com/397) - Jun 19, 2022<br>
 [[구현/수학] 백준 10974 모든 순열 - 파이썬(Python)](https://star7sss.tistory.com/396) - Jun 18, 2022<br>
 [[구현/수학] 백준 2702 초6 수학 - 파이썬(Python)](https://star7sss.tistory.com/395) - Jun 17, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 9076 점수 집계 - 파이썬(Python)](https://star7sss.tistory.com/390) - Jun 12, 2022<br>
 [[Java] 출력형식, 형식 문자열으로 출력하기: System.out.printf()](https://star7sss.tistory.com/601) - Jun 11, 2022<br>
 [[구현/수학] 백준 5361 전투 드로이드 가격 - 파이썬(Python)](https://star7sss.tistory.com/389) - Jun 11, 2022<br>
-[[Java] 자바 출력 메서드, 콘솔창에 문자열 출력하기](https://star7sss.tistory.com/600) - Jun 11, 2022<br>
