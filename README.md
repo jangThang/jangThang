@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Activity] SW마에스트로 연수센터(씨앗방, 회의실, 수면실) 후기](https://star7sss.tistory.com/603) - Jun 23, 2022<br>
+[[탐색/BFS] 백준 4963 섬의 개수 - 파이썬(Python)](https://star7sss.tistory.com/406) - Jun 22, 2022<br>
 [[정렬/탐색] 백준 11931 수 정렬하기 4 - 파이썬(Python)](https://star7sss.tistory.com/404) - Jun 21, 2022<br>
 [[자료구조/해시] 백준 7785 회사에 있는 사람 - 파이썬(Python)](https://star7sss.tistory.com/398) - Jun 20, 2022<br>
 [[Greedy/그리디] 백준 2217 로프 - 파이썬(Python)](https://star7sss.tistory.com/397) - Jun 19, 2022<br>
@@ -22,5 +24,3 @@
 [[자료구조/해시맵] 백준 1302 베스트셀러 - 파이썬(Python)](https://star7sss.tistory.com/393) - Jun 15, 2022<br>
 [[정렬/탐색] 백준 2693 N번째 큰 수 - 파이썬(Python)](https://star7sss.tistory.com/392) - Jun 14, 2022<br>
 [[자료구조/스택] 백준 17413 단어 뒤집기 2 - 파이썬(Python)](https://star7sss.tistory.com/391) - Jun 13, 2022<br>
-[[구현/수학] 백준 9076 점수 집계 - 파이썬(Python)](https://star7sss.tistory.com/390) - Jun 12, 2022<br>
-[[Java] 출력형식, 형식 문자열으로 출력하기: System.out.printf()](https://star7sss.tistory.com/601) - Jun 11, 2022<br>
