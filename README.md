@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Activity] SW마에스트로 기획심사 리뷰/후기](https://star7sss.tistory.com/605) - Jun 27, 2022<br>
+[[자료구조/스택] 백준 3986 좋은 단어 - 파이썬(Python)](https://star7sss.tistory.com/414) - Jun 27, 2022<br>
 [[동적계획법/DP] 백준 2294 동전 2 - 파이썬(Python)](https://star7sss.tistory.com/413) - Jun 26, 2022<br>
 [[수학/재귀] 백준 11729 하노이 탑 이동 순서 - 파이썬(Python)](https://star7sss.tistory.com/412) - Jun 25, 2022<br>
 [[브루트포스/수학] 백준 1057 토너먼트 - 파이썬(Python)](https://star7sss.tistory.com/409) - Jun 24, 2022<br>
@@ -22,5 +24,3 @@
 [[탐색/BFS] 백준 4963 섬의 개수 - 파이썬(Python)](https://star7sss.tistory.com/406) - Jun 22, 2022<br>
 [[정렬/탐색] 백준 11931 수 정렬하기 4 - 파이썬(Python)](https://star7sss.tistory.com/404) - Jun 21, 2022<br>
 [[자료구조/해시] 백준 7785 회사에 있는 사람 - 파이썬(Python)](https://star7sss.tistory.com/398) - Jun 20, 2022<br>
-[[Greedy/그리디] 백준 2217 로프 - 파이썬(Python)](https://star7sss.tistory.com/397) - Jun 19, 2022<br>
-[[구현/수학] 백준 10974 모든 순열 - 파이썬(Python)](https://star7sss.tistory.com/396) - Jun 18, 2022<br>
