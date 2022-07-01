@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[동적계획법/DP] 백준 9184 신나는 함수 실행 - 파이썬(Python)](https://star7sss.tistory.com/422) - Jun 30, 2022<br>
 [[탐색/다익스트라] 백준 18352 특정 거리의 도시 찾기 - 파이썬(Python)](https://star7sss.tistory.com/421) - Jun 29, 2022<br>
 [[그리디/Greedy] 백준 2847 게임을 만든 동준이 - 파이썬(Python)](https://star7sss.tistory.com/415) - Jun 28, 2022<br>
 [[Activity] SW마에스트로 기획심사 리뷰/후기](https://star7sss.tistory.com/605) - Jun 27, 2022<br>
@@ -23,4 +24,3 @@
 [[Activity] SW 마에스트로 웰컴 키트(Welcome Kit) 후기](https://star7sss.tistory.com/604) - Jun 23, 2022<br>
 [[이진/이분탐색] 백준 2512 예산 - 파이썬(Python)](https://star7sss.tistory.com/408) - Jun 23, 2022<br>
 [[Activity] SW마에스트로 연수센터(씨앗방, 회의실, 수면실) 후기](https://star7sss.tistory.com/603) - Jun 23, 2022<br>
-[[탐색/BFS] 백준 4963 섬의 개수 - 파이썬(Python)](https://star7sss.tistory.com/406) - Jun 22, 2022<br>
