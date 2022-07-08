@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 22193 Multiply - 파이썬(Python)](https://star7sss.tistory.com/430) - Jul 08, 2022<br>
+[[동적계획법/DP] 백준 11057 오르막 수 - 파이썬(Python)](https://star7sss.tistory.com/416) - Jul 07, 2022<br>
 [[암호/AES] 백준 24218 Double Crypt 1 - 파이썬(Python)](https://star7sss.tistory.com/432) - Jul 06, 2022<br>
 [[구현/수학] 백준 21300 Bottle Return - 파이썬(Python)](https://star7sss.tistory.com/429) - Jul 05, 2022<br>
 [[구현/수학] 백준 16673 고려대학교에는 공식 와인이 있다 - 파이썬(Python)](https://star7sss.tistory.com/428) - Jul 04, 2022<br>
@@ -22,5 +24,3 @@
 [[동적계획법/DP] 백준 9184 신나는 함수 실행 - 파이썬(Python)](https://star7sss.tistory.com/422) - Jun 30, 2022<br>
 [[탐색/다익스트라] 백준 18352 특정 거리의 도시 찾기 - 파이썬(Python)](https://star7sss.tistory.com/421) - Jun 29, 2022<br>
 [[그리디/Greedy] 백준 2847 게임을 만든 동준이 - 파이썬(Python)](https://star7sss.tistory.com/415) - Jun 28, 2022<br>
-[[Activity] SW마에스트로 기획심사 리뷰/후기](https://star7sss.tistory.com/605) - Jun 27, 2022<br>
-[[자료구조/스택] 백준 3986 좋은 단어 - 파이썬(Python)](https://star7sss.tistory.com/414) - Jun 27, 2022<br>
