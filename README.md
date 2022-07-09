@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 24086 身長 (신장, Height) - 파이썬(Python)](https://star7sss.tistory.com/431) - Jul 09, 2022<br>
 [[구현/수학] 백준 22193 Multiply - 파이썬(Python)](https://star7sss.tistory.com/430) - Jul 08, 2022<br>
 [[동적계획법/DP] 백준 11057 오르막 수 - 파이썬(Python)](https://star7sss.tistory.com/416) - Jul 07, 2022<br>
 [[암호/AES] 백준 24218 Double Crypt 1 - 파이썬(Python)](https://star7sss.tistory.com/432) - Jul 06, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 2669 직사각형 네개의 합집합의 면적 구하기 - 파이썬(Python)](https://star7sss.tistory.com/423) - Jul 01, 2022<br>
 [[동적계획법/DP] 백준 9184 신나는 함수 실행 - 파이썬(Python)](https://star7sss.tistory.com/422) - Jun 30, 2022<br>
 [[탐색/다익스트라] 백준 18352 특정 거리의 도시 찾기 - 파이썬(Python)](https://star7sss.tistory.com/421) - Jun 29, 2022<br>
-[[그리디/Greedy] 백준 2847 게임을 만든 동준이 - 파이썬(Python)](https://star7sss.tistory.com/415) - Jun 28, 2022<br>
