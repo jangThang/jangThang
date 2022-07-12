@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 24082 立方体 (입방체, Cube) - 파이썬(Python)](https://star7sss.tistory.com/433) - Jul 12, 2022<br>
 [[탐색/BFS] 백준 2583 영역 구하기 - 파이썬(Python)](https://star7sss.tistory.com/448) - Jul 11, 2022<br>
 [[그리디/브루트포스] 백준 1543 문서 검색 - 파이썬(Python)](https://star7sss.tistory.com/445) - Jul 10, 2022<br>
 [[구현/수학] 백준 24086 身長 (신장, Height) - 파이썬(Python)](https://star7sss.tistory.com/431) - Jul 09, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 16673 고려대학교에는 공식 와인이 있다 - 파이썬(Python)](https://star7sss.tistory.com/428) - Jul 04, 2022<br>
 [[탐색/BFS] 백준 2468 안전 영역 - 파이썬(Python)](https://star7sss.tistory.com/444) - Jul 03, 2022<br>
 [[Brute Force] 백준 1120 문자열 - 파이썬(Python)](https://star7sss.tistory.com/424) - Jul 02, 2022<br>
-[[구현/수학] 백준 2669 직사각형 네개의 합집합의 면적 구하기 - 파이썬(Python)](https://star7sss.tistory.com/423) - Jul 01, 2022<br>
