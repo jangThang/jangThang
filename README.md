@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Greedy/그리디] 백준 1946 신입 사원 - 파이썬(Python)](https://star7sss.tistory.com/449) - Jul 20, 2022<br>
 [[구현/수학] 백준 24183 Affischutskicket - 파이썬(Python)](https://star7sss.tistory.com/440) - Jul 19, 2022<br>
 [[구현/수학] 백준 24568 Cupcake Party - 파이썬(Python)](https://star7sss.tistory.com/439) - Jul 18, 2022<br>
 [[동적계획법/DP] 백준 11048 이동하기 - 파이썬(Python)](https://star7sss.tistory.com/447) - Jul 17, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 24082 立方体 (입방체, Cube) - 파이썬(Python)](https://star7sss.tistory.com/433) - Jul 12, 2022<br>
 [[탐색/BFS] 백준 2583 영역 구하기 - 파이썬(Python)](https://star7sss.tistory.com/448) - Jul 11, 2022<br>
 [[그리디/브루트포스] 백준 1543 문서 검색 - 파이썬(Python)](https://star7sss.tistory.com/445) - Jul 10, 2022<br>
-[[구현/수학] 백준 24086 身長 (신장, Height) - 파이썬(Python)](https://star7sss.tistory.com/431) - Jul 09, 2022<br>
