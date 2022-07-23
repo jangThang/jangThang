@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 16199 나이 계산하기 - 파이썬(Python)](https://star7sss.tistory.com/442) - Jul 22, 2022<br>
 [[구현/수학] 백준 24736 Football Scoring - 파이썬(Python)](https://star7sss.tistory.com/441) - Jul 21, 2022<br>
 [[Greedy/그리디] 백준 1946 신입 사원 - 파이썬(Python)](https://star7sss.tistory.com/449) - Jul 20, 2022<br>
 [[구현/수학] 백준 24183 Affischutskicket - 파이썬(Python)](https://star7sss.tistory.com/440) - Jul 19, 2022<br>
@@ -23,4 +24,3 @@
 [[수학/브루트포스] 백준 10972 다음 순열 - 파이썬(Python)](https://star7sss.tistory.com/446) - Jul 14, 2022<br>
 [[구현/수학] 백준 24078 余り (나머지, Remainder) - 파이썬(Python)](https://star7sss.tistory.com/434) - Jul 13, 2022<br>
 [[구현/수학] 백준 24082 立方体 (입방체, Cube) - 파이썬(Python)](https://star7sss.tistory.com/433) - Jul 12, 2022<br>
-[[탐색/BFS] 백준 2583 영역 구하기 - 파이썬(Python)](https://star7sss.tistory.com/448) - Jul 11, 2022<br>
