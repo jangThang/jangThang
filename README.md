@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 24883 자동완성 - 파이썬(Python)](https://star7sss.tistory.com/443) - Jul 24, 2022<br>
+[[동적계획법/DP] 백준 1309 동물원 - 파이썬(Python)](https://star7sss.tistory.com/450) - Jul 23, 2022<br>
 [[구현/수학] 백준 16199 나이 계산하기 - 파이썬(Python)](https://star7sss.tistory.com/442) - Jul 22, 2022<br>
 [[구현/수학] 백준 24736 Football Scoring - 파이썬(Python)](https://star7sss.tistory.com/441) - Jul 21, 2022<br>
 [[Greedy/그리디] 백준 1946 신입 사원 - 파이썬(Python)](https://star7sss.tistory.com/449) - Jul 20, 2022<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 24309 РАВЕНСТВО(평등) - 파이썬(Python)](https://star7sss.tistory.com/438) - Jul 16, 2022<br>
 [[구현/수학] 백준 8871 Zadanie próbne 2 - 파이썬(Python)](https://star7sss.tistory.com/435) - Jul 15, 2022<br>
 [[수학/브루트포스] 백준 10972 다음 순열 - 파이썬(Python)](https://star7sss.tistory.com/446) - Jul 14, 2022<br>
-[[구현/수학] 백준 24078 余り (나머지, Remainder) - 파이썬(Python)](https://star7sss.tistory.com/434) - Jul 13, 2022<br>
-[[구현/수학] 백준 24082 立方体 (입방체, Cube) - 파이썬(Python)](https://star7sss.tistory.com/433) - Jul 12, 2022<br>
