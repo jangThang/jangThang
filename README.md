@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Greedy/그리디] 백준 13597 Tri-du - 파이썬(Python)](https://star7sss.tistory.com/483) - Aug 06, 2022<br>
+[[구현/수학] 백준 18005 Even or Odd? - 파이썬(Python)](https://star7sss.tistory.com/462) - Aug 05, 2022<br>
 [[구현/수학] 백준 19698 헛간 청약 - 파이썬(Python)](https://star7sss.tistory.com/461) - Aug 04, 2022<br>
 [[탐색/BFS] 백준 13549 숨바꼭질 3 - 파이썬(Python)](https://star7sss.tistory.com/539) - Aug 03, 2022<br>
 [[구현/수학] 백준 16693 Pizza Deal - 파이썬(Python)](https://star7sss.tistory.com/460) - Aug 02, 2022<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 24723 녹색거탑 - 파이썬(Python)](https://star7sss.tistory.com/457) - Jul 29, 2022<br>
 [[구현/수학] 백준 15921 수찬은 마린보이야!! - 파이썬(Python)](https://star7sss.tistory.com/456) - Jul 28, 2022<br>
 [[분할정복/DP] 백준 15624 피보나치 수 7 - 파이썬(Python)](https://star7sss.tistory.com/455) - Jul 27, 2022<br>
-[[구현/수학] 백준 15700 타일 채우기 4 - 파이썬(Python)](https://star7sss.tistory.com/454) - Jul 26, 2022<br>
-[[수학/백트래킹] 백준 6603 로또 - 파이썬(Python)](https://star7sss.tistory.com/453) - Jul 25, 2022<br>
