@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 13985 Equality - 파이썬(Python)](https://star7sss.tistory.com/466) - Aug 10, 2022<br>
 [[탐색/BFS] 백준 12851 숨바꼭질 2 - 파이썬(Python)](https://star7sss.tistory.com/540) - Aug 09, 2022<br>
 [[구현/수학] 백준 13136 Do Not Touch Anything - 파이썬(Python)](https://star7sss.tistory.com/465) - Aug 08, 2022<br>
 [[구현/수학] 백준 17009 Winning Score - 파이썬(Python)](https://star7sss.tistory.com/463) - Aug 07, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 16693 Pizza Deal - 파이썬(Python)](https://star7sss.tistory.com/460) - Aug 02, 2022<br>
 [[구현/문자열] 백준 17863 FYI - 파이썬(Python)](https://star7sss.tistory.com/459) - Aug 01, 2022<br>
 [[자료구조/해시] 백준 20232 Archivist - 파이썬(Python)](https://star7sss.tistory.com/481) - Jul 31, 2022<br>
-[[구현/수학] 백준 5928 Contest Timing - 파이썬(Python)](https://star7sss.tistory.com/458) - Jul 30, 2022<br>
