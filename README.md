@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/브루트포스] 백준 1051 숫자 정사각형 - 파이썬(Python)](https://star7sss.tistory.com/542) - Aug 15, 2022<br>
 [[구현/문자열] 백준 6810 ISBN - 파이썬(Python)](https://star7sss.tistory.com/469) - Aug 14, 2022<br>
 [[구현/수학] 백준 6778 Which Alien? - 파이썬(Python)](https://star7sss.tistory.com/468) - Aug 13, 2022<br>
 [[탐색/BFS] 백준 13913 숨바꼭질 4 - 파이썬(Python)](https://star7sss.tistory.com/541) - Aug 12, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 17009 Winning Score - 파이썬(Python)](https://star7sss.tistory.com/463) - Aug 07, 2022<br>
 [[Greedy/그리디] 백준 13597 Tri-du - 파이썬(Python)](https://star7sss.tistory.com/483) - Aug 06, 2022<br>
 [[구현/수학] 백준 18005 Even or Odd? - 파이썬(Python)](https://star7sss.tistory.com/462) - Aug 05, 2022<br>
-[[구현/수학] 백준 19698 헛간 청약 - 파이썬(Python)](https://star7sss.tistory.com/461) - Aug 04, 2022<br>
