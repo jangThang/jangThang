@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 19602 Dog Treats - 파이썬(Python)](https://star7sss.tistory.com/471) - Aug 17, 2022<br>
 [[구현/수학] 백준 18408 3 つの整数 (Three Integers) - 파이썬(Python)](https://star7sss.tistory.com/470) - Aug 16, 2022<br>
 [[구현/브루트포스] 백준 1051 숫자 정사각형 - 파이썬(Python)](https://star7sss.tistory.com/542) - Aug 15, 2022<br>
 [[구현/문자열] 백준 6810 ISBN - 파이썬(Python)](https://star7sss.tistory.com/469) - Aug 14, 2022<br>
@@ -23,4 +24,3 @@
 [[탐색/BFS] 백준 12851 숨바꼭질 2 - 파이썬(Python)](https://star7sss.tistory.com/540) - Aug 09, 2022<br>
 [[구현/수학] 백준 13136 Do Not Touch Anything - 파이썬(Python)](https://star7sss.tistory.com/465) - Aug 08, 2022<br>
 [[구현/수학] 백준 17009 Winning Score - 파이썬(Python)](https://star7sss.tistory.com/463) - Aug 07, 2022<br>
-[[Greedy/그리디] 백준 13597 Tri-du - 파이썬(Python)](https://star7sss.tistory.com/483) - Aug 06, 2022<br>
