@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 15059 Hard choice - 파이썬(Python)](https://star7sss.tistory.com/472) - Aug 19, 2022<br>
+[[정렬/브루트포스] 백준 1015 수열 정렬 - 파이썬(Python)](https://star7sss.tistory.com/543) - Aug 18, 2022<br>
 [[구현/수학] 백준 19602 Dog Treats - 파이썬(Python)](https://star7sss.tistory.com/471) - Aug 17, 2022<br>
 [[구현/수학] 백준 18408 3 つの整数 (Three Integers) - 파이썬(Python)](https://star7sss.tistory.com/470) - Aug 16, 2022<br>
 [[구현/브루트포스] 백준 1051 숫자 정사각형 - 파이썬(Python)](https://star7sss.tistory.com/542) - Aug 15, 2022<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 23825 SASA 모형을 만들어보자 - 파이썬(Python)](https://star7sss.tistory.com/467) - Aug 11, 2022<br>
 [[구현/수학] 백준 13985 Equality - 파이썬(Python)](https://star7sss.tistory.com/466) - Aug 10, 2022<br>
 [[탐색/BFS] 백준 12851 숨바꼭질 2 - 파이썬(Python)](https://star7sss.tistory.com/540) - Aug 09, 2022<br>
-[[구현/수학] 백준 13136 Do Not Touch Anything - 파이썬(Python)](https://star7sss.tistory.com/465) - Aug 08, 2022<br>
-[[구현/수학] 백준 17009 Winning Score - 파이썬(Python)](https://star7sss.tistory.com/463) - Aug 07, 2022<br>
