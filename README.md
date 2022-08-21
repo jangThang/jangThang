@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 22015 金平糖 (Konpeito) - 파이썬(Python)](https://star7sss.tistory.com/476) - Aug 20, 2022<br>
 [[구현/수학] 백준 15059 Hard choice - 파이썬(Python)](https://star7sss.tistory.com/472) - Aug 19, 2022<br>
 [[정렬/브루트포스] 백준 1015 수열 정렬 - 파이썬(Python)](https://star7sss.tistory.com/543) - Aug 18, 2022<br>
 [[구현/수학] 백준 19602 Dog Treats - 파이썬(Python)](https://star7sss.tistory.com/471) - Aug 17, 2022<br>
@@ -23,4 +24,3 @@
 [[탐색/BFS] 백준 13913 숨바꼭질 4 - 파이썬(Python)](https://star7sss.tistory.com/541) - Aug 12, 2022<br>
 [[구현/수학] 백준 23825 SASA 모형을 만들어보자 - 파이썬(Python)](https://star7sss.tistory.com/467) - Aug 11, 2022<br>
 [[구현/수학] 백준 13985 Equality - 파이썬(Python)](https://star7sss.tistory.com/466) - Aug 10, 2022<br>
-[[탐색/BFS] 백준 12851 숨바꼭질 2 - 파이썬(Python)](https://star7sss.tistory.com/540) - Aug 09, 2022<br>
