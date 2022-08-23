@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 16727 ICPC - 파이썬(Python)](https://star7sss.tistory.com/478) - Aug 23, 2022<br>
+[[구현/수학] 백준 14173 Square Pasture - 파이썬(Python)](https://star7sss.tistory.com/477) - Aug 22, 2022<br>
 [[문자열/탐색] 백준 14425 문자열 집합 - 파이썬(Python)](https://star7sss.tistory.com/546) - Aug 21, 2022<br>
 [[구현/수학] 백준 22015 金平糖 (Konpeito) - 파이썬(Python)](https://star7sss.tistory.com/476) - Aug 20, 2022<br>
 [[구현/수학] 백준 15059 Hard choice - 파이썬(Python)](https://star7sss.tistory.com/472) - Aug 19, 2022<br>
@@ -22,5 +24,3 @@
 [[구현/브루트포스] 백준 1051 숫자 정사각형 - 파이썬(Python)](https://star7sss.tistory.com/542) - Aug 15, 2022<br>
 [[구현/문자열] 백준 6810 ISBN - 파이썬(Python)](https://star7sss.tistory.com/469) - Aug 14, 2022<br>
 [[구현/수학] 백준 6778 Which Alien? - 파이썬(Python)](https://star7sss.tistory.com/468) - Aug 13, 2022<br>
-[[탐색/BFS] 백준 13913 숨바꼭질 4 - 파이썬(Python)](https://star7sss.tistory.com/541) - Aug 12, 2022<br>
-[[구현/수학] 백준 23825 SASA 모형을 만들어보자 - 파이썬(Python)](https://star7sss.tistory.com/467) - Aug 11, 2022<br>
