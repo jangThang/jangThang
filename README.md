@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 20353 Atrium - 파이썬(Python)](https://star7sss.tistory.com/479) - Aug 25, 2022<br>
+[[DP/동적계획법] 백준 15486 퇴사 2 - 파이썬(Python)](https://star7sss.tistory.com/550) - Aug 24, 2022<br>
 [[구현/수학] 백준 16727 ICPC - 파이썬(Python)](https://star7sss.tistory.com/478) - Aug 23, 2022<br>
 [[구현/수학] 백준 14173 Square Pasture - 파이썬(Python)](https://star7sss.tistory.com/477) - Aug 22, 2022<br>
 [[문자열/탐색] 백준 14425 문자열 집합 - 파이썬(Python)](https://star7sss.tistory.com/546) - Aug 21, 2022<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 19602 Dog Treats - 파이썬(Python)](https://star7sss.tistory.com/471) - Aug 17, 2022<br>
 [[구현/수학] 백준 18408 3 つの整数 (Three Integers) - 파이썬(Python)](https://star7sss.tistory.com/470) - Aug 16, 2022<br>
 [[구현/브루트포스] 백준 1051 숫자 정사각형 - 파이썬(Python)](https://star7sss.tistory.com/542) - Aug 15, 2022<br>
-[[구현/문자열] 백준 6810 ISBN - 파이썬(Python)](https://star7sss.tistory.com/469) - Aug 14, 2022<br>
-[[구현/수학] 백준 6778 Which Alien? - 파이썬(Python)](https://star7sss.tistory.com/468) - Aug 13, 2022<br>
