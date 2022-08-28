@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 20976 2 番目に大きい整数 (The Second Largest Integer) - 파이썬(Python)](https://star7sss.tistory.com/482) - Aug 28, 2022<br>
+[[DP/동적계획법] 백준 13699 점화식 - 파이썬(Python)](https://star7sss.tistory.com/552) - Aug 27, 2022<br>
 [[구현/수학] 백준 18330 Petrol - 파이썬(Python)](https://star7sss.tistory.com/480) - Aug 26, 2022<br>
 [[구현/수학] 백준 20353 Atrium - 파이썬(Python)](https://star7sss.tistory.com/479) - Aug 25, 2022<br>
 [[DP/동적계획법] 백준 15486 퇴사 2 - 파이썬(Python)](https://star7sss.tistory.com/550) - Aug 24, 2022<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 22015 金平糖 (Konpeito) - 파이썬(Python)](https://star7sss.tistory.com/476) - Aug 20, 2022<br>
 [[구현/수학] 백준 15059 Hard choice - 파이썬(Python)](https://star7sss.tistory.com/472) - Aug 19, 2022<br>
 [[정렬/브루트포스] 백준 1015 수열 정렬 - 파이썬(Python)](https://star7sss.tistory.com/543) - Aug 18, 2022<br>
-[[구현/수학] 백준 19602 Dog Treats - 파이썬(Python)](https://star7sss.tistory.com/471) - Aug 17, 2022<br>
-[[구현/수학] 백준 18408 3 つの整数 (Three Integers) - 파이썬(Python)](https://star7sss.tistory.com/470) - Aug 16, 2022<br>
