@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[동적계획법/DP] 백준 1660 캡틴 이다솜 - 파이썬(Python)](https://star7sss.tistory.com/555) - Sep 03, 2022<br>
+[[구현/수학] 백준 17874 Piece of Cake! - 파이썬(Python)](https://star7sss.tistory.com/488) - Sep 02, 2022<br>
 [[구현/수학] 백준 15025 Judging Moose - 파이썬(Python)](https://star7sss.tistory.com/487) - Sep 01, 2022<br>
 [[DP/동적계획법] 백준 14495 피보나치 비스무리한 수열 - 파이썬(Python)](https://star7sss.tistory.com/553) - Aug 31, 2022<br>
 [[DP/동적계획법] 백준 1788 피보나치 수의 확장 - 파이썬(Python)](https://star7sss.tistory.com/554) - Aug 30, 2022<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 18330 Petrol - 파이썬(Python)](https://star7sss.tistory.com/480) - Aug 26, 2022<br>
 [[구현/수학] 백준 20353 Atrium - 파이썬(Python)](https://star7sss.tistory.com/479) - Aug 25, 2022<br>
 [[DP/동적계획법] 백준 15486 퇴사 2 - 파이썬(Python)](https://star7sss.tistory.com/550) - Aug 24, 2022<br>
-[[구현/수학] 백준 16727 ICPC - 파이썬(Python)](https://star7sss.tistory.com/478) - Aug 23, 2022<br>
-[[구현/수학] 백준 14173 Square Pasture - 파이썬(Python)](https://star7sss.tistory.com/477) - Aug 22, 2022<br>
