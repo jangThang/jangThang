@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 16600 Contemporary Art - 파이썬(Python)](https://star7sss.tistory.com/492) - Sep 08, 2022<br>
 [[구현/문자열] 백준 21598 SciComLove - 파이썬(Python)](https://star7sss.tistory.com/491) - Sep 07, 2022<br>
 [[Greedy/그리디] 백준 1343 폴리오미노 - 파이썬(Python)](https://star7sss.tistory.com/556) - Sep 06, 2022<br>
 [[구현/수학] 백준 24294 ГРАДИНА - 파이썬(Python)](https://star7sss.tistory.com/490) - Sep 05, 2022<br>
@@ -23,4 +24,3 @@
 [[DP/동적계획법] 백준 14495 피보나치 비스무리한 수열 - 파이썬(Python)](https://star7sss.tistory.com/553) - Aug 31, 2022<br>
 [[DP/동적계획법] 백준 1788 피보나치 수의 확장 - 파이썬(Python)](https://star7sss.tistory.com/554) - Aug 30, 2022<br>
 [[구현/수학] 백준 16017 Telemarketer or not? - 파이썬(Python)](https://star7sss.tistory.com/486) - Aug 29, 2022<br>
-[[구현/수학] 백준 20976 2 番目に大きい整数 (The Second Largest Integer) - 파이썬(Python)](https://star7sss.tistory.com/482) - Aug 28, 2022<br>
