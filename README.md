@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[우선순위큐/그리디] 백준 1715 카드 정렬하기 - 파이썬(Python)](https://star7sss.tistory.com/561) - Sep 12, 2022<br>
+[[구현/수학] 백준 14065 Gorivo - 파이썬(Python)](https://star7sss.tistory.com/496) - Sep 11, 2022<br>
+[[Activity] 컴퓨터활용능력(컴활) 1급 리뷰/후기](https://star7sss.tistory.com/644) - Sep 11, 2022<br>
 [[구현/수학] 백준 20215 Cutting Corners - 파이썬(Python)](https://star7sss.tistory.com/493) - Sep 10, 2022<br>
 [[그리디/Greedy] 백준 9237 이장님 초대 - 파이썬(Python)](https://star7sss.tistory.com/557) - Sep 09, 2022<br>
 [[구현/수학] 백준 16600 Contemporary Art - 파이썬(Python)](https://star7sss.tistory.com/492) - Sep 08, 2022<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 24294 ГРАДИНА - 파이썬(Python)](https://star7sss.tistory.com/490) - Sep 05, 2022<br>
 [[구현/수학] 백준 21612 Boiling Water - 파이썬(Python)](https://star7sss.tistory.com/489) - Sep 04, 2022<br>
 [[동적계획법/DP] 백준 1660 캡틴 이다솜 - 파이썬(Python)](https://star7sss.tistory.com/555) - Sep 03, 2022<br>
-[[구현/수학] 백준 17874 Piece of Cake! - 파이썬(Python)](https://star7sss.tistory.com/488) - Sep 02, 2022<br>
-[[구현/수학] 백준 15025 Judging Moose - 파이썬(Python)](https://star7sss.tistory.com/487) - Sep 01, 2022<br>
-[[DP/동적계획법] 백준 14495 피보나치 비스무리한 수열 - 파이썬(Python)](https://star7sss.tistory.com/553) - Aug 31, 2022<br>
