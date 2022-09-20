@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 21335 Another Eruption - 파이썬(Python)](https://star7sss.tistory.com/502) - Sep 20, 2022<br>
 [[구현/수학] 백준 8710 Koszykarz - 파이썬(Python)](https://star7sss.tistory.com/501) - Sep 19, 2022<br>
 [[Greedy/그리디] 백준 16435 스네이크버드 - 파이썬(Python)](https://star7sss.tistory.com/559) - Sep 18, 2022<br>
 [[구현/수학] 백준 15474 鉛筆 (Pencils) - 파이썬(Python)](https://star7sss.tistory.com/500) - Sep 17, 2022<br>
@@ -23,4 +24,3 @@
 [[우선순위큐/그리디] 백준 1715 카드 정렬하기 - 파이썬(Python)](https://star7sss.tistory.com/561) - Sep 12, 2022<br>
 [[구현/수학] 백준 14065 Gorivo - 파이썬(Python)](https://star7sss.tistory.com/496) - Sep 11, 2022<br>
 [[Activity] 컴퓨터활용능력(컴활) 1급 리뷰/후기](https://star7sss.tistory.com/644) - Sep 11, 2022<br>
-[[구현/수학] 백준 20215 Cutting Corners - 파이썬(Python)](https://star7sss.tistory.com/493) - Sep 10, 2022<br>
