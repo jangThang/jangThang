@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 8723 Patyki - 파이썬(Python)](https://star7sss.tistory.com/504) - Sep 23, 2022<br>
 [[구현/수학] 백준 15051 Máquina de café - 파이썬(Python)](https://star7sss.tistory.com/503) - Sep 22, 2022<br>
 [[탐색/자료구조] 백준 1991 트리 순회 - 파이썬(Python)](https://star7sss.tistory.com/564) - Sep 21, 2022<br>
 [[구현/수학] 백준 21335 Another Eruption - 파이썬(Python)](https://star7sss.tistory.com/502) - Sep 20, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/그리디] 백준 2828 사과 담기 게임 - 파이썬(Python)](https://star7sss.tistory.com/558) - Sep 15, 2022<br>
 [[구현/수학] 백준 14038 Tournament Selection - 파이썬(Python)](https://star7sss.tistory.com/498) - Sep 14, 2022<br>
 [[구현/수학] 백준 15610 Abbey Courtyard - 파이썬(Python)](https://star7sss.tistory.com/497) - Sep 13, 2022<br>
-[[우선순위큐/그리디] 백준 1715 카드 정렬하기 - 파이썬(Python)](https://star7sss.tistory.com/561) - Sep 12, 2022<br>
