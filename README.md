@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/실수오차] 백준 15128 Congruent Numbers - 파이썬(Python)](https://star7sss.tistory.com/507) - Sep 28, 2022<br>
 [[그리디/Greedy] 백준 11034 캥거루 세마리 2 - 파이썬(Python)](https://star7sss.tistory.com/566) - Sep 27, 2022<br>
 [[구현/수학] 백준 8718 Bałwanek - 파이썬(Python)](https://star7sss.tistory.com/506) - Sep 26, 2022<br>
 [[구현/수학] 백준 18414 X に最も近い値 (The Nearest Value) - 파이썬(Python)](https://star7sss.tistory.com/505) - Sep 25, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 21335 Another Eruption - 파이썬(Python)](https://star7sss.tistory.com/502) - Sep 20, 2022<br>
 [[구현/수학] 백준 8710 Koszykarz - 파이썬(Python)](https://star7sss.tistory.com/501) - Sep 19, 2022<br>
 [[Greedy/그리디] 백준 16435 스네이크버드 - 파이썬(Python)](https://star7sss.tistory.com/559) - Sep 18, 2022<br>
-[[구현/수학] 백준 15474 鉛筆 (Pencils) - 파이썬(Python)](https://star7sss.tistory.com/500) - Sep 17, 2022<br>
