@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[그리디/Greedy] 백준 14469 소가 길을 건너간 이유 3 - 파이썬(Python)](https://star7sss.tistory.com/567) - Sep 30, 2022<br>
+[[구현/수학] 백준 21591 Laptop Sticker - 파이썬(Python)](https://star7sss.tistory.com/508) - Sep 29, 2022<br>
 [[구현/실수오차] 백준 15128 Congruent Numbers - 파이썬(Python)](https://star7sss.tistory.com/507) - Sep 28, 2022<br>
 [[그리디/Greedy] 백준 11034 캥거루 세마리 2 - 파이썬(Python)](https://star7sss.tistory.com/566) - Sep 27, 2022<br>
 [[구현/수학] 백준 8718 Bałwanek - 파이썬(Python)](https://star7sss.tistory.com/506) - Sep 26, 2022<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 15051 Máquina de café - 파이썬(Python)](https://star7sss.tistory.com/503) - Sep 22, 2022<br>
 [[탐색/자료구조] 백준 1991 트리 순회 - 파이썬(Python)](https://star7sss.tistory.com/564) - Sep 21, 2022<br>
 [[구현/수학] 백준 21335 Another Eruption - 파이썬(Python)](https://star7sss.tistory.com/502) - Sep 20, 2022<br>
-[[구현/수학] 백준 8710 Koszykarz - 파이썬(Python)](https://star7sss.tistory.com/501) - Sep 19, 2022<br>
-[[Greedy/그리디] 백준 16435 스네이크버드 - 파이썬(Python)](https://star7sss.tistory.com/559) - Sep 18, 2022<br>
