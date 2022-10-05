@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 24083 短針 (Hour Hand) - 파이썬(Python)](https://star7sss.tistory.com/511) - Oct 04, 2022<br>
 [[브루트포스/수학] 백준 1145 거의 대부분의 배수 - 파이썬(Python)](https://star7sss.tistory.com/568) - Oct 03, 2022<br>
 [[구현/수학] 백준 21633 Bank Transfer - 파이썬(Python)](https://star7sss.tistory.com/510) - Oct 02, 2022<br>
 [[구현/수학] 백준 20233 Bicycle - 파이썬(Python)](https://star7sss.tistory.com/509) - Oct 01, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 8718 Bałwanek - 파이썬(Python)](https://star7sss.tistory.com/506) - Sep 26, 2022<br>
 [[구현/수학] 백준 18414 X に最も近い値 (The Nearest Value) - 파이썬(Python)](https://star7sss.tistory.com/505) - Sep 25, 2022<br>
 [[동적계획법/DP] 백준 9251 LCS - 파이썬(Python)](https://star7sss.tistory.com/565) - Sep 24, 2022<br>
-[[구현/수학] 백준 8723 Patyki - 파이썬(Python)](https://star7sss.tistory.com/504) - Sep 23, 2022<br>
