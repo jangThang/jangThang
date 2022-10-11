@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 24087 アイスクリーム (Ice Cream) - 파이썬(Python)](https://star7sss.tistory.com/520) - Oct 10, 2022<br>
 [[BruteForce/브루트포스] 백준 2061 좋은 암호 - 파이썬(Python)](https://star7sss.tistory.com/571) - Oct 09, 2022<br>
 [[구현/수학] 백준 13623 Zero or One - 파이썬(Python)](https://star7sss.tistory.com/519) - Oct 08, 2022<br>
 [[구현/수학] 백준 13580 Andando no tempo - 파이썬(Python)](https://star7sss.tistory.com/518) - Oct 07, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 21633 Bank Transfer - 파이썬(Python)](https://star7sss.tistory.com/510) - Oct 02, 2022<br>
 [[구현/수학] 백준 20233 Bicycle - 파이썬(Python)](https://star7sss.tistory.com/509) - Oct 01, 2022<br>
 [[그리디/Greedy] 백준 14469 소가 길을 건너간 이유 3 - 파이썬(Python)](https://star7sss.tistory.com/567) - Sep 30, 2022<br>
-[[구현/수학] 백준 21591 Laptop Sticker - 파이썬(Python)](https://star7sss.tistory.com/508) - Sep 29, 2022<br>
