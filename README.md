@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[자료구조/스택] 백준 1918 후위 표기식 - 파이썬(Python)](https://star7sss.tistory.com/585) - Oct 30, 2022<br>
+[[구현/수학] 백준 20867 Rulltrappa - 파이썬(Python)](https://star7sss.tistory.com/533) - Oct 29, 2022<br>
+[[구현/수학] 백준 20839 Betygsättning - 파이썬(Python)](https://star7sss.tistory.com/532) - Oct 28, 2022<br>
 [[구현/수학] 백준 1312 소수 - 파이썬(Python)](https://star7sss.tistory.com/570) - Oct 27, 2022<br>
 [[구현/수학] 백준 24365 ПЧЕЛИЧКАТА МАЯ - 파이썬(Python)](https://star7sss.tistory.com/531) - Oct 26, 2022<br>
 [[구현/수학] 백준 23375 Arm Coordination - 파이썬(Python)](https://star7sss.tistory.com/530) - Oct 25, 2022<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 24860 Counting Antibodies - 파이썬(Python)](https://star7sss.tistory.com/528) - Oct 22, 2022<br>
 [[탐색/DFS] 백준 1167 트리의 지름 - 파이썬(Python)](https://star7sss.tistory.com/578) - Oct 21, 2022<br>
 [[구현/수학] 백준 24072 帰省 (Homecoming) - 파이썬(Python)](https://star7sss.tistory.com/527) - Oct 20, 2022<br>
-[[구현/수학] 백준 21638 SMS from MCHS - 파이썬(Python)](https://star7sss.tistory.com/526) - Oct 19, 2022<br>
-[[탐색/DFS] 백준 1967 트리의 지름 - 파이썬(Python)](https://star7sss.tistory.com/577) - Oct 18, 2022<br>
-[[구현/수학] 백준 24075 計算 (Calculation) - 파이썬(Python)](https://star7sss.tistory.com/525) - Oct 17, 2022<br>
