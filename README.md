@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 1408 24 - 파이썬(Python)](https://star7sss.tistory.com/589) - Nov 09, 2022<br>
 [[구현/문자열] 백준 10823 더하기 2 - 파이썬(Python)](https://star7sss.tistory.com/545) - Nov 08, 2022<br>
 [[구현/문자열] 백준 25083 새싹 - 파이썬(Python)](https://star7sss.tistory.com/544) - Nov 07, 2022<br>
 [[그리디/Greedy] 백준 1758 알바생 강호 - 파이썬(Python)](https://star7sss.tistory.com/588) - Nov 06, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 1247 부호 - 파이썬(Python)](https://star7sss.tistory.com/535) - Nov 01, 2022<br>
 [[구현/수학] 백준 24356 ЧАСОВНИК - 파이썬(Python)](https://star7sss.tistory.com/534) - Oct 31, 2022<br>
 [[자료구조/스택] 백준 1918 후위 표기식 - 파이썬(Python)](https://star7sss.tistory.com/585) - Oct 30, 2022<br>
-[[구현/수학] 백준 20867 Rulltrappa - 파이썬(Python)](https://star7sss.tistory.com/533) - Oct 29, 2022<br>
