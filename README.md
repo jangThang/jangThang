@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[수학/브루트포스] 백준 1837 암호제작 - 파이썬(Python)](https://star7sss.tistory.com/590) - Nov 12, 2022<br>
 [[구현/수학] 백준 2981 검문 - 파이썬(Python)](https://star7sss.tistory.com/548) - Nov 11, 2022<br>
 [[구현/문자열] 백준 10174 팰린드롬 - 파이썬(Python)](https://star7sss.tistory.com/547) - Nov 10, 2022<br>
 [[구현/수학] 백준 1408 24 - 파이썬(Python)](https://star7sss.tistory.com/589) - Nov 09, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 4635 Speed Limit - 파이썬(Python)](https://star7sss.tistory.com/537) - Nov 04, 2022<br>
 [[구현/문자열] 백준 1284 집 주소 - 파이썬(Python)](https://star7sss.tistory.com/536) - Nov 03, 2022<br>
 [[탐색/밸만포드] 백준 1865 웜홀 - 파이썬(Python)](https://star7sss.tistory.com/587) - Nov 02, 2022<br>
-[[구현/수학] 백준 1247 부호 - 파이썬(Python)](https://star7sss.tistory.com/535) - Nov 01, 2022<br>
