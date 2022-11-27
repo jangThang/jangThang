@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 5073 삼각형과 세 변 - 파이썬(Python)](https://star7sss.tistory.com/592) - Nov 26, 2022<br>
 [[구현/수학] 백준 14909 양수 개수 세기 - 파이썬(Python)](https://star7sss.tistory.com/608) - Nov 25, 2022<br>
 [[구현/수학] 백준 25206 너의 평점은 - 파이썬(Python)](https://star7sss.tistory.com/580) - Nov 24, 2022<br>
 [[수학/브루트포스] 백준 10419 지각 - 파이썬(Python)](https://star7sss.tistory.com/607) - Nov 23, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 2547 사탕 선생 고창영 - 파이썬(Python)](https://star7sss.tistory.com/572) - Nov 18, 2022<br>
 [[구현/문자열] 백준 5354 J박스 - 파이썬(Python)](https://star7sss.tistory.com/591) - Nov 17, 2022<br>
 [[수학/기하학] 백준 1004 어린 왕자 - 파이썬(Python)](https://star7sss.tistory.com/562) - Nov 16, 2022<br>
-[[Greedy/그리디] 백준 14487 욱제는 효도쟁이야!! - 파이썬(Python)](https://star7sss.tistory.com/560) - Nov 15, 2022<br>
