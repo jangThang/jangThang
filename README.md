@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 4493 가위 바위 보? - 자바(Java)](https://star7sss.tistory.com/599) - Dec 03, 2022<br>
 [[구현/수학] 백준 14920 3n+1 수열 - 파이썬(Python)](https://star7sss.tistory.com/597) - Dec 02, 2022<br>
 [[구현/수학] 백준 10599 페르시아의 왕들 - 파이썬(Python)](https://star7sss.tistory.com/610) - Dec 01, 2022<br>
 [[구현/수학] 백준 10409 서버 - 파이썬(Python)](https://star7sss.tistory.com/595) - Nov 30, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 14909 양수 개수 세기 - 파이썬(Python)](https://star7sss.tistory.com/608) - Nov 25, 2022<br>
 [[구현/수학] 백준 25206 너의 평점은 - 파이썬(Python)](https://star7sss.tistory.com/580) - Nov 24, 2022<br>
 [[수학/브루트포스] 백준 10419 지각 - 파이썬(Python)](https://star7sss.tistory.com/607) - Nov 23, 2022<br>
-[[구현/문자열] 백준 25205 경로당펑크 2077 - 파이썬(Python)](https://star7sss.tistory.com/579) - Nov 22, 2022<br>
