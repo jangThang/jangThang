@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 7891 Can you add this? - 파이썬(Python)](https://star7sss.tistory.com/612) - Dec 07, 2022<br>
 [[수학/브루트포스] 백준 6131 완전 제곱수 - 파이썬(Python)](https://star7sss.tistory.com/606) - Dec 06, 2022<br>
 [[구현/수학] 백준 2863 이게 분수? - 자바(Java), 파이썬(Python)](https://star7sss.tistory.com/602) - Dec 05, 2022<br>
 [[Activity] SQL 개발자(SQLD) 리뷰/후기](https://star7sss.tistory.com/648) - Dec 05, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 10599 페르시아의 왕들 - 파이썬(Python)](https://star7sss.tistory.com/610) - Dec 01, 2022<br>
 [[구현/수학] 백준 10409 서버 - 파이썬(Python)](https://star7sss.tistory.com/595) - Nov 30, 2022<br>
 [[구현/수학] 백준 10474 분수좋아해? - 파이썬(Python)](https://star7sss.tistory.com/596) - Nov 29, 2022<br>
-[[구현/수학] 백준 11134 쿠키애호가 - 파이썬(Python)](https://star7sss.tistory.com/609) - Nov 28, 2022<br>
