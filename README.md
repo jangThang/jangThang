@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[정렬/탐색] 백준 25305 커트라인 - 파이썬(Python)](https://star7sss.tistory.com/617) - Dec 12, 2022<br>
 [[구현/정렬] 백준 17263 Sort 마스터 배지훈 - 파이썬(Python)](https://star7sss.tistory.com/616) - Dec 11, 2022<br>
 [[구현/수학] 백준 9713 Sum of Odd Sequence - 파이썬(Python)](https://star7sss.tistory.com/615) - Dec 10, 2022<br>
 [[구현] 백준 17010 Time to Decompress - 파이썬(Python)](https://star7sss.tistory.com/614) - Dec 09, 2022<br>
@@ -23,4 +24,3 @@
 [[Activity] SQL 개발자(SQLD) 리뷰/후기](https://star7sss.tistory.com/648) - Dec 05, 2022<br>
 [[구현/수학] 백준 11648 지속 - 파이썬(Python)](https://star7sss.tistory.com/611) - Dec 04, 2022<br>
 [[Activity] 데이터분석 준전문가(ADsP) 리뷰/후기](https://star7sss.tistory.com/647) - Dec 04, 2022<br>
-[[구현/수학] 백준 4493 가위 바위 보? - 자바(Java)](https://star7sss.tistory.com/599) - Dec 03, 2022<br>
