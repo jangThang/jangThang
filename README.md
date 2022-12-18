@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 15232 Rectangles - 파이썬(Python)](https://star7sss.tistory.com/622) - Dec 17, 2022<br>
 [[구현/수학] 백준 17174 전체 계산 횟수 - 파이썬(Python)](https://star7sss.tistory.com/621) - Dec 16, 2022<br>
 [[수학/브루트포스] 백준 4619 루트 - 파이썬(Python)](https://star7sss.tistory.com/620) - Dec 15, 2022<br>
 [[구현/수학] 백준 25304 영수증 - 파이썬(Python)](https://star7sss.tistory.com/619) - Dec 14, 2022<br>
@@ -23,4 +24,3 @@
 [[구현] 백준 17010 Time to Decompress - 파이썬(Python)](https://star7sss.tistory.com/614) - Dec 09, 2022<br>
 [[구현/수학] 백준 20053 최소, 최대 2 - 파이썬(Python)](https://star7sss.tistory.com/613) - Dec 08, 2022<br>
 [[구현/수학] 백준 7891 Can you add this? - 파이썬(Python)](https://star7sss.tistory.com/612) - Dec 07, 2022<br>
-[[수학/브루트포스] 백준 6131 완전 제곱수 - 파이썬(Python)](https://star7sss.tistory.com/606) - Dec 06, 2022<br>
