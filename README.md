@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현] 백준 24263 알고리즘 수업 - 알고리즘의 수행 시간 2 - 파이썬(Python)](https://star7sss.tistory.com/629) - Dec 24, 2022<br>
 [[수학/구현] 백준 13484 Tarifa - 파이썬(Python)](https://star7sss.tistory.com/628) - Dec 23, 2022<br>
 [[구현/수학] 백준 7595 Triangles - 파이썬(Python)](https://star7sss.tistory.com/627) - Dec 22, 2022<br>
 [[구현/수학] 백준 14215 세 막대 - 파이썬(Python)](https://star7sss.tistory.com/626) - Dec 21, 2022<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 17174 전체 계산 횟수 - 파이썬(Python)](https://star7sss.tistory.com/621) - Dec 16, 2022<br>
 [[수학/브루트포스] 백준 4619 루트 - 파이썬(Python)](https://star7sss.tistory.com/620) - Dec 15, 2022<br>
 [[구현/수학] 백준 25304 영수증 - 파이썬(Python)](https://star7sss.tistory.com/619) - Dec 14, 2022<br>
-[[구현/수학] 백준 11024 더하기 4 - 파이썬(Python)](https://star7sss.tistory.com/618) - Dec 13, 2022<br>
