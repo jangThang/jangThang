@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 14761 FizzBuzz - 파이썬(Python)](https://star7sss.tistory.com/637) - Jan 01, 2023<br>
 [[구현/수학] 백준 14682 Shifty Sum - 파이썬(Python)](https://star7sss.tistory.com/636) - Dec 31, 2022<br>
 [[구현/수학] 백준 11874 ZAMKA - 파이썬(Python)](https://star7sss.tistory.com/635) - Dec 30, 2022<br>
 [[구현/수학] 백준 13073 Sums - 파이썬(Python)](https://star7sss.tistory.com/634) - Dec 29, 2022<br>
@@ -23,4 +24,3 @@
 [[구현] 백준 24263 알고리즘 수업 - 알고리즘의 수행 시간 2 - 파이썬(Python)](https://star7sss.tistory.com/629) - Dec 24, 2022<br>
 [[수학/구현] 백준 13484 Tarifa - 파이썬(Python)](https://star7sss.tistory.com/628) - Dec 23, 2022<br>
 [[구현/수학] 백준 7595 Triangles - 파이썬(Python)](https://star7sss.tistory.com/627) - Dec 22, 2022<br>
-[[구현/수학] 백준 14215 세 막대 - 파이썬(Python)](https://star7sss.tistory.com/626) - Dec 21, 2022<br>
