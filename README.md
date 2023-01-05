@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 23811 골뱅이 찍기 - ㅌ - 파이썬(Python)](https://star7sss.tistory.com/640) - Jan 04, 2023<br>
 [[구현/수학] 백준 13240 Chessboard - 파이썬(Python)](https://star7sss.tistory.com/639) - Jan 03, 2023<br>
 [[구현/수학] 백준 4714 Lunacy - 파이썬(Python)](https://star7sss.tistory.com/638) - Jan 02, 2023<br>
 [[구현/수학] 백준 14761 FizzBuzz - 파이썬(Python)](https://star7sss.tistory.com/637) - Jan 01, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 20410 추첨상 사수 대작전! (Easy) - 파이썬(Python)](https://star7sss.tistory.com/632) - Dec 27, 2022<br>
 [[수학/브루트포스] 백준 14782 Bedtime Reading, I - 파이썬(Python)](https://star7sss.tistory.com/631) - Dec 26, 2022<br>
 [[구현] 백준 23806 골뱅이 찍기 - ㅁ - 파이썬(Python)](https://star7sss.tistory.com/630) - Dec 25, 2022<br>
-[[구현] 백준 24263 알고리즘 수업 - 알고리즘의 수행 시간 2 - 파이썬(Python)](https://star7sss.tistory.com/629) - Dec 24, 2022<br>
