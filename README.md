@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 23808 골뱅이 찍기 - ㅂ - 파이썬(Python)](https://star7sss.tistory.com/658) - Jan 08, 2023<br>
 [[구현/수학] 백준 16546 Missing Runners - 파이썬(Python)](https://star7sss.tistory.com/643) - Jan 07, 2023<br>
 [[구현/수학] 백준 10180 Ship Selection - 파이썬(Python)](https://star7sss.tistory.com/642) - Jan 06, 2023<br>
 [[구현/수학] 백준 18398 HOMWRK - 파이썬(Python)](https://star7sss.tistory.com/641) - Jan 05, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 14682 Shifty Sum - 파이썬(Python)](https://star7sss.tistory.com/636) - Dec 31, 2022<br>
 [[구현/수학] 백준 11874 ZAMKA - 파이썬(Python)](https://star7sss.tistory.com/635) - Dec 30, 2022<br>
 [[구현/수학] 백준 13073 Sums - 파이썬(Python)](https://star7sss.tistory.com/634) - Dec 29, 2022<br>
-[[수학/브루트포스] 백준 17618 신기한 수 - 파이썬(Python)](https://star7sss.tistory.com/633) - Dec 28, 2022<br>
