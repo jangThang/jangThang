@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 17350 2루수 이름이 뭐야 - 파이썬(Python)](https://star7sss.tistory.com/672) - Jan 22, 2023<br>
 [[구현/수학] 백준 11109 괴짜 교수 - 파이썬(Python)](https://star7sss.tistory.com/671) - Jan 21, 2023<br>
 [[구현/수학] 백준 20361 일우는 야바위꾼 - 파이썬(Python)](https://star7sss.tistory.com/670) - Jan 20, 2023<br>
 [[구현/수학] 백준 9094 수학적 호기심 - 파이썬(Python)](https://star7sss.tistory.com/669) - Jan 19, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 23803 골뱅이 찍기 - ㄴ - 파이썬(Python)](https://star7sss.tistory.com/664) - Jan 14, 2023<br>
 [[구현/수학] 백준 13610 Volta - 파이썬(Python)](https://star7sss.tistory.com/663) - Jan 13, 2023<br>
 [[구현/수학] 백준 22380 割り勘 - 파이썬(Python)](https://star7sss.tistory.com/662) - Jan 12, 2023<br>
-[[구현/문자열] 백준 20944 팰린드롬 척화비 - 파이썬(Python)](https://star7sss.tistory.com/661) - Jan 11, 2023<br>
