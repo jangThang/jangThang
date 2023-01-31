@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 2712 미국 스타일 - 파이썬(Python)](https://star7sss.tistory.com/680) - Jan 30, 2023<br>
 [[구현/수학] 백준 23804 골뱅이 찍기 - ㄷ - 파이썬(Python)](https://star7sss.tistory.com/679) - Jan 29, 2023<br>
 [[구현/수학] 백준 23530 Not A + B - 파이썬(Python)](https://star7sss.tistory.com/678) - Jan 28, 2023<br>
 [[구현/수학] 백준 14182 Tax - 파이썬(Python)](https://star7sss.tistory.com/677) - Jan 27, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 17350 2루수 이름이 뭐야 - 파이썬(Python)](https://star7sss.tistory.com/672) - Jan 22, 2023<br>
 [[구현/수학] 백준 11109 괴짜 교수 - 파이썬(Python)](https://star7sss.tistory.com/671) - Jan 21, 2023<br>
 [[구현/수학] 백준 20361 일우는 야바위꾼 - 파이썬(Python)](https://star7sss.tistory.com/670) - Jan 20, 2023<br>
-[[구현/수학] 백준 9094 수학적 호기심 - 파이썬(Python)](https://star7sss.tistory.com/669) - Jan 19, 2023<br>
