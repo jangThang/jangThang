@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 4880 다음수 - 파이썬(Python)](https://star7sss.tistory.com/687) - Feb 06, 2023<br>
+[[구현/수학] 백준 11586 지영 공주님의 마법 거울 - 파이썬(Python)](https://star7sss.tistory.com/686) - Feb 05, 2023<br>
+[[구현/수학] 백준 23812 골뱅이 찍기 - 돌아간 ㅍ - 파이썬(Python)](https://star7sss.tistory.com/685) - Feb 04, 2023<br>
 [[구현/수학] 백준 14545 Square - 파이썬(Python)](https://star7sss.tistory.com/684) - Feb 03, 2023<br>
 [[수학/브루트포스] 백준 1016 제곱 ㄴㄴ수 - 파이썬(Python)](https://star7sss.tistory.com/683) - Feb 02, 2023<br>
 [[구현/수학] 백준 15818 오버플로우와 모듈러 - 파이썬(Python)](https://star7sss.tistory.com/682) - Feb 01, 2023<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 23804 골뱅이 찍기 - ㄷ - 파이썬(Python)](https://star7sss.tistory.com/679) - Jan 29, 2023<br>
 [[구현/수학] 백준 23530 Not A + B - 파이썬(Python)](https://star7sss.tistory.com/678) - Jan 28, 2023<br>
 [[구현/수학] 백준 14182 Tax - 파이썬(Python)](https://star7sss.tistory.com/677) - Jan 27, 2023<br>
-[[구현/수학] 백준 11320 삼각 무늬 - 1 - 파이썬(Python)](https://star7sss.tistory.com/676) - Jan 26, 2023<br>
-[[구현/수학] 백준 16483 접시 안의 원 - 파이썬(Python)](https://star7sss.tistory.com/675) - Jan 25, 2023<br>
-[[구현/수학] 백준 14491 9진수 - 파이썬(Python)](https://star7sss.tistory.com/674) - Jan 24, 2023<br>
