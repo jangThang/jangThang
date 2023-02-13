@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[수학/브루트포스] 백준 4690 완전 세제곱 - 파이썬(Python)](https://star7sss.tistory.com/693) - Feb 12, 2023<br>
+[[구현/수학] 백준 5217 쌍의 합 - 파이썬(Python)](https://star7sss.tistory.com/692) - Feb 11, 2023<br>
+[[구현/수학] 백준 3029 경고 - 파이썬(Python)](https://star7sss.tistory.com/691) - Feb 10, 2023<br>
 [[구현/수학] 백준 4892 숫자 맞추기 게임 - 파이썬(Python)](https://star7sss.tistory.com/690) - Feb 09, 2023<br>
 [[구현/수학] 백준 6378 디지털 루트 - 파이썬(Python)](https://star7sss.tistory.com/689) - Feb 08, 2023<br>
 [[구현/수학] 백준 2997 네 번째 수 - 파이썬(Python)](https://star7sss.tistory.com/688) - Feb 07, 2023<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 23812 골뱅이 찍기 - 돌아간 ㅍ - 파이썬(Python)](https://star7sss.tistory.com/685) - Feb 04, 2023<br>
 [[구현/수학] 백준 14545 Square - 파이썬(Python)](https://star7sss.tistory.com/684) - Feb 03, 2023<br>
 [[수학/브루트포스] 백준 1016 제곱 ㄴㄴ수 - 파이썬(Python)](https://star7sss.tistory.com/683) - Feb 02, 2023<br>
-[[구현/수학] 백준 15818 오버플로우와 모듈러 - 파이썬(Python)](https://star7sss.tistory.com/682) - Feb 01, 2023<br>
-[[구현/수학] 백준 4562 No Brainer - 파이썬(Python)](https://star7sss.tistory.com/681) - Jan 31, 2023<br>
-[[구현/수학] 백준 2712 미국 스타일 - 파이썬(Python)](https://star7sss.tistory.com/680) - Jan 30, 2023<br>
