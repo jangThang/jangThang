@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 4470 줄번호 - 파이썬(Python)](https://star7sss.tistory.com/697) - Feb 16, 2023<br>
 [[구현/수학] 백준 7510 고급 수학 - 파이썬(Python)](https://star7sss.tistory.com/696) - Feb 15, 2023<br>
 [[구현/수학] 백준 9517 아이 러브 크로아티아 - 파이썬(Python)](https://star7sss.tistory.com/695) - Feb 14, 2023<br>
 [[구현/수학] 백준 6321 IBM 빼기 1 - 파이썬(Python)](https://star7sss.tistory.com/694) - Feb 13, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 6378 디지털 루트 - 파이썬(Python)](https://star7sss.tistory.com/689) - Feb 08, 2023<br>
 [[구현/수학] 백준 2997 네 번째 수 - 파이썬(Python)](https://star7sss.tistory.com/688) - Feb 07, 2023<br>
 [[구현/수학] 백준 4880 다음수 - 파이썬(Python)](https://star7sss.tistory.com/687) - Feb 06, 2023<br>
-[[구현/수학] 백준 11586 지영 공주님의 마법 거울 - 파이썬(Python)](https://star7sss.tistory.com/686) - Feb 05, 2023<br>
