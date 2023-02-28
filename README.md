@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[ERROR] JDBC-12007:Requested cursor [-1] was not found.](https://star7sss.tistory.com/773) - Feb 27, 2023<br>
 [[구현/수학] 백준 21866 추첨을 통해 커피를 받자 - 파이썬(Python)](https://star7sss.tistory.com/707) - Feb 26, 2023<br>
 [[구현/수학] 백준 16504 종이접기 - 파이썬(Python)](https://star7sss.tistory.com/706) - Feb 25, 2023<br>
 [[구현/수학] 백준 11970 Fence Painting - 파이썬(Python)](https://star7sss.tistory.com/705) - Feb 24, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 1703 생장점 - 파이썬(Python)](https://star7sss.tistory.com/700) - Feb 19, 2023<br>
 [[구현/수학] 백준 5613 계산기 프로그램 - 파이썬(Python)](https://star7sss.tistory.com/699) - Feb 18, 2023<br>
 [[구현/수학] 백준 15917 노솔브 방지문제야!! - 파이썬(Python)](https://star7sss.tistory.com/698) - Feb 17, 2023<br>
-[[구현/수학] 백준 4470 줄번호 - 파이썬(Python)](https://star7sss.tistory.com/697) - Feb 16, 2023<br>
