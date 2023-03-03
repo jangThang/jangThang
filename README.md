@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 4740 거울, 오! 거울 - 파이썬(Python)](https://star7sss.tistory.com/710) - Mar 01, 2023<br>
+[[구현/수학] 백준 5666 Hot Dogs - 파이썬(Python)](https://star7sss.tistory.com/709) - Feb 28, 2023<br>
+[[구현/수학] 백준 9366 삼각형 분류 - 파이썬(Python)](https://star7sss.tistory.com/708) - Feb 27, 2023<br>
 [[ERROR] JDBC-12007:Requested cursor [-1] was not found.](https://star7sss.tistory.com/773) - Feb 27, 2023<br>
 [[구현/수학] 백준 21866 추첨을 통해 커피를 받자 - 파이썬(Python)](https://star7sss.tistory.com/707) - Feb 26, 2023<br>
 [[구현/수학] 백준 16504 종이접기 - 파이썬(Python)](https://star7sss.tistory.com/706) - Feb 25, 2023<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 9501 꿍의 우주여행 - 파이썬(Python)](https://star7sss.tistory.com/703) - Feb 22, 2023<br>
 [[구현/수학] 백준 5612 터널의 입구와 출구 - 파이썬(Python)](https://star7sss.tistory.com/702) - Feb 21, 2023<br>
 [[구현/수학] 백준 2721 삼각수의 합 - 파이썬(Python)](https://star7sss.tistory.com/701) - Feb 20, 2023<br>
-[[구현/수학] 백준 1703 생장점 - 파이썬(Python)](https://star7sss.tistory.com/700) - Feb 19, 2023<br>
-[[구현/수학] 백준 5613 계산기 프로그램 - 파이썬(Python)](https://star7sss.tistory.com/699) - Feb 18, 2023<br>
-[[구현/수학] 백준 15917 노솔브 방지문제야!! - 파이썬(Python)](https://star7sss.tistory.com/698) - Feb 17, 2023<br>
