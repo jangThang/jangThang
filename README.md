@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 25600 Triathon - 파이썬(Python)](https://star7sss.tistory.com/718) - Mar 09, 2023<br>
+[[구현/수학] 백준 25625 샤틀버스 - 파이썬(Python)](https://star7sss.tistory.com/717) - Mar 08, 2023<br>
+[[구현/수학] 백준 22938 백발백준하는 명사수 - 파이썬(Python)](https://star7sss.tistory.com/716) - Mar 07, 2023<br>
 [[ERROR] JDBC-8056 Invalid number of columns in query](https://star7sss.tistory.com/776) - Mar 06, 2023<br>
 [[구현/수학] 백준 2975 Transations - 파이썬(Python)](https://star7sss.tistory.com/715) - Mar 06, 2023<br>
 [[구현/수학] 백준 18247 겨울왕국 티켓 예매 - 파이썬(Python)](https://star7sss.tistory.com/714) - Mar 05, 2023<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 21964 선린인터넷고등학교 교가 - 파이썬(Python)](https://star7sss.tistory.com/711) - Mar 02, 2023<br>
 [[구현/수학] 백준 4740 거울, 오! 거울 - 파이썬(Python)](https://star7sss.tistory.com/710) - Mar 01, 2023<br>
 [[구현/수학] 백준 5666 Hot Dogs - 파이썬(Python)](https://star7sss.tistory.com/709) - Feb 28, 2023<br>
-[[구현/수학] 백준 9366 삼각형 분류 - 파이썬(Python)](https://star7sss.tistory.com/708) - Feb 27, 2023<br>
-[[ERROR] JDBC-12007:Requested cursor [-1] was not found.](https://star7sss.tistory.com/773) - Feb 27, 2023<br>
-[[구현/수학] 백준 21866 추첨을 통해 커피를 받자 - 파이썬(Python)](https://star7sss.tistory.com/707) - Feb 26, 2023<br>
