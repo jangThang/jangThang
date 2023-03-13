@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 14913 등차수열에서 항 번호 찾기 - 파이썬(Python)](https://star7sss.tistory.com/721) - Mar 12, 2023<br>
+[[구현/수학] 백준 25576 찾았다 악질 - 파이썬(Python)](https://star7sss.tistory.com/720) - Mar 11, 2023<br>
+[[구현/수학] 백준 13698 Hawk eyes - 파이썬(Python)](https://star7sss.tistory.com/719) - Mar 10, 2023<br>
 [[구현/수학] 백준 25600 Triathon - 파이썬(Python)](https://star7sss.tistory.com/718) - Mar 09, 2023<br>
 [[구현/수학] 백준 25625 샤틀버스 - 파이썬(Python)](https://star7sss.tistory.com/717) - Mar 08, 2023<br>
 [[구현/수학] 백준 22938 백발백준하는 명사수 - 파이썬(Python)](https://star7sss.tistory.com/716) - Mar 07, 2023<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 18247 겨울왕국 티켓 예매 - 파이썬(Python)](https://star7sss.tistory.com/714) - Mar 05, 2023<br>
 [[구현/수학] 백준 14579 덧셈과 곱셈 - 파이썬(Python)](https://star7sss.tistory.com/713) - Mar 04, 2023<br>
 [[구현/수학] 백준 12756 고급 여관 - 파이썬(Python)](https://star7sss.tistory.com/712) - Mar 03, 2023<br>
-[[구현/수학] 백준 21964 선린인터넷고등학교 교가 - 파이썬(Python)](https://star7sss.tistory.com/711) - Mar 02, 2023<br>
-[[구현/수학] 백준 4740 거울, 오! 거울 - 파이썬(Python)](https://star7sss.tistory.com/710) - Mar 01, 2023<br>
-[[구현/수학] 백준 5666 Hot Dogs - 파이썬(Python)](https://star7sss.tistory.com/709) - Feb 28, 2023<br>
