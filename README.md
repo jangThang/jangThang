@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[TEST](https://star7sss.tistory.com/780) - Mar 15, 2023<br>
 [[구현/수학] 백준 23303 이 문제는 D2 입니다. - 파이썬(Python)](https://star7sss.tistory.com/724) - Mar 15, 2023<br>
 [[Oracle/Tibero] 여러 개의 테이블을 조인해서 업데이트 (2개 이상)](https://star7sss.tistory.com/777) - Mar 15, 2023<br>
 [[구현/수학] 백준 10865 친구 친구 - 파이썬(Python)](https://star7sss.tistory.com/723) - Mar 14, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 25600 Triathon - 파이썬(Python)](https://star7sss.tistory.com/718) - Mar 09, 2023<br>
 [[구현/수학] 백준 25625 샤틀버스 - 파이썬(Python)](https://star7sss.tistory.com/717) - Mar 08, 2023<br>
 [[구현/수학] 백준 22938 백발백준하는 명사수 - 파이썬(Python)](https://star7sss.tistory.com/716) - Mar 07, 2023<br>
-[[ERROR] JDBC-8056 Invalid number of columns in query](https://star7sss.tistory.com/776) - Mar 06, 2023<br>
