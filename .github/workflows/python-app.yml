@@ -27,10 +27,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install feedparser
         
-    - name: Install dependencies
+    - name: Run Update Python Script
       run: |
         python main.py
-    - name: Update ReadMe.md
+    - name: Update ReadMe.md file
       run: |
         git pull
         git add .
