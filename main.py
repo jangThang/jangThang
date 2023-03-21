@@ -19,12 +19,10 @@ markdown_text = """## Hello World! 🖐
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
-## 📋 [Recent blog posts]
-""" # list of blog posts will be appended here
+## 📋 [Recent blog posts]      update date: """ + datetime.datetime.now().date()
 
 
-
-
+# list of blog posts will be appended here
 for i, feed in enumerate(feed['entries']):
     if i > MAX_POST_NUM:
         break
@@ -32,6 +30,8 @@ for i, feed in enumerate(feed['entries']):
     markdown_text += f"[{feed['title']}]({feed['link']}) - {dt}<br>\n"
     print(feed['link'], feed['title'])
 
+
+    
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
 f.close()
