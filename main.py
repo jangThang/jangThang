@@ -32,7 +32,7 @@ for i, feed in enumerate(feed['entries']):
     print(feed['link'], feed['title'])
 
 current = datetime.datetime.now()
-markdown_text += f"update time: {current.date().strftime("%Y-%m-%d")} + " " +{current.time().strftime("%H:%M")} <br>\n"
+markdown_text += f"update date: {current.date().strftime("%Y-%m-%d")} <br>\n"
 
     
 f = open("README.md",mode="w", encoding="utf-8")
