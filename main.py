@@ -19,7 +19,7 @@ markdown_text = """## Hello World! 🖐
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
-## 📋 [Recent blog posts]      update date: """ + datetime.datetime.now().date()
+## 📋 [Recent blog posts]      update date: """ + datetime.datetime.now().date().strftime("%Y-%m-%d")
 
 
 # list of blog posts will be appended here
