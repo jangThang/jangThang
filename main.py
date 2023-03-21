@@ -31,8 +31,9 @@ for i, feed in enumerate(feed['entries']):
     markdown_text += f"[{feed['title']}]({feed['link']}) - {dt}<br>\n"
     print(feed['link'], feed['title'])
 
-current = datetime.datetime.now()
-markdown_text += f"update date: {current.date().strftime("%Y-%m-%d")} <br>\n"
+
+# current = datetime.datetime.now()
+# markdown_text += f"update date: {current.date().strftime("%Y-%m-%d")} <br>\n"
 
     
 f = open("README.md",mode="w", encoding="utf-8")
