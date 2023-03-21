@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[TEST](https://star7sss.tistory.com/781) - Mar 21, 2023<br>
+[[구현/수학] 백준 4435 중간계 전쟁 - 파이썬(Python)](https://star7sss.tistory.com/729) - Mar 20, 2023<br>
+[[구현/수학] 백준 2765 자전거 속도 - 파이썬(Python)](https://star7sss.tistory.com/728) - Mar 19, 2023<br>
 [[구현/수학] 백준 3059 등장하지 않는 문자의 합 - 파이썬(Python)](https://star7sss.tistory.com/727) - Mar 18, 2023<br>
 [[구현/수학] 백준 11312 삼각 무늬 - 2 - 파이썬(Python)](https://star7sss.tistory.com/726) - Mar 17, 2023<br>
 [[구현/수학] 백준 17450 과자 사기 - 파이썬(Python)](https://star7sss.tistory.com/725) - Mar 16, 2023<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 10865 친구 친구 - 파이썬(Python)](https://star7sss.tistory.com/723) - Mar 14, 2023<br>
 [[구현/수학] 백준 25591 푸앙이와 종윤이 - 파이썬(Python)](https://star7sss.tistory.com/722) - Mar 13, 2023<br>
 [[구현/수학] 백준 14913 등차수열에서 항 번호 찾기 - 파이썬(Python)](https://star7sss.tistory.com/721) - Mar 12, 2023<br>
-[[구현/수학] 백준 25576 찾았다 악질 - 파이썬(Python)](https://star7sss.tistory.com/720) - Mar 11, 2023<br>
-[[구현/수학] 백준 13698 Hawk eyes - 파이썬(Python)](https://star7sss.tistory.com/719) - Mar 10, 2023<br>
-[[구현/수학] 백준 25600 Triathon - 파이썬(Python)](https://star7sss.tistory.com/718) - Mar 09, 2023<br>
