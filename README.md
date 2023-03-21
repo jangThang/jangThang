@@ -12,8 +12,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
-## 📋 [Recent blog posts]
-[TEST](https://star7sss.tistory.com/781) - Mar 21, 2023<br>
+## 📋 [Recent blog posts]      update date: 2023-03-21[TEST](https://star7sss.tistory.com/781) - Mar 21, 2023<br>
 [[구현/수학] 백준 4435 중간계 전쟁 - 파이썬(Python)](https://star7sss.tistory.com/729) - Mar 20, 2023<br>
 [[구현/수학] 백준 2765 자전거 속도 - 파이썬(Python)](https://star7sss.tistory.com/728) - Mar 19, 2023<br>
 [[구현/수학] 백준 3059 등장하지 않는 문자의 합 - 파이썬(Python)](https://star7sss.tistory.com/727) - Mar 18, 2023<br>
