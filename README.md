@@ -13,8 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
-[test3](https://star7sss.tistory.com/783) - Mar 21, 2023<br>
-[test2](https://star7sss.tistory.com/782) - Mar 21, 2023<br>
+[[구현/수학] 백준 5724 파인만 - 파이썬(Python)](https://star7sss.tistory.com/732) - Mar 23, 2023<br>
+[[구현/수학] 백준 13311 행운의 편지 - 파이썬(Python)](https://star7sss.tistory.com/731) - Mar 22, 2023<br>
+[[구현/수학] 백준 14568 2017 연세대학교 프로그래밍 경시대회 - 파이썬(Python)](https://star7sss.tistory.com/730) - Mar 21, 2023<br>
 [[구현/수학] 백준 4435 중간계 전쟁 - 파이썬(Python)](https://star7sss.tistory.com/729) - Mar 20, 2023<br>
 [[구현/수학] 백준 2765 자전거 속도 - 파이썬(Python)](https://star7sss.tistory.com/728) - Mar 19, 2023<br>
 [[구현/수학] 백준 3059 등장하지 않는 문자의 합 - 파이썬(Python)](https://star7sss.tistory.com/727) - Mar 18, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 23303 이 문제는 D2 입니다. - 파이썬(Python)](https://star7sss.tistory.com/724) - Mar 15, 2023<br>
 [[Oracle/Tibero] 여러 개의 테이블을 조인해서 업데이트 (2개 이상)](https://star7sss.tistory.com/777) - Mar 15, 2023<br>
 [[구현/수학] 백준 10865 친구 친구 - 파이썬(Python)](https://star7sss.tistory.com/723) - Mar 14, 2023<br>
-[[구현/수학] 백준 25591 푸앙이와 종윤이 - 파이썬(Python)](https://star7sss.tistory.com/722) - Mar 13, 2023<br>
