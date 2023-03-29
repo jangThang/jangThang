@@ -13,14 +13,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[보안] 개인정보의 특징: 관련성, 임의성, 식별 가능성, 입수 가능성, 결합 가능성](https://star7sss.tistory.com/789) - Mar 28, 2023<br>
+[[구현/수학] 백준 15820 맞았는데 왜 틀리죠? - 파이썬(Python)](https://star7sss.tistory.com/737) - Mar 28, 2023<br>
+[[보안] 식별정도에 따른 개인정보 유형 (개인정보, 가명정보, 익명정보)](https://star7sss.tistory.com/788) - Mar 28, 2023<br>
+[[보안] 개인정보의 개념과 유형, 개인정보 보호의 목적과 권리](https://star7sss.tistory.com/787) - Mar 28, 2023<br>
+[[Oracle] 특정 월 평일/주말만 조회하는 쿼리문 작성하기 (계층적 쿼리)](https://star7sss.tistory.com/786) - Mar 28, 2023<br>
 [[Oracle] CONNECT BY LEVEL: 계층적인 SQL, 쿼리에서의 반복문](https://star7sss.tistory.com/785) - Mar 27, 2023<br>
 [[구현/수학] 백준 15781 헬멧과 조끼 - 파이썬(Python)](https://star7sss.tistory.com/736) - Mar 27, 2023<br>
 [[구현/수학] 백준 27918 탁구 경기 - 파이썬(Python)](https://star7sss.tistory.com/784) - Mar 27, 2023<br>
 [[구현/수학] 백준 11367 Reprot Card Time - 파이썬(Python)](https://star7sss.tistory.com/735) - Mar 26, 2023<br>
 [[구현/수학] 백준 17094 Serious Problem - 파이썬(Python)](https://star7sss.tistory.com/734) - Mar 25, 2023<br>
 [[구현/수학] 백준 20540 연길이의 이상형 - 파이썬(Python)](https://star7sss.tistory.com/733) - Mar 24, 2023<br>
-[[구현/수학] 백준 5724 파인만 - 파이썬(Python)](https://star7sss.tistory.com/732) - Mar 23, 2023<br>
-[[구현/수학] 백준 13311 행운의 편지 - 파이썬(Python)](https://star7sss.tistory.com/731) - Mar 22, 2023<br>
-[[구현/수학] 백준 14568 2017 연세대학교 프로그래밍 경시대회 - 파이썬(Python)](https://star7sss.tistory.com/730) - Mar 21, 2023<br>
-[[구현/수학] 백준 4435 중간계 전쟁 - 파이썬(Python)](https://star7sss.tistory.com/729) - Mar 20, 2023<br>
-[[구현/수학] 백준 2765 자전거 속도 - 파이썬(Python)](https://star7sss.tistory.com/728) - Mar 19, 2023<br>
