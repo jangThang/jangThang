@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 25704 출석 이벤트 - 파이썬(Python)](https://star7sss.tistory.com/747) - Apr 07, 2023<br>
+[[구현/수학] 백준 25793 초콜릿 피라미드 - 파이썬(Python)](https://star7sss.tistory.com/746) - Apr 06, 2023<br>
+[[구현/수학] 백준 23080 스키테일 암호 - 파이썬(Python)](https://star7sss.tistory.com/745) - Apr 05, 2023<br>
 [[구현/수학] 백준 10205 헤라클레스와 히드라 - 파이썬(Python)](https://star7sss.tistory.com/744) - Apr 04, 2023<br>
 [[구현/수학] 백준 14592 2017 아주대학교 프로그래밍 경시대회 (Small) - 파이썬(Python)](https://star7sss.tistory.com/743) - Apr 03, 2023<br>
 [[구현/수학] 백준 15734 명장 남정훈 - 파이썬(Python)](https://star7sss.tistory.com/742) - Apr 02, 2023<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 23348 스트릿 코딩 파이터 - 파이썬(Python)](https://star7sss.tistory.com/740) - Mar 31, 2023<br>
 [[보안] 개인정보 유출 시 대응조치 (feat. 개인정보보호법)](https://star7sss.tistory.com/795) - Mar 31, 2023<br>
 [[보안] 개인정보 안전성 확보조치 (feat. 개인정보보호법)](https://star7sss.tistory.com/794) - Mar 31, 2023<br>
-[[구현/수학] 백준 8932 7종 경기 - 파이썬(Python)](https://star7sss.tistory.com/739) - Mar 30, 2023<br>
-[[보안] 개인정보보호 특별 보호 (개인영상정보, 민감정보, 고유식별정보, 주민등록번호, 가명정보)](https://star7sss.tistory.com/793) - Mar 29, 2023<br>
-[[구현/수학] 백준 13416 주식 투자 - 파이썬(Python)](https://star7sss.tistory.com/738) - Mar 29, 2023<br>
