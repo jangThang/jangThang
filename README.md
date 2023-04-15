@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[IP-R&D] 특허동향분석, 그 목적과 과정 그리고 주요 지표](https://star7sss.tistory.com/801) - Apr 14, 2023<br>
+[[구현/수학] 백준 24724 현대모비스와 함께하는 부품 관리 - 파이썬(Python)](https://star7sss.tistory.com/754) - Apr 14, 2023<br>
 [[IP-R&D] 특허 검색식 작성 방법 및 예시 (Kipris, 키프리스 특허검색엔진)](https://star7sss.tistory.com/800) - Apr 13, 2023<br>
 [[IP-R&D] 선행기술조사의 종류와 특허검색엔진(Kipris 키프리스)](https://star7sss.tistory.com/799) - Apr 13, 2023<br>
 [[구현/수학] 백준 15923 욱제는 건축왕이야!! - 파이썬(Python)](https://star7sss.tistory.com/753) - Apr 13, 2023<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 6768 Don't pass me the ball! - 파이썬(Python)](https://star7sss.tistory.com/751) - Apr 11, 2023<br>
 [[구현/수학] 백준 11908 카드 - 파이썬(Python)](https://star7sss.tistory.com/750) - Apr 10, 2023<br>
 [[구현/수학] 백준 23810 골뱅이 찍기 - 뒤집힌 ㅋ - 파이썬(Python)](https://star7sss.tistory.com/749) - Apr 09, 2023<br>
-[[구현/수학] 백준 4806 줄 세기 - 파이썬(Python)](https://star7sss.tistory.com/748) - Apr 08, 2023<br>
-[[구현/수학] 백준 25704 출석 이벤트 - 파이썬(Python)](https://star7sss.tistory.com/747) - Apr 07, 2023<br>
