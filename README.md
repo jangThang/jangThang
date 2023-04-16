@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 14219 막대과자 포장 - 파이썬(Python)](https://star7sss.tistory.com/755) - Apr 15, 2023<br>
 [[IP-R&D] 특허동향분석, 그 목적과 과정 그리고 주요 지표](https://star7sss.tistory.com/801) - Apr 14, 2023<br>
 [[구현/수학] 백준 24724 현대모비스와 함께하는 부품 관리 - 파이썬(Python)](https://star7sss.tistory.com/754) - Apr 14, 2023<br>
 [[IP-R&D] 특허 검색식 작성 방법 및 예시 (Kipris, 키프리스 특허검색엔진)](https://star7sss.tistory.com/800) - Apr 13, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 25756 방어율 무시 계산하기 - 파이썬(Python)](https://star7sss.tistory.com/752) - Apr 12, 2023<br>
 [[구현/수학] 백준 6768 Don't pass me the ball! - 파이썬(Python)](https://star7sss.tistory.com/751) - Apr 11, 2023<br>
 [[구현/수학] 백준 11908 카드 - 파이썬(Python)](https://star7sss.tistory.com/750) - Apr 10, 2023<br>
-[[구현/수학] 백준 23810 골뱅이 찍기 - 뒤집힌 ㅋ - 파이썬(Python)](https://star7sss.tistory.com/749) - Apr 09, 2023<br>
