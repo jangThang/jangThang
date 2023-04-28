@@ -13,14 +13,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[SW공학] 디자인 패턴: 생성, 구조, 행위 패턴의 종류](https://star7sss.tistory.com/844) - Apr 28, 2023<br>
+[[SW공학] UML 다이어그램의 종류: 유즈케이스, 클래스, 시퀸스, 상태, 액티비티, 복합 구조, 컴포넌트, 배치](https://star7sss.tistory.com/843) - Apr 27, 2023<br>
+[[SW공학] 소프트웨어 아키텍처: MVC, 이벤트 기반, 파이프 필터](https://star7sss.tistory.com/842) - Apr 27, 2023<br>
+[[Oracle] COALESCE: Null이 아닌 가장 왼쪽 값을 찾는 함수](https://star7sss.tistory.com/766) - Apr 27, 2023<br>
+[[SW공학] 모듈화(Modulariation): 결집도와 응집도의 종류와 강도](https://star7sss.tistory.com/841) - Apr 27, 2023<br>
+[[SW공학] CMMi: 기존 CMM을 통합한 조직 성숙도 평가모델](https://star7sss.tistory.com/840) - Apr 27, 2023<br>
+[[SW공학] ISO/IEC 9126 품질 특성: 신뢰성, 사용성, 이식성, 기능성, 유지보수성, 효율성](https://star7sss.tistory.com/839) - Apr 27, 2023<br>
+[[SW공학] 일정계획: 작업분해(WBS), CPM/PERT, 간트 차트](https://star7sss.tistory.com/838) - Apr 27, 2023<br>
+[[SW공학] 비용 산정 방법: 델파이, LOC, COCOMO모델, 기능 점수](https://star7sss.tistory.com/837) - Apr 27, 2023<br>
+[[SW공학] 익스트림 프로그래밍(XP, eXtreme Programming) - 애자일(Agile) 기법](https://star7sss.tistory.com/836) - Apr 27, 2023<br>
 [[SW공학] V-모형의 개념과 프로세스](https://star7sss.tistory.com/835) - Apr 26, 2023<br>
-[[SW공학] 나선형 모델(Spiral Model)의 특징과 프로세스](https://star7sss.tistory.com/834) - Apr 26, 2023<br>
-[[SW공학] 프로토타이핑(프로토타입) 모델의 개념과 프로세스](https://star7sss.tistory.com/833) - Apr 26, 2023<br>
-[[SW공학] 폭포수 모델(Waterfall)의 개념과 장단점](https://star7sss.tistory.com/832) - Apr 26, 2023<br>
-[[SW공학] 소프트웨어 생명주기(SDLC): 계획, 분석, 설계, 구현, 시험, 유지보수](https://star7sss.tistory.com/831) - Apr 26, 2023<br>
-[[SW공학] 소프트웨어(Software)의 개념과 특징](https://star7sss.tistory.com/830) - Apr 26, 2023<br>
-[[DB] 데이터 웨어하우스와 데이터 마트, 그리고 ETL이란?](https://star7sss.tistory.com/829) - Apr 25, 2023<br>
-[[ORACLE] 기존 튜플을 변형해서 테이블에 삽입하는 방법 (여러 건의 튜플 삽입)](https://star7sss.tistory.com/828) - Apr 25, 2023<br>
-[[구현/수학] 15372 A Simple Problem. - 파이썬(Python)](https://star7sss.tistory.com/765) - Apr 25, 2023<br>
-[[DB] 데이터베이스 병행(동시성) 제어 기법: 로킹, 기본적 2PL](https://star7sss.tistory.com/827) - Apr 25, 2023<br>
-[[DB] 데이터베이스 동시성 제어(병행 제어)와 문제점](https://star7sss.tistory.com/826) - Apr 25, 2023<br>
