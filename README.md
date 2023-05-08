@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 27961 고양이는 많을수록 좋다 - 파이썬(Python)](https://star7sss.tistory.com/809) - May 07, 2023<br>
+[[구현/수학] 백준 27960 사격 내기 - 파이썬(Python)](https://star7sss.tistory.com/808) - May 06, 2023<br>
+[[구현/수학] 백준 27868 On My Way Dorm - 파이썬(Python)](https://star7sss.tistory.com/779) - May 05, 2023<br>
 [[구현/수학] 백준 27724 팝핀 소다 - 파이썬(Python)](https://star7sss.tistory.com/778) - May 04, 2023<br>
 [[구현/수학] 백준 27648 증가 배열 만들기 - 파이썬(Python)](https://star7sss.tistory.com/775) - May 03, 2023<br>
 [[구현/수학] 백준 27522 카트라이더: 드리프트 - 파이썬(Python)](https://star7sss.tistory.com/772) - May 02, 2023<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 25915 연세여 사랑한다 - 파이썬(Python)](https://star7sss.tistory.com/769) - Apr 29, 2023<br>
 [[구현/수학] 백준 2851 슈퍼 마리오 - 파이썬(Python)](https://star7sss.tistory.com/768) - Apr 28, 2023<br>
 [[데이터통신] 전송형식: 베이스밴드(기저대역)와 브로드밴드(광대역)](https://star7sss.tistory.com/849) - Apr 28, 2023<br>
-[[SW공학] CASE 자동화 도구의 개념과 종류](https://star7sss.tistory.com/848) - Apr 28, 2023<br>
-[[SW공학] 리팩토링과 소프트웨어 역공학(리버스 엔지니어링)](https://star7sss.tistory.com/847) - Apr 28, 2023<br>
-[[SW공학] 단위 테스트, 통합 테스트, 시스템 테스트, 인수 테스트](https://star7sss.tistory.com/846) - Apr 28, 2023<br>
