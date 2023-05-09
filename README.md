@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[컴퓨터구조] 연산 속도와 메모리 용량의 단위와 호칭: KB, MB, GB, ...](https://star7sss.tistory.com/850) - May 08, 2023<br>
 [[구현/수학] 백준 27961 고양이는 많을수록 좋다 - 파이썬(Python)](https://star7sss.tistory.com/809) - May 07, 2023<br>
 [[구현/수학] 백준 27960 사격 내기 - 파이썬(Python)](https://star7sss.tistory.com/808) - May 06, 2023<br>
 [[구현/수학] 백준 27868 On My Way Dorm - 파이썬(Python)](https://star7sss.tistory.com/779) - May 05, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 27159 노 땡스! - 파이썬(Python)](https://star7sss.tistory.com/770) - Apr 30, 2023<br>
 [[구현/수학] 백준 25915 연세여 사랑한다 - 파이썬(Python)](https://star7sss.tistory.com/769) - Apr 29, 2023<br>
 [[구현/수학] 백준 2851 슈퍼 마리오 - 파이썬(Python)](https://star7sss.tistory.com/768) - Apr 28, 2023<br>
-[[데이터통신] 전송형식: 베이스밴드(기저대역)와 브로드밴드(광대역)](https://star7sss.tistory.com/849) - Apr 28, 2023<br>
