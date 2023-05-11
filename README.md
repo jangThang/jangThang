@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[데이터통신] PCM: 표본화(샘플링), 양자화, 부호화, 복호화, 여과(필터링)](https://star7sss.tistory.com/852) - May 10, 2023<br>
+[[데이터통신] 디지털 - 아날로그 신호 변환: ASK, FSK, PSK, QAM](https://star7sss.tistory.com/851) - May 10, 2023<br>
 [[컴퓨터구조] 연산 속도와 메모리 용량의 단위와 호칭: KB, MB, GB, ...](https://star7sss.tistory.com/850) - May 08, 2023<br>
 [[구현/수학] 백준 27961 고양이는 많을수록 좋다 - 파이썬(Python)](https://star7sss.tistory.com/809) - May 07, 2023<br>
 [[구현/수학] 백준 27960 사격 내기 - 파이썬(Python)](https://star7sss.tistory.com/808) - May 06, 2023<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 27522 카트라이더: 드리프트 - 파이썬(Python)](https://star7sss.tistory.com/772) - May 02, 2023<br>
 [[구현/수학] 백준 27465 소수가 아닌 수 - 파이썬(Python)](https://star7sss.tistory.com/771) - May 01, 2023<br>
 [[구현/수학] 백준 27159 노 땡스! - 파이썬(Python)](https://star7sss.tistory.com/770) - Apr 30, 2023<br>
-[[구현/수학] 백준 25915 연세여 사랑한다 - 파이썬(Python)](https://star7sss.tistory.com/769) - Apr 29, 2023<br>
-[[구현/수학] 백준 2851 슈퍼 마리오 - 파이썬(Python)](https://star7sss.tistory.com/768) - Apr 28, 2023<br>
