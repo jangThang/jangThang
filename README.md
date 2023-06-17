@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Pandas] 데이터프레임 정보 및 기초통계량 파악: info(), describe()](https://star7sss.tistory.com/884) - Jun 16, 2023<br>
+[[Pandas] 데이터셋의 결측치를 구하고 처리하는 방법 (isnull, dropna, fillna)](https://star7sss.tistory.com/883) - Jun 16, 2023<br>
 [[Pandas] 데이터셋의 특정 타입 열만 조회하는 select_dtypes](https://star7sss.tistory.com/882) - Jun 15, 2023<br>
 [[Pandas] 데이터셋의 특정 행과 열을 추출하는 loc, iloc 함수 (feat. 조건식)](https://star7sss.tistory.com/881) - Jun 15, 2023<br>
 [[Pandas] 데이터셋의 행과 열의 개수 확인 shape](https://star7sss.tistory.com/880) - Jun 12, 2023<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 10810 공 넣기 - 파이썬(Python)](https://star7sss.tistory.com/876) - Jun 07, 2023<br>
 [[구현/수학] 백준 28061 레몬 따기 - 파이썬(Python)](https://star7sss.tistory.com/875) - Jun 02, 2023<br>
 [[구현/수학] 백준 28135 Since 1973 - 파이썬(Python)](https://star7sss.tistory.com/874) - Jun 01, 2023<br>
-[[구현/수학] 백준 6840 Who is in the middle? - 파이썬(Python)](https://star7sss.tistory.com/873) - Jun 01, 2023<br>
-[[보안] 방화벽의 개념과 방화벽의 작동 방식: 인바운드 규칙, 아웃바운드 규칙, 블랙리스트, 화이트리스트](https://star7sss.tistory.com/872) - May 18, 2023<br>
