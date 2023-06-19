@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Pandas] 데이터프레임 칼럼 타입 변경 astype](https://star7sss.tistory.com/886) - Jun 18, 2023<br>
+[[Pandas] 정렬 및 추출 후 인덱스를 정렬, 정리하는 reset_index](https://star7sss.tistory.com/885) - Jun 18, 2023<br>
 [[Pandas] 데이터프레임 정보 및 기초통계량 파악: info(), describe()](https://star7sss.tistory.com/884) - Jun 16, 2023<br>
 [[Pandas] 데이터셋의 결측치를 구하고 처리하는 방법 (isnull, dropna, fillna)](https://star7sss.tistory.com/883) - Jun 16, 2023<br>
 [[Pandas] 데이터셋의 특정 타입 열만 조회하는 select_dtypes](https://star7sss.tistory.com/882) - Jun 15, 2023<br>
@@ -22,5 +24,3 @@
 [[보안] 공개키(비대칭) 암호: Rabin, ElGamal, ECC](https://star7sss.tistory.com/878) - Jun 08, 2023<br>
 [[Pandas] 엑셀파일 데이터셋으로 불러오기 (ft. 홈 디렉토리 확인)](https://star7sss.tistory.com/877) - Jun 07, 2023<br>
 [[구현/수학] 백준 10810 공 넣기 - 파이썬(Python)](https://star7sss.tistory.com/876) - Jun 07, 2023<br>
-[[구현/수학] 백준 28061 레몬 따기 - 파이썬(Python)](https://star7sss.tistory.com/875) - Jun 02, 2023<br>
-[[구현/수학] 백준 28135 Since 1973 - 파이썬(Python)](https://star7sss.tistory.com/874) - Jun 01, 2023<br>
