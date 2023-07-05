@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[네트워크] URI, URL, 그리고 URN의 정의와 차이점](https://star7sss.tistory.com/910) - Jul 04, 2023<br>
+[[네트워크] TCP와 UDP의 필요성과 특징 (w. IP프로토콜의 한계)](https://star7sss.tistory.com/909) - Jul 04, 2023<br>
+[[구현] 백준 28295 체육은 코딩과목 입니다 - 파이썬(Python)](https://star7sss.tistory.com/908) - Jul 04, 2023<br>
 [[자료구조/집합] 백준 1269 대칭 차집합 - 파이썬(Python)](https://star7sss.tistory.com/907) - Jul 03, 2023<br>
 [[구현/게임이론] 백준 9661 돌 게임 7 - 파이썬(Python)](https://star7sss.tistory.com/906) - Jul 03, 2023<br>
 [[구현/게임이론] 백준 9660 돌 게임 6 - 파이썬(Python)](https://star7sss.tistory.com/905) - Jul 03, 2023<br>
@@ -21,6 +24,3 @@
 [[동적계획법/DP] 백준 9657 돌게임 3 - 파이썬(Python)](https://star7sss.tistory.com/902) - Jul 03, 2023<br>
 [[동적계획법/DP] 백준 9656 돌 게임 2 - 파이썬(Python)](https://star7sss.tistory.com/901) - Jul 03, 2023<br>
 [[DP/동적계획법] 백준 14916 거스름돈 - 파이썬(Python)](https://star7sss.tistory.com/900) - Jul 03, 2023<br>
-[[동적계획법/DP] 백준 1890 점프 - 파이썬(Python)](https://star7sss.tistory.com/899) - Jul 03, 2023<br>
-[[DP/동적계획법] 백준 1965 상자넣기 - 파이썬(Python)](https://star7sss.tistory.com/898) - Jul 02, 2023<br>
-[[구현] 백준 10815 숫자 카드 - 파이썬(Python)](https://star7sss.tistory.com/897) - Jul 01, 2023<br>
