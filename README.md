@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[네트워크] HTTP 메시지 구조: 요청/응답 메시지 (시작라인, 헤더, 공백라인, 바디)](https://star7sss.tistory.com/912) - Jul 07, 2023<br>
 [[네트워크] HTTP의 특징: 무상태성(Stateless), 비연결성(Connectionless)](https://star7sss.tistory.com/911) - Jul 06, 2023<br>
 [[네트워크] URI, URL, 그리고 URN의 정의와 차이점](https://star7sss.tistory.com/910) - Jul 04, 2023<br>
 [[네트워크] TCP와 UDP의 필요성과 특징 (w. IP프로토콜의 한계)](https://star7sss.tistory.com/909) - Jul 04, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/게임이론] 백준 9659 돌 게임 5 - 파이썬(Python)](https://star7sss.tistory.com/904) - Jul 03, 2023<br>
 [[동적계획법/DP] 백준 9658 돌 게임 4 - 파이썬(Python)](https://star7sss.tistory.com/903) - Jul 03, 2023<br>
 [[동적계획법/DP] 백준 9657 돌게임 3 - 파이썬(Python)](https://star7sss.tistory.com/902) - Jul 03, 2023<br>
-[[동적계획법/DP] 백준 9656 돌 게임 2 - 파이썬(Python)](https://star7sss.tistory.com/901) - Jul 03, 2023<br>
