@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[네트워크] 쿠키의 정의와 쓰임: Set-Cookie, Cookie 헤더 해석](https://star7sss.tistory.com/918) - Jul 11, 2023<br>
+[[네트워크] HTTP 헤더: Referer, User-Agent, Server, Host](https://star7sss.tistory.com/917) - Jul 11, 2023<br>
+[[네트워크] HTTP 컨텐츠 협상 (Contents Negotiation): Accept, Accept-Charset, Accept-Encoding, Accept-Language](https://star7sss.tistory.com/916) - Jul 11, 2023<br>
 [[네트워크] HTTP 상태코드: 200, 201, 204, 301, 302, 303, 304, 307, 308, 400, 401, 403, 404, 500, 503](https://star7sss.tistory.com/915) - Jul 10, 2023<br>
 [[네트워크] HTTP 메서드의 속성: 안전, 멱등, 캐시가능](https://star7sss.tistory.com/914) - Jul 10, 2023<br>
 [[네트워크] HTTP 메서드: GET, POST, PUT, PATCH, DELETE](https://star7sss.tistory.com/913) - Jul 10, 2023<br>
@@ -21,6 +24,3 @@
 [[네트워크] URI, URL, 그리고 URN의 정의와 차이점](https://star7sss.tistory.com/910) - Jul 04, 2023<br>
 [[네트워크] TCP와 UDP의 필요성과 특징 (w. IP프로토콜의 한계)](https://star7sss.tistory.com/909) - Jul 04, 2023<br>
 [[구현] 백준 28295 체육은 코딩과목 입니다 - 파이썬(Python)](https://star7sss.tistory.com/908) - Jul 04, 2023<br>
-[[자료구조/집합] 백준 1269 대칭 차집합 - 파이썬(Python)](https://star7sss.tistory.com/907) - Jul 03, 2023<br>
-[[구현/게임이론] 백준 9661 돌 게임 7 - 파이썬(Python)](https://star7sss.tistory.com/906) - Jul 03, 2023<br>
-[[구현/게임이론] 백준 9660 돌 게임 6 - 파이썬(Python)](https://star7sss.tistory.com/905) - Jul 03, 2023<br>
