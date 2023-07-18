@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[자료구조/큐] 백준 10845 큐 - 파이썬(Python)](https://star7sss.tistory.com/923) - Jul 17, 2023<br>
+[[자료구조/스택] 백준 10828 스택 - 파이썬(Python)](https://star7sss.tistory.com/922) - Jul 17, 2023<br>
 [[네트워크] 확실한 캐시 무효화 응답: no-cache, no-store, max-age=0, must-revalidate](https://star7sss.tistory.com/921) - Jul 12, 2023<br>
 [[네트워크] 프록시(Proxy) 서버와 CDN, 프록시 캐시 서버의 차이점](https://star7sss.tistory.com/920) - Jul 12, 2023<br>
 [[네트워크] HTTP 브라우저와 웹 서버 캐시 동기화하는 방법: Last-Modified, ETag 이용](https://star7sss.tistory.com/919) - Jul 12, 2023<br>
@@ -22,5 +24,3 @@
 [[네트워크] HTTP 상태코드: 200, 201, 204, 301, 302, 303, 304, 307, 308, 400, 401, 403, 404, 500, 503](https://star7sss.tistory.com/915) - Jul 10, 2023<br>
 [[네트워크] HTTP 메서드의 속성: 안전, 멱등, 캐시가능](https://star7sss.tistory.com/914) - Jul 10, 2023<br>
 [[네트워크] HTTP 메서드: GET, POST, PUT, PATCH, DELETE](https://star7sss.tistory.com/913) - Jul 10, 2023<br>
-[[네트워크] HTTP 메시지 구조: 요청/응답 메시지 (시작라인, 헤더, 공백라인, 바디)](https://star7sss.tistory.com/912) - Jul 07, 2023<br>
-[[네트워크] HTTP의 특징: 무상태성(Stateless), 비연결성(Connectionless)](https://star7sss.tistory.com/911) - Jul 06, 2023<br>
