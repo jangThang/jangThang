@@ -13,6 +13,10 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 10093 숫자 - 파이썬(Python)](https://star7sss.tistory.com/927) - Jul 18, 2023<br>
+[[구현/수학] 백준 27434 팩토리얼 3 - 파이썬(Python)](https://star7sss.tistory.com/926) - Jul 18, 2023<br>
+[[구현/수학] 백준 27433 팩토리얼 2 - 파이썬(Python)](https://star7sss.tistory.com/925) - Jul 18, 2023<br>
+[[CS] 길라잡기](https://star7sss.tistory.com/pages/cs) - Jul 18, 2023<br>
 [[자료구조/큐] 백준 10845 큐 - 파이썬(Python)](https://star7sss.tistory.com/923) - Jul 17, 2023<br>
 [[자료구조/스택] 백준 10828 스택 - 파이썬(Python)](https://star7sss.tistory.com/922) - Jul 17, 2023<br>
 [[네트워크] 확실한 캐시 무효화 응답: no-cache, no-store, max-age=0, must-revalidate](https://star7sss.tistory.com/921) - Jul 12, 2023<br>
@@ -20,7 +24,3 @@
 [[네트워크] HTTP 브라우저와 웹 서버 캐시 동기화하는 방법: Last-Modified, ETag 이용](https://star7sss.tistory.com/919) - Jul 12, 2023<br>
 [[네트워크] 쿠키의 정의와 쓰임: Set-Cookie, Cookie 헤더 해석](https://star7sss.tistory.com/918) - Jul 11, 2023<br>
 [[네트워크] HTTP 헤더: Referer, User-Agent, Server, Host](https://star7sss.tistory.com/917) - Jul 11, 2023<br>
-[[네트워크] HTTP 컨텐츠 협상 (Contents Negotiation): Accept, Accept-Charset, Accept-Encoding, Accept-Language](https://star7sss.tistory.com/916) - Jul 11, 2023<br>
-[[네트워크] HTTP 상태코드: 200, 201, 204, 301, 302, 303, 304, 307, 308, 400, 401, 403, 404, 500, 503](https://star7sss.tistory.com/915) - Jul 10, 2023<br>
-[[네트워크] HTTP 메서드의 속성: 안전, 멱등, 캐시가능](https://star7sss.tistory.com/914) - Jul 10, 2023<br>
-[[네트워크] HTTP 메서드: GET, POST, PUT, PATCH, DELETE](https://star7sss.tistory.com/913) - Jul 10, 2023<br>
