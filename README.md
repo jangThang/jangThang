@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[컴퓨터구조] 캐시 메모리 사상(Mapping, 매핑) 방식: 직접사상, 연관사상, 집합 연관사상](https://star7sss.tistory.com/930) - Jul 20, 2023<br>
+[[보안] IDS의 개념과 종류: 지식(오용 탐지), 행위(이상 탐지), 호스트(HIDS), 네트워크(NIDS)](https://star7sss.tistory.com/929) - Jul 20, 2023<br>
+[[구현/수학] 백준 28352 10! - 파이썬(Python)](https://star7sss.tistory.com/928) - Jul 20, 2023<br>
 [[구현/수학] 백준 10093 숫자 - 파이썬(Python)](https://star7sss.tistory.com/927) - Jul 18, 2023<br>
 [[구현/수학] 백준 27434 팩토리얼 3 - 파이썬(Python)](https://star7sss.tistory.com/926) - Jul 18, 2023<br>
 [[구현/수학] 백준 27433 팩토리얼 2 - 파이썬(Python)](https://star7sss.tistory.com/925) - Jul 18, 2023<br>
@@ -21,6 +24,3 @@
 [[자료구조/스택] 백준 10828 스택 - 파이썬(Python)](https://star7sss.tistory.com/922) - Jul 17, 2023<br>
 [[네트워크] 확실한 캐시 무효화 응답: no-cache, no-store, max-age=0, must-revalidate](https://star7sss.tistory.com/921) - Jul 12, 2023<br>
 [[네트워크] 프록시(Proxy) 서버와 CDN, 프록시 캐시 서버의 차이점](https://star7sss.tistory.com/920) - Jul 12, 2023<br>
-[[네트워크] HTTP 브라우저와 웹 서버 캐시 동기화하는 방법: Last-Modified, ETag 이용](https://star7sss.tistory.com/919) - Jul 12, 2023<br>
-[[네트워크] 쿠키의 정의와 쓰임: Set-Cookie, Cookie 헤더 해석](https://star7sss.tistory.com/918) - Jul 11, 2023<br>
-[[네트워크] HTTP 헤더: Referer, User-Agent, Server, Host](https://star7sss.tistory.com/917) - Jul 11, 2023<br>
