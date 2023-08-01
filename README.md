@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[OS] 교착상태(Dead Lock)의 정의와 발생조건 4가지: 상호배제, 점유와 대기, 비선점, 환형대기](https://star7sss.tistory.com/936) - Jul 31, 2023<br>
 [[OS] 병행성 제어: 뮤텍스(Mutex)와 세마포어(Semaphore)](https://star7sss.tistory.com/935) - Jul 24, 2023<br>
 [[OS] 상호배제(Mutual Exclusion)와 임계구역(Critical Section)](https://star7sss.tistory.com/934) - Jul 24, 2023<br>
 [[구현/수학] 백준 24313 알고리즘 수업 - 점근적 표기 1 - 파이썬(Python)](https://star7sss.tistory.com/933) - Jul 24, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 28352 10! - 파이썬(Python)](https://star7sss.tistory.com/928) - Jul 20, 2023<br>
 [[구현/수학] 백준 10093 숫자 - 파이썬(Python)](https://star7sss.tistory.com/927) - Jul 18, 2023<br>
 [[구현/수학] 백준 27434 팩토리얼 3 - 파이썬(Python)](https://star7sss.tistory.com/926) - Jul 18, 2023<br>
-[[구현/수학] 백준 27433 팩토리얼 2 - 파이썬(Python)](https://star7sss.tistory.com/925) - Jul 18, 2023<br>
