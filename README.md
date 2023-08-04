@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[SW공학] 작업 네트워크의 임계경로[CPM]: 가장 늦게 시작하는 날, 가장 빨리 시작하는 날, 여유 기간 구하는 방법](https://star7sss.tistory.com/941) - Aug 03, 2023<br>
 [[OS] 교착상태 회복기법: 프로세스 종료/회복, 자원 선점 (ft. 희생자 선택의 원칙)](https://star7sss.tistory.com/940) - Aug 02, 2023<br>
 [[OS] 교착상태 회피방법: 은행원 알고리즘(Banker's Algorithm)](https://star7sss.tistory.com/939) - Aug 02, 2023<br>
 [[ERROR] SqlResultException: sql-result-count is 0](https://star7sss.tistory.com/938) - Aug 02, 2023<br>
@@ -23,4 +24,3 @@
 [[구현/수학] 백준 24313 알고리즘 수업 - 점근적 표기 1 - 파이썬(Python)](https://star7sss.tistory.com/933) - Jul 24, 2023<br>
 [[구현/수학] 백준 18110 solved.ac - 파이썬(Python)](https://star7sss.tistory.com/932) - Jul 24, 2023<br>
 [[OS] CPU 스케줄링 기법: FCFS, SJF, SRT, 라운드 로빈, Multi Level (Feedback) Queue](https://star7sss.tistory.com/931) - Jul 21, 2023<br>
-[[컴퓨터구조] 캐시 메모리 사상(Mapping, 매핑) 방식: 직접사상, 연관사상, 집합 연관사상](https://star7sss.tistory.com/930) - Jul 20, 2023<br>
