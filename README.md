@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[DB] B-Tree (Balanced Tree): 데이터베이스 인덱스 저장 방식](https://star7sss.tistory.com/946) - Aug 07, 2023<br>
+[[구현/수학] 백준 28431 양말 짝 맞추기 - 파이썬(Python)](https://star7sss.tistory.com/945) - Aug 07, 2023<br>
 [[SW공학] 기능점수(Function Points)의 개념과 산정방식, 예시](https://star7sss.tistory.com/944) - Aug 04, 2023<br>
 [[브루트포스/비둘기집 원리] 백준 20529 가장 가까운 세 사람의 심리적 거리 - 파이썬(Python)](https://star7sss.tistory.com/943) - Aug 04, 2023<br>
 [[탐색/BFS] 백준 21736 헌내기는 친구가 필요해 - 파이썬(Python)](https://star7sss.tistory.com/942) - Aug 04, 2023<br>
@@ -22,5 +24,3 @@
 [[ERROR] SqlResultException: sql-result-count is 0](https://star7sss.tistory.com/938) - Aug 02, 2023<br>
 [[구현/수학] 백준 28419 더하기 - 파이썬(Python)](https://star7sss.tistory.com/937) - Aug 02, 2023<br>
 [[OS] 교착상태(Dead Lock)의 정의와 발생조건 4가지: 상호배제, 점유와 대기, 비선점, 환형대기](https://star7sss.tistory.com/936) - Jul 31, 2023<br>
-[[OS] 병행성 제어: 뮤텍스(Mutex)와 세마포어(Semaphore)](https://star7sss.tistory.com/935) - Jul 24, 2023<br>
-[[OS] 상호배제(Mutual Exclusion)와 임계구역(Critical Section)](https://star7sss.tistory.com/934) - Jul 24, 2023<br>
