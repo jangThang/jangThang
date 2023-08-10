@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[네트워크] 동적 호스트 구성 프로토콜(DHCP): Discover, Offer, Request, Ack](https://star7sss.tistory.com/949) - Aug 09, 2023<br>
+[[구현/수학] 백준 1024 수열의 합 - 파이썬(Python)](https://star7sss.tistory.com/948) - Aug 09, 2023<br>
 [[DB] B-Tree 탐색, 삽입, 삭제 과정 알아보기](https://star7sss.tistory.com/947) - Aug 08, 2023<br>
 [[DB] B-Tree (Balanced Tree): 데이터베이스 인덱스 저장 방식](https://star7sss.tistory.com/946) - Aug 07, 2023<br>
 [[구현/수학] 백준 28431 양말 짝 맞추기 - 파이썬(Python)](https://star7sss.tistory.com/945) - Aug 07, 2023<br>
@@ -22,5 +24,3 @@
 [[SW공학] 작업 네트워크의 임계경로[CPM]: 가장 늦게 시작하는 날, 가장 빨리 시작하는 날, 여유 기간 구하는 방법](https://star7sss.tistory.com/941) - Aug 03, 2023<br>
 [[OS] 교착상태 회복기법: 프로세스 종료/회복, 자원 선점 (ft. 희생자 선택의 원칙)](https://star7sss.tistory.com/940) - Aug 02, 2023<br>
 [[OS] 교착상태 회피방법: 은행원 알고리즘(Banker's Algorithm)](https://star7sss.tistory.com/939) - Aug 02, 2023<br>
-[[ERROR] SqlResultException: sql-result-count is 0](https://star7sss.tistory.com/938) - Aug 02, 2023<br>
-[[구현/수학] 백준 28419 더하기 - 파이썬(Python)](https://star7sss.tistory.com/937) - Aug 02, 2023<br>
