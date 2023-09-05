@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[구현/수학] 백준 29155 개발자 지망생 구름이의 취업 뽀개기 - 파이썬(Python)](https://star7sss.tistory.com/964) - Sep 04, 2023<br>
+[[구현/수학] 백준 28464 Potato - 파이썬(Python)](https://star7sss.tistory.com/963) - Sep 04, 2023<br>
 [[ERROR] JDBC-5074: Given string does not represent a number in proper format](https://star7sss.tistory.com/962) - Sep 01, 2023<br>
 [[구현/수학] 백준 29197 아침 태권도 - 파이썬(Python)](https://star7sss.tistory.com/961) - Aug 21, 2023<br>
 [[구현/수학] 백준 29196 소수가 아닌 수 2 - 파이썬(Python)](https://star7sss.tistory.com/960) - Aug 21, 2023<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 28701 세제곱의 합 - 파이썬(Python)](https://star7sss.tistory.com/956) - Aug 14, 2023<br>
 [[보안] SFTP와 FTPS, 그리고 보안 취약점 (FTP 능동모드에서의 보안 취약점)](https://star7sss.tistory.com/955) - Aug 14, 2023<br>
 [[네트워크] 파일 전송 프로토콜(FTP)의 개념과 능동/수동모드, 주요 명령어](https://star7sss.tistory.com/954) - Aug 14, 2023<br>
-[[보안] 웹 통신 보안: SSL, TLS를 이용한 HTTPS 보안 웹 브라우징](https://star7sss.tistory.com/953) - Aug 13, 2023<br>
-[[네트워크] 네트워크 성능 척도: 지연, 처리량, 패킷 손실률 (ft. 4가지 지연 종류)](https://star7sss.tistory.com/952) - Aug 10, 2023<br>
