@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[JS] 자바스크립트 함수 정의 방법: 함수 선언식과 (익명)함수 표현식](https://star7sss.tistory.com/969) - Sep 13, 2023<br>
+[[JS] 자바스크립트 연산자: 나머지(%), 증감(++, --), 논리(!, ||, &&), 일치(===), ??(Null 병합), 삼항 연산자](https://star7sss.tistory.com/968) - Sep 13, 2023<br>
+[[JS] 자바스크립트 변수와 상수 선언: let, var, const (feat. let과 var의 차이)](https://star7sss.tistory.com/967) - Sep 13, 2023<br>
 [[JS] 자바스크립트 개발환경 세팅: 브라우저 개발자도구, VS코드](https://star7sss.tistory.com/966) - Sep 12, 2023<br>
 [[JS] 자바스크립트(JavaScript)란? 동적 웹프로그래밍과 모던 자바스크립트](https://star7sss.tistory.com/965) - Sep 11, 2023<br>
 [[구현/수학] 백준 29155 개발자 지망생 구름이의 취업 뽀개기 - 파이썬(Python)](https://star7sss.tistory.com/964) - Sep 04, 2023<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 29197 아침 태권도 - 파이썬(Python)](https://star7sss.tistory.com/961) - Aug 21, 2023<br>
 [[구현/수학] 백준 29196 소수가 아닌 수 2 - 파이썬(Python)](https://star7sss.tistory.com/960) - Aug 21, 2023<br>
 [[집합/수학] 백준 28445 알록달록 앵무새 - 파이썬(Python)](https://star7sss.tistory.com/959) - Aug 14, 2023<br>
-[[구현/수학] 백준 28702 FizzBuzz - 파이썬(Python)](https://star7sss.tistory.com/958) - Aug 14, 2023<br>
-[[구현/수학] 백준 28444 HI-ARC=? - 파이썬(Python)](https://star7sss.tistory.com/957) - Aug 14, 2023<br>
-[[구현/수학] 백준 28701 세제곱의 합 - 파이썬(Python)](https://star7sss.tistory.com/956) - Aug 14, 2023<br>
