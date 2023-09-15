@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[JS] 자바스크립트 객체 생성, 속성 생성/변경/삭제(delete)](https://star7sss.tistory.com/972) - Sep 14, 2023<br>
+[[JS] 자바스크립트 반복문: 배열/객체 내 모든 항목을 순환하는 for of와 for in](https://star7sss.tistory.com/971) - Sep 14, 2023<br>
+[[JS] 자바스크립트 배열 생성, 특징, 함수: push, unshift, pop, shift, length, splice](https://star7sss.tistory.com/970) - Sep 14, 2023<br>
 [[JS] 자바스크립트 함수 정의 방법: 함수 선언식과 (익명)함수 표현식](https://star7sss.tistory.com/969) - Sep 13, 2023<br>
 [[JS] 자바스크립트 연산자: 나머지(%), 증감(++, --), 논리(!, ||, &&), 일치(===), ??(Null 병합), 삼항 연산자](https://star7sss.tistory.com/968) - Sep 13, 2023<br>
 [[JS] 자바스크립트 변수와 상수 선언: let, var, const (feat. let과 var의 차이)](https://star7sss.tistory.com/967) - Sep 13, 2023<br>
@@ -21,6 +24,3 @@
 [[구현/수학] 백준 29155 개발자 지망생 구름이의 취업 뽀개기 - 파이썬(Python)](https://star7sss.tistory.com/964) - Sep 04, 2023<br>
 [[구현/수학] 백준 28464 Potato - 파이썬(Python)](https://star7sss.tistory.com/963) - Sep 04, 2023<br>
 [[ERROR] JDBC-5074: Given string does not represent a number in proper format](https://star7sss.tistory.com/962) - Sep 01, 2023<br>
-[[구현/수학] 백준 29197 아침 태권도 - 파이썬(Python)](https://star7sss.tistory.com/961) - Aug 21, 2023<br>
-[[구현/수학] 백준 29196 소수가 아닌 수 2 - 파이썬(Python)](https://star7sss.tistory.com/960) - Aug 21, 2023<br>
-[[집합/수학] 백준 28445 알록달록 앵무새 - 파이썬(Python)](https://star7sss.tistory.com/959) - Aug 14, 2023<br>
