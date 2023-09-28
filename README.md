@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[JS] 자바스크립트 async와 await: 비동기 함수의 작업이 끝날 때까지 대기](https://star7sss.tistory.com/983) - Sep 27, 2023<br>
+[[JS] 자바스크립트 비동기 객체 Promise: resolve - then, reject - catch](https://star7sss.tistory.com/982) - Sep 27, 2023<br>
 [[JS] 자바스크립트 동기와 비동기: 쓰레드(Thread)와 콜백함수(Callback)](https://star7sss.tistory.com/981) - Sep 25, 2023<br>
 [[JS] 자바스크립트 REST: 패킹(Packing), 여러 요소 저장하기](https://star7sss.tistory.com/980) - Sep 25, 2023<br>
 [[JS] 자바스크립트 스프레드(spread): 언패킹(Unpacking), 특정 객체나 배열 요소 나열하기](https://star7sss.tistory.com/979) - Sep 25, 2023<br>
@@ -22,5 +24,3 @@
 [[구현/수학] 백준 30033 Rust Study - 파이썬(Python)](https://star7sss.tistory.com/975) - Sep 18, 2023<br>
 [[구현/수학] 백준 29752 최장 스트릭 - 파이썬(Python)](https://star7sss.tistory.com/974) - Sep 18, 2023<br>
 [[구현/수학] 백준 29751 삼각형 - 파이썬(Python)](https://star7sss.tistory.com/973) - Sep 18, 2023<br>
-[[JS] 자바스크립트 객체 생성, 속성 생성/변경/삭제(delete)](https://star7sss.tistory.com/972) - Sep 14, 2023<br>
-[[JS] 자바스크립트 반복문: 배열/객체 내 모든 항목을 순환하는 for of와 for in](https://star7sss.tistory.com/971) - Sep 14, 2023<br>
