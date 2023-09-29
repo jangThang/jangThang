@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[DB] RAID의 개념 및 각 단계별 특징(0~6단계), 조합(RAID 10)](https://star7sss.tistory.com/984) - Sep 29, 2023<br>
 [[JS] 자바스크립트 async와 await: 비동기 함수의 작업이 끝날 때까지 대기](https://star7sss.tistory.com/983) - Sep 27, 2023<br>
 [[JS] 자바스크립트 비동기 객체 Promise: resolve - then, reject - catch](https://star7sss.tistory.com/982) - Sep 27, 2023<br>
 [[JS] 자바스크립트 동기와 비동기: 쓰레드(Thread)와 콜백함수(Callback)](https://star7sss.tistory.com/981) - Sep 25, 2023<br>
@@ -23,4 +24,3 @@
 [[Cloud] 클라우드 컴퓨팅 서비스의 종류와 차이: IaaS, PaaS, SaaS 그리고 On Premises](https://star7sss.tistory.com/976) - Sep 21, 2023<br>
 [[구현/수학] 백준 30033 Rust Study - 파이썬(Python)](https://star7sss.tistory.com/975) - Sep 18, 2023<br>
 [[구현/수학] 백준 29752 최장 스트릭 - 파이썬(Python)](https://star7sss.tistory.com/974) - Sep 18, 2023<br>
-[[구현/수학] 백준 29751 삼각형 - 파이썬(Python)](https://star7sss.tistory.com/973) - Sep 18, 2023<br>
