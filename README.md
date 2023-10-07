@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[보안] CPO의 역할과 책임: 개인정보보호 담당자 지정, 수사 조사 및 보고, 개선 조치 기록 및 보관](https://star7sss.tistory.com/987) - Oct 06, 2023<br>
 [[보안] CPO의 지위, 자격 및 신분 보장 (ft. 개인정보보호법)](https://star7sss.tistory.com/986) - Oct 04, 2023<br>
 [[OS] 윈도우 레지스트리(Registry)와 하이브 파일: 시스템 및 프로그램 설정](https://star7sss.tistory.com/985) - Oct 02, 2023<br>
 [[DB] RAID의 개념 및 각 단계별 특징(0~6단계), 조합(RAID 10)](https://star7sss.tistory.com/984) - Sep 29, 2023<br>
@@ -23,4 +24,3 @@
 [[JS] 자바스크립트 스프레드(spread): 언패킹(Unpacking), 특정 객체나 배열 요소 나열하기](https://star7sss.tistory.com/979) - Sep 25, 2023<br>
 [[DB] 데이터베이스와 스토리지의 차이: 목적, 기능, 보관 유형, 보관 방식](https://star7sss.tistory.com/978) - Sep 22, 2023<br>
 [[JS] 자바스크립트 변수 값 교환하기(Swap), 배열/객체 기본값 설정하기](https://star7sss.tistory.com/977) - Sep 22, 2023<br>
-[[Cloud] 클라우드 컴퓨팅 서비스의 종류와 차이: IaaS, PaaS, SaaS 그리고 On Premises](https://star7sss.tistory.com/976) - Sep 21, 2023<br>
