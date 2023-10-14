@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Oracle] PL/SQL 프로시저 FOR LOOP (CURSOR, SELECT문 이용)](https://star7sss.tistory.com/991) - Oct 13, 2023<br>
+[[보안] APT 공격의 개념과 단계: 침투, 탐색, 수집/공격, 유출](https://star7sss.tistory.com/990) - Oct 13, 2023<br>
 [[보안] 부트 바이러스와 파일 바이러스: 기생형, 겹쳐쓰기형, 산란형, 연결형](https://star7sss.tistory.com/989) - Oct 12, 2023<br>
 [[보안] 컴퓨터 바이러스의 개념과 세대별 진화 과정: 원시, 암호화, 은폐형, 갑옷형, 매크로](https://star7sss.tistory.com/988) - Oct 10, 2023<br>
 [[보안] CPO의 역할과 책임: 개인정보보호 담당자 지정, 수사 조사 및 보고, 개선 조치 기록 및 보관](https://star7sss.tistory.com/987) - Oct 06, 2023<br>
@@ -22,5 +24,3 @@
 [[JS] 자바스크립트 async와 await: 비동기 함수의 작업이 끝날 때까지 대기](https://star7sss.tistory.com/983) - Sep 27, 2023<br>
 [[JS] 자바스크립트 비동기 객체 Promise: resolve - then, reject - catch](https://star7sss.tistory.com/982) - Sep 27, 2023<br>
 [[JS] 자바스크립트 동기와 비동기: 쓰레드(Thread)와 콜백함수(Callback)](https://star7sss.tistory.com/981) - Sep 25, 2023<br>
-[[JS] 자바스크립트 REST: 패킹(Packing), 여러 요소 저장하기](https://star7sss.tistory.com/980) - Sep 25, 2023<br>
-[[JS] 자바스크립트 스프레드(spread): 언패킹(Unpacking), 특정 객체나 배열 요소 나열하기](https://star7sss.tistory.com/979) - Sep 25, 2023<br>
