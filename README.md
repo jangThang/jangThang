@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[네트워크] TCP/IP 4계층: 네트워크 엑세스, 인터넷, 전송, 응용](https://star7sss.tistory.com/993) - Oct 18, 2023<br>
 [[데이터통신 & 네트워크] OSI 7계층: 물리, 데이터링크, 네트워크, 전송, 세션, 표현, 응용](https://star7sss.tistory.com/992) - Oct 16, 2023<br>
 [[Oracle] PL/SQL 프로시저 FOR LOOP (CURSOR, SELECT문 이용)](https://star7sss.tistory.com/991) - Oct 13, 2023<br>
 [[보안] APT 공격의 개념과 단계: 침투, 탐색, 수집/공격, 유출](https://star7sss.tistory.com/990) - Oct 13, 2023<br>
@@ -23,4 +24,3 @@
 [[OS] 윈도우 레지스트리(Registry)와 하이브 파일: 시스템 및 프로그램 설정](https://star7sss.tistory.com/985) - Oct 02, 2023<br>
 [[DB] RAID의 개념 및 각 단계별 특징(0~6단계), 조합(RAID 10)](https://star7sss.tistory.com/984) - Sep 29, 2023<br>
 [[JS] 자바스크립트 async와 await: 비동기 함수의 작업이 끝날 때까지 대기](https://star7sss.tistory.com/983) - Sep 27, 2023<br>
-[[JS] 자바스크립트 비동기 객체 Promise: resolve - then, reject - catch](https://star7sss.tistory.com/982) - Sep 27, 2023<br>
