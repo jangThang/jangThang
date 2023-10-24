@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[보안] 서비스 거부 공격의 개념과 종류: TCP SYN Flooding, ICMP Flooding, Tear Drop, Land Attack, (slow) HTTP Get/Post Flooding, cache control Attack](https://star7sss.tistory.com/995) - Oct 23, 2023<br>
 [[네트워크] SMTP 프로토콜: 전자우편(이메일) 전송 표준 (feat. POP3와 IMAP)](https://star7sss.tistory.com/994) - Oct 19, 2023<br>
 [[네트워크] TCP/IP 4계층: 네트워크 엑세스, 인터넷, 전송, 응용](https://star7sss.tistory.com/993) - Oct 18, 2023<br>
 [[데이터통신 & 네트워크] OSI 7계층: 물리, 데이터링크, 네트워크, 전송, 세션, 표현, 응용](https://star7sss.tistory.com/992) - Oct 16, 2023<br>
@@ -23,4 +24,3 @@
 [[보안] CPO의 역할과 책임: 개인정보보호 담당자 지정, 수사 조사 및 보고, 개선 조치 기록 및 보관](https://star7sss.tistory.com/987) - Oct 06, 2023<br>
 [[보안] CPO의 지위, 자격 및 신분 보장 (ft. 개인정보보호법)](https://star7sss.tistory.com/986) - Oct 04, 2023<br>
 [[OS] 윈도우 레지스트리(Registry)와 하이브 파일: 시스템 및 프로그램 설정](https://star7sss.tistory.com/985) - Oct 02, 2023<br>
-[[DB] RAID의 개념 및 각 단계별 특징(0~6단계), 조합(RAID 10)](https://star7sss.tistory.com/984) - Sep 29, 2023<br>
