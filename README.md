@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Activity] (인프런) 웹 프론트엔드를 위한 자바스크립트 첫 걸음: 수강후기, 정리 및 요약](https://star7sss.tistory.com/998) - Oct 24, 2023<br>
+[[Activity] (인프런) 모든 개발자를 위한 HTTP 웹 기본 지식: 수강 후기, 정리 및 요약](https://star7sss.tistory.com/997) - Oct 24, 2023<br>
+[[Activity] 개인정보보호포털 교육: 고군분투 개인정보보호법 파헤치기, 개인정보 보호법령 위반 예방, 개인정보 안전성 확보조치](https://star7sss.tistory.com/996) - Oct 24, 2023<br>
 [[보안] 서비스 거부 공격의 개념과 종류: TCP SYN Flooding, ICMP Flooding, Tear Drop, Land Attack, (slow) HTTP Get/Post Flooding, cache control Attack](https://star7sss.tistory.com/995) - Oct 23, 2023<br>
 [[네트워크] SMTP 프로토콜: 전자우편(이메일) 전송 표준 (feat. POP3와 IMAP)](https://star7sss.tistory.com/994) - Oct 19, 2023<br>
 [[네트워크] TCP/IP 4계층: 네트워크 엑세스, 인터넷, 전송, 응용](https://star7sss.tistory.com/993) - Oct 18, 2023<br>
@@ -21,6 +24,3 @@
 [[보안] APT 공격의 개념과 단계: 침투, 탐색, 수집/공격, 유출](https://star7sss.tistory.com/990) - Oct 13, 2023<br>
 [[보안] 부트 바이러스와 파일 바이러스: 기생형, 겹쳐쓰기형, 산란형, 연결형](https://star7sss.tistory.com/989) - Oct 12, 2023<br>
 [[보안] 컴퓨터 바이러스의 개념과 세대별 진화 과정: 원시, 암호화, 은폐형, 갑옷형, 매크로](https://star7sss.tistory.com/988) - Oct 10, 2023<br>
-[[보안] CPO의 역할과 책임: 개인정보보호 담당자 지정, 수사 조사 및 보고, 개선 조치 기록 및 보관](https://star7sss.tistory.com/987) - Oct 06, 2023<br>
-[[보안] CPO의 지위, 자격 및 신분 보장 (ft. 개인정보보호법)](https://star7sss.tistory.com/986) - Oct 04, 2023<br>
-[[OS] 윈도우 레지스트리(Registry)와 하이브 파일: 시스템 및 프로그램 설정](https://star7sss.tistory.com/985) - Oct 02, 2023<br>
