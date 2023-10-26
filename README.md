@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[보안] 개인정보 보호법 2023년 9월 개정안: 개인정보 전송요구권, 필수동의 생략, 관리감독 강화, 영상정보처리기기/AI 규제, 온오프라인 일원화, 가명정보와 국외이전 규제 강화](https://star7sss.tistory.com/999) - Oct 25, 2023<br>
 [[Activity] (인프런) 웹 프론트엔드를 위한 자바스크립트 첫 걸음: 수강후기, 정리 및 요약](https://star7sss.tistory.com/998) - Oct 24, 2023<br>
 [[Activity] (인프런) 모든 개발자를 위한 HTTP 웹 기본 지식: 수강 후기, 정리 및 요약](https://star7sss.tistory.com/997) - Oct 24, 2023<br>
 [[Activity] 개인정보보호포털 교육: 고군분투 개인정보보호법 파헤치기, 개인정보 보호법령 위반 예방, 개인정보 안전성 확보조치](https://star7sss.tistory.com/996) - Oct 24, 2023<br>
@@ -23,4 +24,3 @@
 [[Oracle] PL/SQL 프로시저 FOR LOOP (CURSOR, SELECT문 이용)](https://star7sss.tistory.com/991) - Oct 13, 2023<br>
 [[보안] APT 공격의 개념과 단계: 침투, 탐색, 수집/공격, 유출](https://star7sss.tistory.com/990) - Oct 13, 2023<br>
 [[보안] 부트 바이러스와 파일 바이러스: 기생형, 겹쳐쓰기형, 산란형, 연결형](https://star7sss.tistory.com/989) - Oct 12, 2023<br>
-[[보안] 컴퓨터 바이러스의 개념과 세대별 진화 과정: 원시, 암호화, 은폐형, 갑옷형, 매크로](https://star7sss.tistory.com/988) - Oct 10, 2023<br>
