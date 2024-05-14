@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[보안] 개인정보처리방침 본문 작성 시 주의할 점: 처리목적, 항목, 기간, 제3자 제공, 위탁, 개인정보파일](https://star7sss.tistory.com/1010) - May 13, 2024<br>
 [[보안] 개인정보처리방침 목차 구성: 의무, 권장 항목 및 S등급 우수사례들의 가점 사항](https://star7sss.tistory.com/1009) - May 08, 2024<br>
 [[ERROR] java.io.IOException: Could not find resource abc.xml (sqlmap namespace 지정 오류)](https://star7sss.tistory.com/1008) - May 05, 2024<br>
 [[FTP] 파일질라(FileZilla) 서버 연결하는 법 [사이트 관리자 계정 로그인]](https://star7sss.tistory.com/1007) - May 01, 2024<br>
@@ -23,4 +24,3 @@
 [[Oracle] 손쉽게 데이터값을 수정하는 명령어 EDIT (Toad for Oracle)](https://star7sss.tistory.com/1002) - Dec 05, 2023<br>
 [[ORACLE] 계층형 쿼리를 활용한 날짜 생성 (CONNECT BY LEVEL 이용)](https://star7sss.tistory.com/1001) - Dec 05, 2023<br>
 [[Eclipse] 체크아웃(Check Out), 체크인(Check In): SVN 형상관리, 협업](https://star7sss.tistory.com/1000) - Nov 30, 2023<br>
-[[보안] 개인정보 보호법 2023년 9월 개정안: 개인정보 전송요구권, 필수동의 생략, 관리감독 강화, 영상정보처리기기/AI 규제, 온오프라인 일원화, 가명정보와 국외이전 규제 강화](https://star7sss.tistory.com/999) - Oct 25, 2023<br>
