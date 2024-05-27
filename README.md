@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[보안] 개인정보 목적 외 이용 및 제3자 제공: 개념과 사례, 목적 내 제3자 제공과의 차이점](https://star7sss.tistory.com/1014) - May 26, 2024<br>
+[[보안] 개인정보 위탁과 제3자 제공의 개념과 예시, 차이점](https://star7sss.tistory.com/1013) - May 26, 2024<br>
 [[보안] 개인정보 수집 및 처리 동의서 작성 시 주의할 점: 포괄동의, 중요내용 강조, 등 사용금지](https://star7sss.tistory.com/1012) - May 16, 2024<br>
 [[보안] 개인정보처리방침 인포그래픽 사용 예시: 권리 및 의무 행사방법, 열람 청구 절차, 인증 및 평가 결과](https://star7sss.tistory.com/1011) - May 15, 2024<br>
 [[보안] 개인정보처리방침 본문 작성 시 주의할 점: 처리목적, 항목, 기간, 제3자 제공, 위탁, 개인정보파일](https://star7sss.tistory.com/1010) - May 13, 2024<br>
@@ -22,5 +24,3 @@
 [[보안] 개인정보의 안전성 확보조치 기준: 2023년 9월 개정안 주요 변경사항 요약](https://star7sss.tistory.com/1006) - Apr 30, 2024<br>
 [[원격 접속] MSTSC 윈도우 원격으로 연결하는 방법 (원격 데스크톱 연결)](https://star7sss.tistory.com/1005) - Mar 25, 2024<br>
 [[ERROR] ORA-30926: 원본 테이블의 고정 행 집합을 가져올 수 없습니다](https://star7sss.tistory.com/1004) - Jan 30, 2024<br>
-[[Oracle] TRUNC과 GROUP BY 이용한 구간별 통계 조회 쿼리](https://star7sss.tistory.com/1003) - Jan 11, 2024<br>
-[[Oracle] 손쉽게 데이터값을 수정하는 명령어 EDIT (Toad for Oracle)](https://star7sss.tistory.com/1002) - Dec 05, 2023<br>
