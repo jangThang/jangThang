@@ -13,6 +13,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[금융] 버핏 지수 (Buffet indicator): 주식시장의 과열 거품 정도를 판별하는 지수](https://star7sss.tistory.com/1017) - Jun 16, 2024<br>
+[[금융] ETF(상장지수펀드) 개념, 종류 [feat. ETF 열풍, 그 이유는?]](https://star7sss.tistory.com/1016) - Jun 16, 2024<br>
 [[표준프레임워크] 전자정부 프레임워크 eGovFrame이란? 구조와 아키텍처](https://star7sss.tistory.com/1015) - Jun 15, 2024<br>
 [[보안] 개인정보 목적 외 이용 및 제3자 제공: 개념과 사례, 목적 내 제3자 제공과의 차이점](https://star7sss.tistory.com/1014) - May 26, 2024<br>
 [[보안] 개인정보 위탁과 제3자 제공의 개념과 예시, 차이점](https://star7sss.tistory.com/1013) - May 26, 2024<br>
@@ -22,5 +24,3 @@
 [[보안] 개인정보처리방침 목차 구성: 의무, 권장 항목 및 S등급 우수사례들의 가점 사항](https://star7sss.tistory.com/1009) - May 08, 2024<br>
 [[ERROR] java.io.IOException: Could not find resource abc.xml (sqlmap namespace 지정 오류)](https://star7sss.tistory.com/1008) - May 05, 2024<br>
 [[FTP] 파일질라(FileZilla) 서버 연결하는 법 [사이트 관리자 계정 로그인]](https://star7sss.tistory.com/1007) - May 01, 2024<br>
-[[보안] 개인정보의 안전성 확보조치 기준: 2023년 9월 개정안 주요 변경사항 요약](https://star7sss.tistory.com/1006) - Apr 30, 2024<br>
-[[원격 접속] MSTSC 윈도우 원격으로 연결하는 방법 (원격 데스크톱 연결)](https://star7sss.tistory.com/1005) - Mar 25, 2024<br>
