@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[SW] 공공기관 소프트웨어 관리에 관한 규정: 관리책임자의 업무, 관리대장, 점검, 교육](https://star7sss.tistory.com/1021) - Jun 30, 2024<br>
 [[금융] ETF 이름, 명칭만 보고 어떤 종목인지 아는 방법 (레버리지, 합성, H, TR)](https://star7sss.tistory.com/1020) - Jun 23, 2024<br>
 [[금융] VIX 지수: S&amp;P500 옵션으로 알아보는 미국 주식시장 변동성 전망 (공포지수, 폭락장 선행 지표)](https://star7sss.tistory.com/1019) - Jun 22, 2024<br>
 [[금융] 하이먼 민스키 심리 곡선: 버블이 형성되고 꺼지는 4단계 [잠복, 인식, 광기, 붕괴]](https://star7sss.tistory.com/1018) - Jun 18, 2024<br>
@@ -23,4 +24,3 @@
 [[보안] 개인정보 위탁과 제3자 제공의 개념과 예시, 차이점](https://star7sss.tistory.com/1013) - May 26, 2024<br>
 [[보안] 개인정보 수집 및 처리 동의서 작성 시 주의할 점: 포괄동의, 중요내용 강조, 등 사용금지](https://star7sss.tistory.com/1012) - May 16, 2024<br>
 [[보안] 개인정보처리방침 인포그래픽 사용 예시: 권리 및 의무 행사방법, 열람 청구 절차, 인증 및 평가 결과](https://star7sss.tistory.com/1011) - May 15, 2024<br>
-[[보안] 개인정보처리방침 본문 작성 시 주의할 점: 처리목적, 항목, 기간, 제3자 제공, 위탁, 개인정보파일](https://star7sss.tistory.com/1010) - May 13, 2024<br>
