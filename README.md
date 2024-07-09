@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[금융] 커버드콜의 의미와 원리: 콜옵션 매도와 자산 매입으로 위험을 분산한 금융 상품](https://star7sss.tistory.com/1023) - Jul 08, 2024<br>
 [[금융] 콜옵션과 풋옵션: 특정 자산을 미리 정한 가격으로 사고 파는 권리](https://star7sss.tistory.com/1022) - Jul 06, 2024<br>
 [[SW] 공공기관 소프트웨어 관리에 관한 규정: 관리책임자의 업무, 관리대장, 점검, 교육](https://star7sss.tistory.com/1021) - Jun 30, 2024<br>
 [[금융] ETF 이름, 명칭만 보고 어떤 종목인지 아는 방법 (레버리지, 합성, H, TR)](https://star7sss.tistory.com/1020) - Jun 23, 2024<br>
@@ -23,4 +24,3 @@
 [[표준프레임워크] 전자정부 프레임워크 eGovFrame이란? 구조와 아키텍처](https://star7sss.tistory.com/1015) - Jun 15, 2024<br>
 [[보안] 개인정보 목적 외 이용 및 제3자 제공: 개념과 사례, 목적 내 제3자 제공과의 차이점](https://star7sss.tistory.com/1014) - May 26, 2024<br>
 [[보안] 개인정보 위탁과 제3자 제공의 개념과 예시, 차이점](https://star7sss.tistory.com/1013) - May 26, 2024<br>
-[[보안] 개인정보 수집 및 처리 동의서 작성 시 주의할 점: 포괄동의, 중요내용 강조, 등 사용금지](https://star7sss.tistory.com/1012) - May 16, 2024<br>
