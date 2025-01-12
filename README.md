@@ -13,14 +13,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[법] 과기출연기관법, 과학기술분야 정부출연연구기관 법률 (정출연법) 시행](https://star7sss.tistory.com/1031) - Dec 25, 2024<br>
+[[개인정보] 내부관리계획 수립 시 필수 포함 항목 (개인정보의 안전성 확보조치 기준 제4조)](https://star7sss.tistory.com/1030) - Dec 14, 2024<br>
+[[개인정보] 공공시스템 운영기관 등의 개인정보 안전성 확보조치](https://star7sss.tistory.com/1029) - Dec 13, 2024<br>
+[[개인정보] 개인정보의 안전성 확보조치 : 고시 목적, 기준 법령, 주요 내용 알아보기](https://star7sss.tistory.com/1028) - Dec 07, 2024<br>
+[[LG Gram] Fn키 잠금, Fn키 누르지 않고도 소리 음량 조절하는 방법](https://star7sss.tistory.com/1027) - Nov 09, 2024<br>
+[[Activity] 전산 회계 2급 취득 후기 (노베이스 직장인 2주 단기 합격 공략)](https://star7sss.tistory.com/1026) - Oct 27, 2024<br>
+[[개인정보] 법률 적용의 원칙: 상위법 우선의 원칙, 특별법 우선의 원칙, 신법 우선의 원칙](https://star7sss.tistory.com/1025) - Sep 11, 2024<br>
+[[개인정보] 법령의 종류, 상위법과 하위법: 헌법, 법률, 명령, 조례, 규칙](https://star7sss.tistory.com/1024) - Sep 11, 2024<br>
 [[금융] 커버드콜의 의미와 원리: 콜옵션 매도와 자산 매입으로 위험을 분산한 금융 상품](https://star7sss.tistory.com/1023) - Jul 08, 2024<br>
 [[금융] 콜옵션과 풋옵션: 특정 자산을 미리 정한 가격으로 사고 파는 권리](https://star7sss.tistory.com/1022) - Jul 06, 2024<br>
 [[SW] 공공기관 소프트웨어 관리에 관한 규정: 관리책임자의 업무, 관리대장, 점검, 교육](https://star7sss.tistory.com/1021) - Jun 30, 2024<br>
-[[금융] ETF 이름, 명칭만 보고 어떤 종목인지 아는 방법 (레버리지, 합성, H, TR)](https://star7sss.tistory.com/1020) - Jun 23, 2024<br>
-[[금융] VIX 지수: S&amp;P500 옵션으로 알아보는 미국 주식시장 변동성 전망 (공포지수, 폭락장 선행 지표)](https://star7sss.tistory.com/1019) - Jun 22, 2024<br>
-[[금융] 하이먼 민스키 심리 곡선: 버블이 형성되고 꺼지는 4단계 [잠복, 인식, 광기, 붕괴]](https://star7sss.tistory.com/1018) - Jun 18, 2024<br>
-[[금융] 버핏 지수 (Buffet indicator): 주식시장의 과열 거품 정도를 판별하는 지수](https://star7sss.tistory.com/1017) - Jun 16, 2024<br>
-[[금융] ETF(상장지수펀드) 개념, 종류 [feat. ETF 열풍, 그 이유는?]](https://star7sss.tistory.com/1016) - Jun 16, 2024<br>
-[[표준프레임워크] 전자정부 프레임워크 eGovFrame이란? 구조와 아키텍처](https://star7sss.tistory.com/1015) - Jun 15, 2024<br>
-[[보안] 개인정보 목적 외 이용 및 제3자 제공: 개념과 사례, 목적 내 제3자 제공과의 차이점](https://star7sss.tistory.com/1014) - May 26, 2024<br>
-[[보안] 개인정보 위탁과 제3자 제공의 개념과 예시, 차이점](https://star7sss.tistory.com/1013) - May 26, 2024<br>
