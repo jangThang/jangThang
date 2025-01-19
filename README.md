@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[보안] 제로 트러스트(Zero Trust)](https://star7sss.tistory.com/1032) - Jan 19, 2025<br>
 [[법] 과기출연기관법, 과학기술분야 정부출연연구기관 법률 (정출연법) 시행](https://star7sss.tistory.com/1031) - Dec 25, 2024<br>
 [[개인정보] 내부관리계획 수립 시 필수 포함 항목 (개인정보의 안전성 확보조치 기준 제4조)](https://star7sss.tistory.com/1030) - Dec 14, 2024<br>
 [[개인정보] 공공시스템 운영기관 등의 개인정보 안전성 확보조치](https://star7sss.tistory.com/1029) - Dec 13, 2024<br>
@@ -23,4 +24,3 @@
 [[개인정보] 법령의 종류, 상위법과 하위법: 헌법, 법률, 명령, 조례, 규칙](https://star7sss.tistory.com/1024) - Sep 11, 2024<br>
 [[금융] 커버드콜의 의미와 원리: 콜옵션 매도와 자산 매입으로 위험을 분산한 금융 상품](https://star7sss.tistory.com/1023) - Jul 08, 2024<br>
 [[금융] 콜옵션과 풋옵션: 특정 자산을 미리 정한 가격으로 사고 파는 권리](https://star7sss.tistory.com/1022) - Jul 06, 2024<br>
-[[SW] 공공기관 소프트웨어 관리에 관한 규정: 관리책임자의 업무, 관리대장, 점검, 교육](https://star7sss.tistory.com/1021) - Jun 30, 2024<br>
