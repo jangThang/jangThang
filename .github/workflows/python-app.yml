@@ -38,4 +38,4 @@ jobs:
         git config --local user.email "star7sss@naver.com"
         git config --local user.name "jangThang"
         git commit -m "Update README.md"
-        git push
+        git push origin +master
