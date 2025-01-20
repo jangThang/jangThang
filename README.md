@@ -13,7 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
-[[보안] 제로 트러스트(Zero Trust)](https://star7sss.tistory.com/1032) - Jan 19, 2025<br>
+[[보안] 제로 트러스트(Zero Trust) 보안 기법 주요 개념 및 원칙 알아보기](https://star7sss.tistory.com/1032) - Jan 19, 2025<br>
 [[법] 과기출연기관법, 과학기술분야 정부출연연구기관 법률 (정출연법) 시행](https://star7sss.tistory.com/1031) - Dec 25, 2024<br>
 [[개인정보] 내부관리계획 수립 시 필수 포함 항목 (개인정보의 안전성 확보조치 기준 제4조)](https://star7sss.tistory.com/1030) - Dec 14, 2024<br>
 [[개인정보] 공공시스템 운영기관 등의 개인정보 안전성 확보조치](https://star7sss.tistory.com/1029) - Dec 13, 2024<br>
