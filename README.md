@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[AI/통계] 베이즈 정리의 개념과 예제 [feat. 조건부 확률, 전 확률의 정리]](https://star7sss.tistory.com/1043) - Apr 02, 2025<br>
 [[AI/ML] K-평균 클러스터링 알고리즘 개념 및 동작 방식 알아보기 [feat. 실루엣 계수]](https://star7sss.tistory.com/1042) - Apr 01, 2025<br>
 [[AI/ML] SVM, 서포트 벡터 머신 개념과 원리, 특징과 구성요소 알아보기](https://star7sss.tistory.com/1041) - Mar 31, 2025<br>
 [[AI/DL] 활성화 함수의 개념과 종류 (시그모이드, ReLU, 계단, 부호, tanh 함수)](https://star7sss.tistory.com/1040) - Mar 31, 2025<br>
@@ -23,4 +24,3 @@
 [[데이터] 암묵지와 형식지, 4단계 지식전환단계 (공통화, 표출화, 연결화, 내면화)](https://star7sss.tistory.com/1035) - Mar 27, 2025<br>
 [[데이터] DIKW피라미드의 정의와 구체적인 예시 알아보기](https://star7sss.tistory.com/1034) - Mar 25, 2025<br>
 [[구현/수학] 백준 30310 Finding Forks - 파이썬(Python)](https://star7sss.tistory.com/1033) - Feb 26, 2025<br>
-[[보안] 제로 트러스트(Zero Trust) 보안 기법 주요 개념 및 원칙 알아보기](https://star7sss.tistory.com/1032) - Jan 19, 2025<br>
