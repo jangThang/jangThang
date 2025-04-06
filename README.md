@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[디자인] 색상이 주는 지각적 효과와 감정적 효과의 종류와 예시](https://star7sss.tistory.com/1050) - Apr 05, 2025<br>
+[[디자인] RGB와 CMYK 차이, 감산혼합 인쇄용 색상 조합](https://star7sss.tistory.com/1049) - Apr 05, 2025<br>
+[[디자인] 게슈탈트 법칙 개념 및 원리와 패턴: 근접, 유사, 연속, 폐쇄](https://star7sss.tistory.com/1048) - Apr 05, 2025<br>
 [[AI/DL] 부스팅(Boosting) 앙상블 기법의 개념과 절차, 특징 알아보기](https://star7sss.tistory.com/1047) - Apr 04, 2025<br>
 [[AI/DL] 배깅(Bagging) 앙상블 기법의 개념 및 절차, 특징 알아보기](https://star7sss.tistory.com/1046) - Apr 04, 2025<br>
 [[AI/DL] 매개변수 최적화 기법 종류: 확률적 경사 하강법(SGD), 모멘텀, AdaGrad, Adam](https://star7sss.tistory.com/1045) - Apr 04, 2025<br>
@@ -21,6 +24,3 @@
 [[AI/ML] K-평균 클러스터링 알고리즘 개념 및 동작 방식 알아보기 [feat. 실루엣 계수]](https://star7sss.tistory.com/1042) - Apr 01, 2025<br>
 [[AI/ML] SVM, 서포트 벡터 머신 개념과 원리, 특징과 구성요소 알아보기](https://star7sss.tistory.com/1041) - Mar 31, 2025<br>
 [[AI/DL] 활성화 함수의 개념과 종류 (시그모이드, ReLU, 계단, 부호, tanh 함수)](https://star7sss.tistory.com/1040) - Mar 31, 2025<br>
-[[AI/ML] 지니 지수 구하는 방법, 분류함수 불순도 척도 계산하기](https://star7sss.tistory.com/1039) - Mar 31, 2025<br>
-[[AI/ML] 회귀 분석 검정, 결정계수(R-squared)의 개념과 구하는 법 알아보기](https://star7sss.tistory.com/1038) - Mar 30, 2025<br>
-[[AI/ML] 최소제곱법을 이용한 회귀계수 추정, 오차 제곱합(SSE) 개념과 정의](https://star7sss.tistory.com/1037) - Mar 30, 2025<br>
