@@ -13,14 +13,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Pandas] 행 인덱스와 열 인덱스 변환하는 unstack, stack 함수](https://star7sss.tistory.com/1056) - Jun 08, 2025<br>
+[[Pandas] 데이터셋 그룹 집계함수 groupby 사용법 (평균, 합계, 개수, 최대, 최소)](https://star7sss.tistory.com/1055) - Jun 07, 2025<br>
+[[Pandas] 날짜 형식 데이터 정제하는 방법, datetime 관련 문법 알아보기](https://star7sss.tistory.com/1054) - Jun 07, 2025<br>
+[[Pandas] 숫자와 소수점만 남기고 문자 제거하는 법 (extract 정규표현식 활용)](https://star7sss.tistory.com/1053) - Jun 07, 2025<br>
+[[Pandas] 데이터의 분위수를 구하는 quantile (4분위수 구하기)](https://star7sss.tistory.com/1052) - Jun 07, 2025<br>
 [밀리의서재 PC뷰어 책 안 열림 해결 방법 (다운로드만 되고 책은 안 보이는 경우)](https://star7sss.tistory.com/1051) - May 03, 2025<br>
 [[디자인] 색상이 주는 지각적 효과와 감정적 효과의 종류와 예시](https://star7sss.tistory.com/1050) - Apr 05, 2025<br>
 [[디자인] RGB와 CMYK 차이, 감산혼합 인쇄용 색상 조합](https://star7sss.tistory.com/1049) - Apr 05, 2025<br>
 [[디자인] 게슈탈트 법칙 개념 및 원리와 패턴: 근접, 유사, 연속, 폐쇄](https://star7sss.tistory.com/1048) - Apr 05, 2025<br>
 [[AI/DL] 부스팅(Boosting) 앙상블 기법의 개념과 절차, 특징 알아보기](https://star7sss.tistory.com/1047) - Apr 04, 2025<br>
 [[AI/DL] 배깅(Bagging) 앙상블 기법의 개념 및 절차, 특징 알아보기](https://star7sss.tistory.com/1046) - Apr 04, 2025<br>
-[[AI/DL] 매개변수 최적화 기법 종류: 확률적 경사 하강법(SGD), 모멘텀, AdaGrad, Adam](https://star7sss.tistory.com/1045) - Apr 04, 2025<br>
-[[AI/DL] 혼동 행렬 평가지표: 정확도, 정밀도, 재현율, 특이도, 조화 평균(F1 Score)](https://star7sss.tistory.com/1044) - Apr 03, 2025<br>
-[[AI/통계] 베이즈 정리의 개념과 예제 [feat. 조건부 확률, 전 확률의 정리]](https://star7sss.tistory.com/1043) - Apr 02, 2025<br>
-[[AI/ML] K-평균 클러스터링 알고리즘 개념 및 동작 방식 알아보기 [feat. 실루엣 계수]](https://star7sss.tistory.com/1042) - Apr 01, 2025<br>
-[[AI/ML] SVM, 서포트 벡터 머신 개념과 원리, 특징과 구성요소 알아보기](https://star7sss.tistory.com/1041) - Mar 31, 2025<br>
