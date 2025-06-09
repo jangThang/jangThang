@@ -13,6 +13,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Statsmodels] 로지스틱 회귀분석, 칼럼별 오즈비(odds ratio) 구하는 방법](https://star7sss.tistory.com/1059) - Jun 08, 2025<br>
+[[Statsmodels] 다중선형 회귀분석 OLS, 개념 및 활용 예시 알아보기](https://star7sss.tistory.com/1058) - Jun 08, 2025<br>
+[[Pandas] pivot table 피벗테이블 활용해서 행열 기준으로 그룹화 및 집계하기](https://star7sss.tistory.com/1057) - Jun 08, 2025<br>
 [[Pandas] 행 인덱스와 열 인덱스 변환하는 unstack, stack 함수](https://star7sss.tistory.com/1056) - Jun 08, 2025<br>
 [[Pandas] 데이터셋 그룹 집계함수 groupby 사용법 (평균, 합계, 개수, 최대, 최소)](https://star7sss.tistory.com/1055) - Jun 07, 2025<br>
 [[Pandas] 날짜 형식 데이터 정제하는 방법, datetime 관련 문법 알아보기](https://star7sss.tistory.com/1054) - Jun 07, 2025<br>
@@ -21,6 +24,3 @@
 [밀리의서재 PC뷰어 책 안 열림 해결 방법 (다운로드만 되고 책은 안 보이는 경우)](https://star7sss.tistory.com/1051) - May 03, 2025<br>
 [[디자인] 색상이 주는 지각적 효과와 감정적 효과의 종류와 예시](https://star7sss.tistory.com/1050) - Apr 05, 2025<br>
 [[디자인] RGB와 CMYK 차이, 감산혼합 인쇄용 색상 조합](https://star7sss.tistory.com/1049) - Apr 05, 2025<br>
-[[디자인] 게슈탈트 법칙 개념 및 원리와 패턴: 근접, 유사, 연속, 폐쇄](https://star7sss.tistory.com/1048) - Apr 05, 2025<br>
-[[AI/DL] 부스팅(Boosting) 앙상블 기법의 개념과 절차, 특징 알아보기](https://star7sss.tistory.com/1047) - Apr 04, 2025<br>
-[[AI/DL] 배깅(Bagging) 앙상블 기법의 개념 및 절차, 특징 알아보기](https://star7sss.tistory.com/1046) - Apr 04, 2025<br>
