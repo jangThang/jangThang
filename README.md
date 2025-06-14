@@ -13,14 +13,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Web] 홈페이지 공지사항 팝업창 띄우는 알아보기](https://star7sss.tistory.com/1066) - Jun 13, 2025<br>
+[[Web] 홈페이지 탭 전환 기능 구현하기 (addClass, removeClass 이용)](https://star7sss.tistory.com/1065) - Jun 13, 2025<br>
+[[Web] 이미지 슬라이드 fade out, fade in 구현 방법 알아보기](https://star7sss.tistory.com/1064) - Jun 13, 2025<br>
+[[Web] 홈페이지 일자형 슬라이딩 메뉴 구현하기 (수직 메뉴바)](https://star7sss.tistory.com/1063) - Jun 13, 2025<br>
+[[Web] 슬라이드 메뉴 구현하는 방법 (전체 서브메뉴 슬라이딩)](https://star7sss.tistory.com/1062) - Jun 13, 2025<br>
+[[Web] 웹페이지 좌우로 움직이는 이미지 슬라이드 구현 방법](https://star7sss.tistory.com/1061) - Jun 13, 2025<br>
+[[Web] 웹페이지 위아래로 움직이는 이미지 슬라이드 구현 방법](https://star7sss.tistory.com/1060) - Jun 13, 2025<br>
 [[Statsmodels] 로지스틱 회귀분석, 칼럼별 오즈비(odds ratio) 구하는 방법](https://star7sss.tistory.com/1059) - Jun 08, 2025<br>
 [[Statsmodels] 다중선형 회귀분석 OLS, 개념 및 활용 예시 알아보기](https://star7sss.tistory.com/1058) - Jun 08, 2025<br>
 [[Pandas] pivot table 피벗테이블 활용해서 행열 기준으로 그룹화 및 집계하기](https://star7sss.tistory.com/1057) - Jun 08, 2025<br>
 [[Pandas] 행 인덱스와 열 인덱스 변환하는 unstack, stack 함수](https://star7sss.tistory.com/1056) - Jun 08, 2025<br>
-[[Pandas] 데이터셋 그룹 집계함수 groupby 사용법 (평균, 합계, 개수, 최대, 최소)](https://star7sss.tistory.com/1055) - Jun 07, 2025<br>
-[[Pandas] 날짜 형식 데이터 정제하는 방법, datetime 관련 문법 알아보기](https://star7sss.tistory.com/1054) - Jun 07, 2025<br>
-[[Pandas] 숫자와 소수점만 남기고 문자 제거하는 법 (extract 정규표현식 활용)](https://star7sss.tistory.com/1053) - Jun 07, 2025<br>
-[[Pandas] 데이터의 분위수를 구하는 quantile (4분위수 구하기)](https://star7sss.tistory.com/1052) - Jun 07, 2025<br>
-[밀리의서재 PC뷰어 책 안 열림 해결 방법 (다운로드만 되고 책은 안 보이는 경우)](https://star7sss.tistory.com/1051) - May 03, 2025<br>
-[[디자인] 색상이 주는 지각적 효과와 감정적 효과의 종류와 예시](https://star7sss.tistory.com/1050) - Apr 05, 2025<br>
-[[디자인] RGB와 CMYK 차이, 감산혼합 인쇄용 색상 조합](https://star7sss.tistory.com/1049) - Apr 05, 2025<br>
