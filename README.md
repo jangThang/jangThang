@@ -13,14 +13,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Scipy] 분산분석(ANOVA, Analysis of Variance) 개념과 파이썬 활용 예제 알아보기](https://star7sss.tistory.com/1080) - Jun 17, 2025<br>
+[[Scipy] chisquare 카이제곱 적합도 검정, 범주형 변수 기대 분포 일치 여부 검정하기](https://star7sss.tistory.com/1079) - Jun 17, 2025<br>
+[[Scipy] 카이제곱 독립성 검정 개념 및 chi2_contingency 사용 예제](https://star7sss.tistory.com/1078) - Jun 17, 2025<br>
+[[Scipy] 등분산 검정 Levene Test, 파이썬 통계 패키지 이용해서 검정하는 방법](https://star7sss.tistory.com/1077) - Jun 17, 2025<br>
+[[Scipy] 정규성 검정 개념 및 shapiro를 통한 파이썬 사용 예시 알아보기](https://star7sss.tistory.com/1076) - Jun 17, 2025<br>
+[[Scipy] T-검정 개념 및 파이썬 활용 예시 알아보기 (ttest-1samp, ttest_ind, ttest_rel)](https://star7sss.tistory.com/1075) - Jun 17, 2025<br>
 [[Pandas] map 이용해서 데이터프레임 그룹 통계 열 추가하기](https://star7sss.tistory.com/1074) - Jun 17, 2025<br>
 [[Pandas] transform 이용해서 groupby 집계별 연산결과 덧붙이기](https://star7sss.tistory.com/1073) - Jun 17, 2025<br>
 [[Pandas] 데이터프레임 행 열마다 함수 연산 적용하는 방법 (apply 활용)](https://star7sss.tistory.com/1072) - Jun 16, 2025<br>
 [[AI/DL] 랜덤포레스트 앙상블 모델로 분류 문제 예측하는 방법 (Sklearn 이용)](https://star7sss.tistory.com/1071) - Jun 15, 2025<br>
 [[빅데이터분석기사 실기 10회] 테스트 체험 환경 제2유형 풀이 (원핫 인코딩 이용)](https://star7sss.tistory.com/1070) - Jun 15, 2025<br>
-[[빅데이터분석기사 실기 10회] 테스트 체험 환경 제2유형 모델 학습 정답 및 해설](https://star7sss.tistory.com/1069) - Jun 15, 2025<br>
-[[빅데이터분석기사 실기 10회] 테스트 체험 환경 제3유형 통계 분석 정답 및 해설](https://star7sss.tistory.com/1068) - Jun 14, 2025<br>
-[[빅데이터분석기사 실기 10회] 테스트 체험 환경 제1유형 데이터 분석 정답 및 해설](https://star7sss.tistory.com/1067) - Jun 14, 2025<br>
-[[Web] 홈페이지 공지사항 팝업창 띄우는 알아보기](https://star7sss.tistory.com/1066) - Jun 13, 2025<br>
-[[Web] 홈페이지 탭 전환 기능 구현하기 (addClass, removeClass 이용)](https://star7sss.tistory.com/1065) - Jun 13, 2025<br>
-[[Web] 이미지 슬라이드 fade out, fade in 구현 방법 알아보기](https://star7sss.tistory.com/1064) - Jun 13, 2025<br>
