@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[보안] 윈도우 레지스트리 개념과 구조, 주요 특징](https://star7sss.tistory.com/1085) - Sep 12, 2025<br>
 [[보안] SSO 관련 기술 및 프로토콜: SAML, OAuth, Kerberos](https://star7sss.tistory.com/1084) - Sep 08, 2025<br>
 [[보안] SSO(Single Sign-On, 단일 로그인) 개념 및 장단점](https://star7sss.tistory.com/1083) - Sep 07, 2025<br>
 [[보안] 크리덴셜 스터핑(Credential Stuffing) 개념 및 공격 방법, 예방 대책](https://star7sss.tistory.com/1082) - Sep 06, 2025<br>
@@ -23,4 +24,3 @@
 [[Scipy] 등분산 검정 Levene Test, 파이썬 통계 패키지 이용해서 검정하는 방법](https://star7sss.tistory.com/1077) - Jun 17, 2025<br>
 [[Scipy] 정규성 검정 개념 및 shapiro를 통한 파이썬 사용 예시 알아보기](https://star7sss.tistory.com/1076) - Jun 17, 2025<br>
 [[Scipy] T-검정 개념 및 파이썬 활용 예시 알아보기 (ttest-1samp, ttest_ind, ttest_rel)](https://star7sss.tistory.com/1075) - Jun 17, 2025<br>
-[[Pandas] map 이용해서 데이터프레임 그룹 통계 열 추가하기](https://star7sss.tistory.com/1074) - Jun 17, 2025<br>
