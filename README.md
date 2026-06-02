@@ -13,14 +13,14 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
-[[보안] NAC 네트워크 접근제어 개념 및 주요 기능, 특징](https://star7sss.tistory.com/1089) - Sep 14, 2025<br>
-[[보안] IPSec VPN과 SSL VPN 개념과 동작방식, 차이점 비교](https://star7sss.tistory.com/1088) - Sep 14, 2025<br>
-[[보안] VPN(가상 사설망)의 개념과 기능: 데이터 암호화, 무결성, 접근통제, 개인정보보호](https://star7sss.tistory.com/1087) - Sep 14, 2025<br>
-[[보안] 무단 복제 유출 방지 기술: 스테가노그래피, 워터마킹, 핑거프린팅](https://star7sss.tistory.com/1086) - Sep 14, 2025<br>
-[[보안] 윈도우 레지스트리 개념과 구조, 주요 특징](https://star7sss.tistory.com/1085) - Sep 12, 2025<br>
-[[보안] SSO 관련 기술 및 프로토콜: SAML, OAuth, Kerberos](https://star7sss.tistory.com/1084) - Sep 08, 2025<br>
-[[보안] SSO(Single Sign-On, 단일 로그인) 개념 및 장단점](https://star7sss.tistory.com/1083) - Sep 07, 2025<br>
-[[보안] 크리덴셜 스터핑(Credential Stuffing) 개념 및 공격 방법, 예방 대책](https://star7sss.tistory.com/1082) - Sep 06, 2025<br>
-[[Activity] 빅데이터분석기사 합격 후기 (쓸모, 필기 실기 공부 전략, 요약)](https://star7sss.tistory.com/1081) - Jul 16, 2025<br>
-[[Scipy] 분산분석(ANOVA, Analysis of Variance) 개념과 파이썬 활용 예제 알아보기](https://star7sss.tistory.com/1080) - Jun 17, 2025<br>
-[[Scipy] chisquare 카이제곱 적합도 검정, 범주형 변수 기대 분포 일치 여부 검정하기](https://star7sss.tistory.com/1079) - Jun 17, 2025<br>
+[[보안] 업무 연속성 계획(BCP, Business Continuity Planning) 5단계](https://star7sss.tistory.com/1112) - May 25, 2026<br>
+[[OS] 디스크 스케줄링 알고리즘 개념 및 종류 (FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK)](https://star7sss.tistory.com/1111) - May 25, 2026<br>
+[[보안] iptables 개념 및 구조, 주요 테이블과 체인, 동작과정](https://star7sss.tistory.com/1110) - May 25, 2026<br>
+[[보안] 전자봉투(Digital Envelope) 개념 및 동작원리, 필요성](https://star7sss.tistory.com/1109) - May 25, 2026<br>
+[[보안] TCP Wrapper의 개념 및 접근제어 판단순서, 화이트리스트 설정 방법](https://star7sss.tistory.com/1108) - May 24, 2026<br>
+[[보안] IPsec 핵심 프로토콜(AH, ESP) 및 동작모드(전송, 터널) 살펴보기](https://star7sss.tistory.com/1107) - May 24, 2026<br>
+[[네트워크] 포트 스캐닝(Port Scanning) 개념과 스캔 방식 (TCP Connect, TCP SYN, UDP, FIN, ACK)](https://star7sss.tistory.com/1106) - May 24, 2026<br>
+[[보안] BLP(Bell-LaPadula)와 Biba 접근통제 모델 개념 및 차이점 비교](https://star7sss.tistory.com/1105) - May 23, 2026<br>
+[[보안] 커버로스(Kerberos) 인증 프로토콜의 개념과 동작방식 (AS, TGS, KDC, TGT, ST)](https://star7sss.tistory.com/1104) - May 23, 2026<br>
+[[OS] 리눅스 주요 로그파일 종류 및 기능 (utmp, wtmp, btmp, lastlog, secure, messages)](https://star7sss.tistory.com/1103) - May 23, 2026<br>
+[[보안] 디지털 포렌식 휘발성 증거 수집 순서(RFC3227 증거 수집 및 보관 가이드라인)](https://star7sss.tistory.com/1102) - May 23, 2026<br>
