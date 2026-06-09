@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Tistory] 블로그 닉네임 및 프로필 변경](https://star7sss.tistory.com/1113) - Jun 09, 2026<br>
 [[보안] 업무 연속성 계획(BCP, Business Continuity Planning) 5단계](https://star7sss.tistory.com/1112) - May 25, 2026<br>
 [[OS] 디스크 스케줄링 알고리즘 개념 및 종류 (FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK)](https://star7sss.tistory.com/1111) - May 25, 2026<br>
 [[보안] iptables 개념 및 구조, 주요 테이블과 체인, 동작과정](https://star7sss.tistory.com/1110) - May 25, 2026<br>
@@ -23,4 +24,3 @@
 [[보안] BLP(Bell-LaPadula)와 Biba 접근통제 모델 개념 및 차이점 비교](https://star7sss.tistory.com/1105) - May 23, 2026<br>
 [[보안] 커버로스(Kerberos) 인증 프로토콜의 개념과 동작방식 (AS, TGS, KDC, TGT, ST)](https://star7sss.tistory.com/1104) - May 23, 2026<br>
 [[OS] 리눅스 주요 로그파일 종류 및 기능 (utmp, wtmp, btmp, lastlog, secure, messages)](https://star7sss.tistory.com/1103) - May 23, 2026<br>
-[[보안] 디지털 포렌식 휘발성 증거 수집 순서(RFC3227 증거 수집 및 보관 가이드라인)](https://star7sss.tistory.com/1102) - May 23, 2026<br>
