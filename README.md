@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[AI] Codex 설치방법부터 활용법까지, 프로젝트 폴더 설정 및 권한 승인 요청](https://star7sss.tistory.com/1118) - Jul 26, 2026<br>
 [첫 중고차 케이카 내돈내산 후기: 아반떼 AD (feat. AI 매물검토)](https://star7sss.tistory.com/1117) - Jul 20, 2026<br>
 [[AI/RAG] 첫걸음부터 발돋움까지 코드 없이 바로 시작하는 Dify 입문책 추천](https://star7sss.tistory.com/1116) - Jun 21, 2026<br>
 [Star가 되고나서 소개말](https://star7sss.tistory.com/notice/1115) - Jun 12, 2026<br>
@@ -23,4 +24,3 @@
 [[보안] 전자봉투(Digital Envelope) 개념 및 동작원리, 필요성](https://star7sss.tistory.com/1109) - May 25, 2026<br>
 [[보안] TCP Wrapper의 개념 및 접근제어 판단순서, 화이트리스트 설정 방법](https://star7sss.tistory.com/1108) - May 24, 2026<br>
 [[보안] IPsec 핵심 프로토콜(AH, ESP) 및 동작모드(전송, 터널) 살펴보기](https://star7sss.tistory.com/1107) - May 24, 2026<br>
-[[네트워크] 포트 스캐닝(Port Scanning) 개념과 스캔 방식 (TCP Connect, TCP SYN, UDP, FIN, ACK)](https://star7sss.tistory.com/1106) - May 24, 2026<br>
