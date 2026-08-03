@@ -13,6 +13,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[AI] 하네스 엔지니어링(Harness Engineering) 개념 및 원리, AI 에이전트 개발 방법론](https://star7sss.tistory.com/1123) - Aug 02, 2026<br>
 [[AI] Claude Code, 클로드 코드 설치방법 및 간단 활용법, 폴더 지정 권한 설정](https://star7sss.tistory.com/1122) - Aug 01, 2026<br>
 [[프로그래머스] 완전탐색 최소직사각형 파이썬 풀이 (브루드포스 알고리즘)](https://star7sss.tistory.com/1121) - Jul 31, 2026<br>
 [[AI] Codex 바이브코딩 프로젝트 하는 법 (자산 관리 포트폴리오 어플 만들기)](https://star7sss.tistory.com/1120) - Jul 29, 2026<br>
@@ -23,4 +24,3 @@
 [Star가 되고나서 소개말](https://star7sss.tistory.com/notice/1115) - Jun 12, 2026<br>
 [[Tistory] 블로그 닉네임 및 프로필 변경](https://star7sss.tistory.com/1113) - Jun 09, 2026<br>
 [[보안] 업무 연속성 계획(BCP, Business Continuity Planning) 5단계](https://star7sss.tistory.com/1112) - May 25, 2026<br>
-[[OS] 디스크 스케줄링 알고리즘 개념 및 종류 (FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK)](https://star7sss.tistory.com/1111) - May 25, 2026<br>
