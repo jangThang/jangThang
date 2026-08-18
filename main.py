@@ -15,8 +15,6 @@ markdown_text = """## Hello World! 🖐
 
 [![Profile](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://star7sss.tistory.com/pages/profile)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jangThang&show_icons=true)](https://star7sss.tistory.com/)
-
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
