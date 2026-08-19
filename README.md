@@ -11,6 +11,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[개인정보] AI 프라이버시 리스크 관리 모델: AI 개인정보 위험 관리 방법](https://star7sss.tistory.com/1142) - Aug 18, 2026<br>
 [[Project] Amoney Portfolio: 자산관리 투자 포트폴리오 (예적금, 주식, 배당)](https://star7sss.tistory.com/1141) - Aug 17, 2026<br>
 [[AI] 하네스 엔지니어링(Harness Engineering) 개념 및 원리, AI 에이전트 개발 방법론](https://star7sss.tistory.com/1123) - Aug 02, 2026<br>
 [[AI] Claude Code, 클로드 코드 설치방법 및 간단 활용법, 폴더 지정 권한 설정](https://star7sss.tistory.com/1122) - Aug 01, 2026<br>
@@ -21,4 +22,3 @@
 [Star가 되고나서 소개말](https://star7sss.tistory.com/notice/1115) - Jun 12, 2026<br>
 [[Tistory] 블로그 닉네임 및 프로필 변경](https://star7sss.tistory.com/1113) - Jun 09, 2026<br>
 [[보안] 업무 연속성 계획(BCP, Business Continuity Planning) 5단계](https://star7sss.tistory.com/1112) - May 25, 2026<br>
-[[OS] 디스크 스케줄링 알고리즘 개념 및 종류 (FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK)](https://star7sss.tistory.com/1111) - May 25, 2026<br>
