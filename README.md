@@ -11,6 +11,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[Activity] NVIDIA DLI 수료 후기: LLMs를 이용한 애플리케이션 개발](https://star7sss.tistory.com/1149) - Sep 09, 2026<br>
 [[AI] Multi Agent란? Single Agent와 구조 및 차이 알아보기](https://star7sss.tistory.com/1148) - Sep 06, 2026<br>
 [[AI] AI 에이전트(Agent)란? 개념 및 구조, 챗봇과의 차이 알아보기](https://star7sss.tistory.com/1147) - Sep 05, 2026<br>
 [[AI] 무료 LLM 모델 종류 및 특징: gpt-oss, Qwen, Gemma, Llama, DeepSeek](https://star7sss.tistory.com/1146) - Aug 22, 2026<br>
@@ -21,4 +22,3 @@
 [[Project] Amoney Portfolio: 자산관리 투자 포트폴리오 (예적금, 주식, 배당)](https://star7sss.tistory.com/1141) - Aug 17, 2026<br>
 [[AI] 하네스 엔지니어링(Harness Engineering) 개념 및 원리, AI 에이전트 개발 방법론](https://star7sss.tistory.com/1123) - Aug 02, 2026<br>
 [[AI] Claude Code, 클로드 코드 설치방법 및 간단 활용법, 폴더 지정 권한 설정](https://star7sss.tistory.com/1122) - Aug 01, 2026<br>
-[[AI] Codex 바이브코딩 프로젝트 하는 법 (자산 관리 포트폴리오 어플 만들기)](https://star7sss.tistory.com/1120) - Jul 29, 2026<br>
