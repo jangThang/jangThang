@@ -11,6 +11,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[PageEdit 다운로드 및 설치 방법 [Sigil 시길 전자책 Epub 에디터 플러그인]](https://star7sss.tistory.com/1151) - Sep 12, 2026<br>
+[전자책 만들기 무료 프로그램 다운로드 및 설치 방법 [Sigil 시길]](https://star7sss.tistory.com/1150) - Sep 11, 2026<br>
 [[Activity] NVIDIA DLI 수료 후기: LLMs를 이용한 애플리케이션 개발](https://star7sss.tistory.com/1149) - Sep 09, 2026<br>
 [[AI] Multi Agent란? Single Agent와 구조 및 차이 알아보기](https://star7sss.tistory.com/1148) - Sep 06, 2026<br>
 [[AI] AI 에이전트(Agent)란? 개념 및 구조, 챗봇과의 차이 알아보기](https://star7sss.tistory.com/1147) - Sep 05, 2026<br>
@@ -20,5 +22,3 @@
 [[SW] 조달청 정보화사업 발주 과정 알아보기 (사업계획, RFP작성, 과업심의, 제안서평가, 계약)](https://star7sss.tistory.com/1143) - Aug 19, 2026<br>
 [[개인정보] AI 프라이버시 리스크 관리 모델: AI 개인정보 위험 관리 방법](https://star7sss.tistory.com/1142) - Aug 18, 2026<br>
 [[Project] Amoney Portfolio: 자산관리 투자 포트폴리오 (예적금, 주식, 배당)](https://star7sss.tistory.com/1141) - Aug 17, 2026<br>
-[[AI] 하네스 엔지니어링(Harness Engineering) 개념 및 원리, AI 에이전트 개발 방법론](https://star7sss.tistory.com/1123) - Aug 02, 2026<br>
-[[AI] Claude Code, 클로드 코드 설치방법 및 간단 활용법, 폴더 지정 권한 설정](https://star7sss.tistory.com/1122) - Aug 01, 2026<br>
