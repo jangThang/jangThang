@@ -11,6 +11,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star7sss)](https://solved.ac/star7sss)
 
 ## 📋 [Recent blog posts]
+[[OS] 리눅스 특수권한 사용 예시: SUID(passwd), SGID(wall, 공유 폴더), Sticky Bit(tmp)](https://star7sss.tistory.com/1152) - Sep 13, 2026<br>
 [PageEdit 다운로드 및 설치 방법 [Sigil 시길 전자책 Epub 에디터 플러그인]](https://star7sss.tistory.com/1151) - Sep 12, 2026<br>
 [전자책 만들기 무료 프로그램 다운로드 및 설치 방법 [Sigil 시길]](https://star7sss.tistory.com/1150) - Sep 11, 2026<br>
 [[Activity] NVIDIA DLI 수료 후기: LLMs를 이용한 애플리케이션 개발](https://star7sss.tistory.com/1149) - Sep 09, 2026<br>
@@ -21,4 +22,3 @@
 [[AI] MCP(Model Context Protocol)이란? AI 연결 표준 프로토콜 개념 및 구조, 예시](https://star7sss.tistory.com/1144) - Aug 20, 2026<br>
 [[SW] 조달청 정보화사업 발주 과정 알아보기 (사업계획, RFP작성, 과업심의, 제안서평가, 계약)](https://star7sss.tistory.com/1143) - Aug 19, 2026<br>
 [[개인정보] AI 프라이버시 리스크 관리 모델: AI 개인정보 위험 관리 방법](https://star7sss.tistory.com/1142) - Aug 18, 2026<br>
-[[Project] Amoney Portfolio: 자산관리 투자 포트폴리오 (예적금, 주식, 배당)](https://star7sss.tistory.com/1141) - Aug 17, 2026<br>
